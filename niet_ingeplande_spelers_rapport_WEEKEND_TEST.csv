@@ -1,0 +1,265 @@
+week,speler_id,naam,locatie_voorkeur,niveau
+1,1,Claire ,,
+1,2,Elsa vd rijken,TV Osdorp,8.0
+1,3,Jan Erik,Joy Jaagpad,8.0
+1,4,Deborah Ubachs,TV Osdorp,12.0
+1,8,Maud Beltman,TV Osdorp,6.0
+1,22,Stefan Waterlander,TV Osdorp,4.0
+1,52,Secil Egen,TV Osdorp,11.0
+1,54,Michel Taal,TV Osdorp,9.0
+1,57,Hans Pront,Joy Jaagpad,9.0
+1,60,Kris Valstar,TV Osdorp,9.0
+1,66,Li-Sanne Threels,TV Osdorp,10.0
+1,87,Sebastian Joannes,Joy Jaagpad,5.0
+1,100,Sjoerd Raijmans,TV Osdorp,9.0
+1,108,Karlijn Schipper,TV Osdorp,5.0
+1,119,Daan van Beers,Joy Jaagpad,7.0
+1,124,Emine Akdemir,TV Osdorp,12.0
+1,172,Rebecca Hollenberg,TV Osdorp,8.0
+1,174,Fie Hünneman,TV Osdorp,10.0
+1,210,Wesley Pieper,TV Osdorp,10.0
+1,225,Thom Smit,Joy Jaagpad,9.0
+1,232,Dani Tonge,TV Osdorp,8.0
+1,237,Calvin van den Hoven,Joy Jaagpad,9.0
+2,1,Claire ,,
+2,2,Elsa vd rijken,TV Osdorp,8.0
+2,3,Jan Erik,Joy Jaagpad,8.0
+2,4,Deborah Ubachs,TV Osdorp,12.0
+2,8,Maud Beltman,TV Osdorp,6.0
+2,22,Stefan Waterlander,TV Osdorp,4.0
+2,52,Secil Egen,TV Osdorp,11.0
+2,54,Michel Taal,TV Osdorp,9.0
+2,57,Hans Pront,Joy Jaagpad,9.0
+2,60,Kris Valstar,TV Osdorp,9.0
+2,66,Li-Sanne Threels,TV Osdorp,10.0
+2,87,Sebastian Joannes,Joy Jaagpad,5.0
+2,100,Sjoerd Raijmans,TV Osdorp,9.0
+2,108,Karlijn Schipper,TV Osdorp,5.0
+2,119,Daan van Beers,Joy Jaagpad,7.0
+2,124,Emine Akdemir,TV Osdorp,12.0
+2,172,Rebecca Hollenberg,TV Osdorp,8.0
+2,174,Fie Hünneman,TV Osdorp,10.0
+2,210,Wesley Pieper,TV Osdorp,10.0
+2,225,Thom Smit,Joy Jaagpad,9.0
+2,232,Dani Tonge,TV Osdorp,8.0
+2,237,Calvin van den Hoven,Joy Jaagpad,9.0
+3,1,Claire ,,
+3,2,Elsa vd rijken,TV Osdorp,8.0
+3,3,Jan Erik,Joy Jaagpad,8.0
+3,4,Deborah Ubachs,TV Osdorp,12.0
+3,8,Maud Beltman,TV Osdorp,6.0
+3,22,Stefan Waterlander,TV Osdorp,4.0
+3,52,Secil Egen,TV Osdorp,11.0
+3,54,Michel Taal,TV Osdorp,9.0
+3,57,Hans Pront,Joy Jaagpad,9.0
+3,60,Kris Valstar,TV Osdorp,9.0
+3,66,Li-Sanne Threels,TV Osdorp,10.0
+3,87,Sebastian Joannes,Joy Jaagpad,5.0
+3,100,Sjoerd Raijmans,TV Osdorp,9.0
+3,108,Karlijn Schipper,TV Osdorp,5.0
+3,119,Daan van Beers,Joy Jaagpad,7.0
+3,124,Emine Akdemir,TV Osdorp,12.0
+3,172,Rebecca Hollenberg,TV Osdorp,8.0
+3,174,Fie Hünneman,TV Osdorp,10.0
+3,210,Wesley Pieper,TV Osdorp,10.0
+3,225,Thom Smit,Joy Jaagpad,9.0
+3,232,Dani Tonge,TV Osdorp,8.0
+3,237,Calvin van den Hoven,Joy Jaagpad,9.0
+4,1,Claire ,,
+4,2,Elsa vd rijken,TV Osdorp,8.0
+4,3,Jan Erik,Joy Jaagpad,8.0
+4,4,Deborah Ubachs,TV Osdorp,12.0
+4,8,Maud Beltman,TV Osdorp,6.0
+4,22,Stefan Waterlander,TV Osdorp,4.0
+4,52,Secil Egen,TV Osdorp,11.0
+4,54,Michel Taal,TV Osdorp,9.0
+4,57,Hans Pront,Joy Jaagpad,9.0
+4,60,Kris Valstar,TV Osdorp,9.0
+4,66,Li-Sanne Threels,TV Osdorp,10.0
+4,87,Sebastian Joannes,Joy Jaagpad,5.0
+4,100,Sjoerd Raijmans,TV Osdorp,9.0
+4,108,Karlijn Schipper,TV Osdorp,5.0
+4,119,Daan van Beers,Joy Jaagpad,7.0
+4,124,Emine Akdemir,TV Osdorp,12.0
+4,172,Rebecca Hollenberg,TV Osdorp,8.0
+4,174,Fie Hünneman,TV Osdorp,10.0
+4,210,Wesley Pieper,TV Osdorp,10.0
+4,225,Thom Smit,Joy Jaagpad,9.0
+4,232,Dani Tonge,TV Osdorp,8.0
+4,237,Calvin van den Hoven,Joy Jaagpad,9.0
+5,1,Claire ,,
+5,2,Elsa vd rijken,TV Osdorp,8.0
+5,3,Jan Erik,Joy Jaagpad,8.0
+5,4,Deborah Ubachs,TV Osdorp,12.0
+5,8,Maud Beltman,TV Osdorp,6.0
+5,22,Stefan Waterlander,TV Osdorp,4.0
+5,52,Secil Egen,TV Osdorp,11.0
+5,54,Michel Taal,TV Osdorp,9.0
+5,57,Hans Pront,Joy Jaagpad,9.0
+5,60,Kris Valstar,TV Osdorp,9.0
+5,66,Li-Sanne Threels,TV Osdorp,10.0
+5,87,Sebastian Joannes,Joy Jaagpad,5.0
+5,100,Sjoerd Raijmans,TV Osdorp,9.0
+5,108,Karlijn Schipper,TV Osdorp,5.0
+5,119,Daan van Beers,Joy Jaagpad,7.0
+5,124,Emine Akdemir,TV Osdorp,12.0
+5,172,Rebecca Hollenberg,TV Osdorp,8.0
+5,174,Fie Hünneman,TV Osdorp,10.0
+5,210,Wesley Pieper,TV Osdorp,10.0
+5,225,Thom Smit,Joy Jaagpad,9.0
+5,232,Dani Tonge,TV Osdorp,8.0
+5,237,Calvin van den Hoven,Joy Jaagpad,9.0
+6,1,Claire ,,
+6,2,Elsa vd rijken,TV Osdorp,8.0
+6,3,Jan Erik,Joy Jaagpad,8.0
+6,4,Deborah Ubachs,TV Osdorp,12.0
+6,8,Maud Beltman,TV Osdorp,6.0
+6,22,Stefan Waterlander,TV Osdorp,4.0
+6,52,Secil Egen,TV Osdorp,11.0
+6,54,Michel Taal,TV Osdorp,9.0
+6,57,Hans Pront,Joy Jaagpad,9.0
+6,60,Kris Valstar,TV Osdorp,9.0
+6,66,Li-Sanne Threels,TV Osdorp,10.0
+6,87,Sebastian Joannes,Joy Jaagpad,5.0
+6,100,Sjoerd Raijmans,TV Osdorp,9.0
+6,108,Karlijn Schipper,TV Osdorp,5.0
+6,119,Daan van Beers,Joy Jaagpad,7.0
+6,124,Emine Akdemir,TV Osdorp,12.0
+6,172,Rebecca Hollenberg,TV Osdorp,8.0
+6,174,Fie Hünneman,TV Osdorp,10.0
+6,210,Wesley Pieper,TV Osdorp,10.0
+6,225,Thom Smit,Joy Jaagpad,9.0
+6,232,Dani Tonge,TV Osdorp,8.0
+6,237,Calvin van den Hoven,Joy Jaagpad,9.0
+7,1,Claire ,,
+7,2,Elsa vd rijken,TV Osdorp,8.0
+7,3,Jan Erik,Joy Jaagpad,8.0
+7,4,Deborah Ubachs,TV Osdorp,12.0
+7,8,Maud Beltman,TV Osdorp,6.0
+7,22,Stefan Waterlander,TV Osdorp,4.0
+7,52,Secil Egen,TV Osdorp,11.0
+7,54,Michel Taal,TV Osdorp,9.0
+7,57,Hans Pront,Joy Jaagpad,9.0
+7,60,Kris Valstar,TV Osdorp,9.0
+7,66,Li-Sanne Threels,TV Osdorp,10.0
+7,87,Sebastian Joannes,Joy Jaagpad,5.0
+7,100,Sjoerd Raijmans,TV Osdorp,9.0
+7,108,Karlijn Schipper,TV Osdorp,5.0
+7,119,Daan van Beers,Joy Jaagpad,7.0
+7,124,Emine Akdemir,TV Osdorp,12.0
+7,172,Rebecca Hollenberg,TV Osdorp,8.0
+7,174,Fie Hünneman,TV Osdorp,10.0
+7,210,Wesley Pieper,TV Osdorp,10.0
+7,225,Thom Smit,Joy Jaagpad,9.0
+7,232,Dani Tonge,TV Osdorp,8.0
+7,237,Calvin van den Hoven,Joy Jaagpad,9.0
+8,1,Claire ,,
+8,2,Elsa vd rijken,TV Osdorp,8.0
+8,3,Jan Erik,Joy Jaagpad,8.0
+8,4,Deborah Ubachs,TV Osdorp,12.0
+8,8,Maud Beltman,TV Osdorp,6.0
+8,22,Stefan Waterlander,TV Osdorp,4.0
+8,52,Secil Egen,TV Osdorp,11.0
+8,54,Michel Taal,TV Osdorp,9.0
+8,57,Hans Pront,Joy Jaagpad,9.0
+8,60,Kris Valstar,TV Osdorp,9.0
+8,66,Li-Sanne Threels,TV Osdorp,10.0
+8,87,Sebastian Joannes,Joy Jaagpad,5.0
+8,100,Sjoerd Raijmans,TV Osdorp,9.0
+8,108,Karlijn Schipper,TV Osdorp,5.0
+8,119,Daan van Beers,Joy Jaagpad,7.0
+8,124,Emine Akdemir,TV Osdorp,12.0
+8,172,Rebecca Hollenberg,TV Osdorp,8.0
+8,174,Fie Hünneman,TV Osdorp,10.0
+8,210,Wesley Pieper,TV Osdorp,10.0
+8,225,Thom Smit,Joy Jaagpad,9.0
+8,232,Dani Tonge,TV Osdorp,8.0
+8,237,Calvin van den Hoven,Joy Jaagpad,9.0
+9,1,Claire ,,
+9,2,Elsa vd rijken,TV Osdorp,8.0
+9,3,Jan Erik,Joy Jaagpad,8.0
+9,4,Deborah Ubachs,TV Osdorp,12.0
+9,8,Maud Beltman,TV Osdorp,6.0
+9,22,Stefan Waterlander,TV Osdorp,4.0
+9,52,Secil Egen,TV Osdorp,11.0
+9,54,Michel Taal,TV Osdorp,9.0
+9,57,Hans Pront,Joy Jaagpad,9.0
+9,60,Kris Valstar,TV Osdorp,9.0
+9,66,Li-Sanne Threels,TV Osdorp,10.0
+9,87,Sebastian Joannes,Joy Jaagpad,5.0
+9,100,Sjoerd Raijmans,TV Osdorp,9.0
+9,108,Karlijn Schipper,TV Osdorp,5.0
+9,119,Daan van Beers,Joy Jaagpad,7.0
+9,124,Emine Akdemir,TV Osdorp,12.0
+9,172,Rebecca Hollenberg,TV Osdorp,8.0
+9,174,Fie Hünneman,TV Osdorp,10.0
+9,210,Wesley Pieper,TV Osdorp,10.0
+9,225,Thom Smit,Joy Jaagpad,9.0
+9,232,Dani Tonge,TV Osdorp,8.0
+9,237,Calvin van den Hoven,Joy Jaagpad,9.0
+10,1,Claire ,,
+10,2,Elsa vd rijken,TV Osdorp,8.0
+10,3,Jan Erik,Joy Jaagpad,8.0
+10,4,Deborah Ubachs,TV Osdorp,12.0
+10,8,Maud Beltman,TV Osdorp,6.0
+10,22,Stefan Waterlander,TV Osdorp,4.0
+10,52,Secil Egen,TV Osdorp,11.0
+10,54,Michel Taal,TV Osdorp,9.0
+10,57,Hans Pront,Joy Jaagpad,9.0
+10,60,Kris Valstar,TV Osdorp,9.0
+10,66,Li-Sanne Threels,TV Osdorp,10.0
+10,87,Sebastian Joannes,Joy Jaagpad,5.0
+10,100,Sjoerd Raijmans,TV Osdorp,9.0
+10,108,Karlijn Schipper,TV Osdorp,5.0
+10,119,Daan van Beers,Joy Jaagpad,7.0
+10,124,Emine Akdemir,TV Osdorp,12.0
+10,172,Rebecca Hollenberg,TV Osdorp,8.0
+10,174,Fie Hünneman,TV Osdorp,10.0
+10,210,Wesley Pieper,TV Osdorp,10.0
+10,225,Thom Smit,Joy Jaagpad,9.0
+10,232,Dani Tonge,TV Osdorp,8.0
+10,237,Calvin van den Hoven,Joy Jaagpad,9.0
+11,1,Claire ,,
+11,2,Elsa vd rijken,TV Osdorp,8.0
+11,3,Jan Erik,Joy Jaagpad,8.0
+11,4,Deborah Ubachs,TV Osdorp,12.0
+11,8,Maud Beltman,TV Osdorp,6.0
+11,22,Stefan Waterlander,TV Osdorp,4.0
+11,52,Secil Egen,TV Osdorp,11.0
+11,54,Michel Taal,TV Osdorp,9.0
+11,57,Hans Pront,Joy Jaagpad,9.0
+11,60,Kris Valstar,TV Osdorp,9.0
+11,66,Li-Sanne Threels,TV Osdorp,10.0
+11,87,Sebastian Joannes,Joy Jaagpad,5.0
+11,100,Sjoerd Raijmans,TV Osdorp,9.0
+11,108,Karlijn Schipper,TV Osdorp,5.0
+11,119,Daan van Beers,Joy Jaagpad,7.0
+11,124,Emine Akdemir,TV Osdorp,12.0
+11,172,Rebecca Hollenberg,TV Osdorp,8.0
+11,174,Fie Hünneman,TV Osdorp,10.0
+11,210,Wesley Pieper,TV Osdorp,10.0
+11,225,Thom Smit,Joy Jaagpad,9.0
+11,232,Dani Tonge,TV Osdorp,8.0
+11,237,Calvin van den Hoven,Joy Jaagpad,9.0
+12,1,Claire ,,
+12,2,Elsa vd rijken,TV Osdorp,8.0
+12,3,Jan Erik,Joy Jaagpad,8.0
+12,4,Deborah Ubachs,TV Osdorp,12.0
+12,8,Maud Beltman,TV Osdorp,6.0
+12,22,Stefan Waterlander,TV Osdorp,4.0
+12,52,Secil Egen,TV Osdorp,11.0
+12,54,Michel Taal,TV Osdorp,9.0
+12,57,Hans Pront,Joy Jaagpad,9.0
+12,60,Kris Valstar,TV Osdorp,9.0
+12,66,Li-Sanne Threels,TV Osdorp,10.0
+12,87,Sebastian Joannes,Joy Jaagpad,5.0
+12,100,Sjoerd Raijmans,TV Osdorp,9.0
+12,108,Karlijn Schipper,TV Osdorp,5.0
+12,119,Daan van Beers,Joy Jaagpad,7.0
+12,124,Emine Akdemir,TV Osdorp,12.0
+12,172,Rebecca Hollenberg,TV Osdorp,8.0
+12,174,Fie Hünneman,TV Osdorp,10.0
+12,210,Wesley Pieper,TV Osdorp,10.0
+12,225,Thom Smit,Joy Jaagpad,9.0
+12,232,Dani Tonge,TV Osdorp,8.0
+12,237,Calvin van den Hoven,Joy Jaagpad,9.0

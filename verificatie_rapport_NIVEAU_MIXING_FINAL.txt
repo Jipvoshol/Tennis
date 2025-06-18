@@ -1,0 +1,200 @@
+=== PLANNING VERIFICATIE RAPPORT ===
+Datum: 2025-06-12 10:07:17
+Planning bestand: ../trainingsindeling_12_weken_NIVEAU_MIXING_FINAL.csv
+Spelers bestand: ../data/Spelers_Gecombineerd_Handmatig_FIXED.csv
+
+=== STATISTIEKEN ===
+Groepsgroottes:
+  4 spelers: 240 groepen (100.0%)
+
+Genderbalans:
+  Homogeen (4M): 36 groepen (15.0%)
+  Homogeen (4V): 168 groepen (70.0%)
+  Perfect (2M/2V): 36 groepen (15.0%)
+
+Speler beschikbaarheid:
+  Correct ingepland: 960 spelers (100.0%)
+  Onjuist ingepland: 0 spelers (0.0%)
+
+Niveau-compensatie in gemengde groepen (2M/2V):
+  Correcte compensatie (M+1): 12 groepen
+  Geen compensatie (zelfde niveau): 24 groepen
+
+=== RESULTATEN ===
+GEVONDEN FOUTEN: 168
+- Beschikbaarheid fouten: 0
+- Genderbalans fouten: 0
+- Niveau-matching fouten: 168
+- Dubbele inplanning fouten: 0
+- Baanbezetting fouten: 0
+- Andere fouten: 0
+
+Alle fouten:
+1. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag Joy Jaagpad 18:00-19:00 Baan 1
+2. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag Joy Jaagpad 19:00-20:00 Baan 1
+3. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag Joy Jaagpad 19:00-20:00 Baan 3
+4. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag TV Osdorp 18:00-19:00 Baan 1
+5. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag TV Osdorp 18:00-19:00 Baan 3
+6. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag TV Osdorp 19:00-20:00 Baan 1
+7. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Dinsdag TV Osdorp 19:00-20:00 Baan 1
+8. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag Joy Jaagpad 19:00-20:00 Baan 1
+9. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag Joy Jaagpad 19:00-20:00 Baan 2
+10. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag Joy Jaagpad 20:00-21:00 Baan 1
+11. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag Joy Jaagpad 20:00-21:00 Baan 2
+12. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag TV Osdorp 19:00-20:00 Baan 1
+13. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag TV Osdorp 20:00-21:00 Baan 1
+14. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag TV Osdorp 20:00-21:00 Baan 2
+15. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag Joy Jaagpad 18:00-19:00 Baan 1
+16. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag Joy Jaagpad 19:00-20:00 Baan 1
+17. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag Joy Jaagpad 19:00-20:00 Baan 3
+18. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag TV Osdorp 18:00-19:00 Baan 1
+19. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag TV Osdorp 18:00-19:00 Baan 3
+20. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag TV Osdorp 19:00-20:00 Baan 1
+21. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Dinsdag TV Osdorp 19:00-20:00 Baan 1
+22. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag Joy Jaagpad 19:00-20:00 Baan 1
+23. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag Joy Jaagpad 19:00-20:00 Baan 2
+24. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag Joy Jaagpad 20:00-21:00 Baan 1
+25. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag Joy Jaagpad 20:00-21:00 Baan 2
+26. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag TV Osdorp 19:00-20:00 Baan 1
+27. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag TV Osdorp 20:00-21:00 Baan 1
+28. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag TV Osdorp 20:00-21:00 Baan 2
+29. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag Joy Jaagpad 18:00-19:00 Baan 1
+30. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag Joy Jaagpad 19:00-20:00 Baan 1
+31. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag Joy Jaagpad 19:00-20:00 Baan 3
+32. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag TV Osdorp 18:00-19:00 Baan 1
+33. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag TV Osdorp 18:00-19:00 Baan 3
+34. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag TV Osdorp 19:00-20:00 Baan 1
+35. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Dinsdag TV Osdorp 19:00-20:00 Baan 1
+36. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag Joy Jaagpad 19:00-20:00 Baan 1
+37. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag Joy Jaagpad 19:00-20:00 Baan 2
+38. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag Joy Jaagpad 20:00-21:00 Baan 1
+39. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag Joy Jaagpad 20:00-21:00 Baan 2
+40. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag TV Osdorp 19:00-20:00 Baan 1
+41. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag TV Osdorp 20:00-21:00 Baan 1
+42. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag TV Osdorp 20:00-21:00 Baan 2
+43. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag Joy Jaagpad 18:00-19:00 Baan 1
+44. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag Joy Jaagpad 19:00-20:00 Baan 1
+45. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag Joy Jaagpad 19:00-20:00 Baan 3
+46. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag TV Osdorp 18:00-19:00 Baan 1
+47. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag TV Osdorp 18:00-19:00 Baan 3
+48. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag TV Osdorp 19:00-20:00 Baan 1
+49. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Dinsdag TV Osdorp 19:00-20:00 Baan 1
+50. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag Joy Jaagpad 19:00-20:00 Baan 1
+51. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag Joy Jaagpad 19:00-20:00 Baan 2
+52. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag Joy Jaagpad 20:00-21:00 Baan 1
+53. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag Joy Jaagpad 20:00-21:00 Baan 2
+54. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag TV Osdorp 19:00-20:00 Baan 1
+55. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag TV Osdorp 20:00-21:00 Baan 1
+56. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag TV Osdorp 20:00-21:00 Baan 2
+57. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag Joy Jaagpad 18:00-19:00 Baan 1
+58. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag Joy Jaagpad 19:00-20:00 Baan 1
+59. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag Joy Jaagpad 19:00-20:00 Baan 3
+60. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag TV Osdorp 18:00-19:00 Baan 1
+61. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag TV Osdorp 18:00-19:00 Baan 3
+62. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag TV Osdorp 19:00-20:00 Baan 1
+63. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Dinsdag TV Osdorp 19:00-20:00 Baan 1
+64. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag Joy Jaagpad 19:00-20:00 Baan 1
+65. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag Joy Jaagpad 19:00-20:00 Baan 2
+66. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag Joy Jaagpad 20:00-21:00 Baan 1
+67. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag Joy Jaagpad 20:00-21:00 Baan 2
+68. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag TV Osdorp 19:00-20:00 Baan 1
+69. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag TV Osdorp 20:00-21:00 Baan 1
+70. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag TV Osdorp 20:00-21:00 Baan 2
+71. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag Joy Jaagpad 18:00-19:00 Baan 1
+72. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag Joy Jaagpad 19:00-20:00 Baan 1
+73. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag Joy Jaagpad 19:00-20:00 Baan 3
+74. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag TV Osdorp 18:00-19:00 Baan 1
+75. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag TV Osdorp 18:00-19:00 Baan 3
+76. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag TV Osdorp 19:00-20:00 Baan 1
+77. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Dinsdag TV Osdorp 19:00-20:00 Baan 1
+78. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag Joy Jaagpad 19:00-20:00 Baan 1
+79. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag Joy Jaagpad 19:00-20:00 Baan 2
+80. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag Joy Jaagpad 20:00-21:00 Baan 1
+81. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag Joy Jaagpad 20:00-21:00 Baan 2
+82. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag TV Osdorp 19:00-20:00 Baan 1
+83. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag TV Osdorp 20:00-21:00 Baan 1
+84. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag TV Osdorp 20:00-21:00 Baan 2
+85. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag Joy Jaagpad 18:00-19:00 Baan 1
+86. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag Joy Jaagpad 19:00-20:00 Baan 1
+87. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag Joy Jaagpad 19:00-20:00 Baan 3
+88. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag TV Osdorp 18:00-19:00 Baan 1
+89. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag TV Osdorp 18:00-19:00 Baan 3
+90. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag TV Osdorp 19:00-20:00 Baan 1
+91. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Dinsdag TV Osdorp 19:00-20:00 Baan 1
+92. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag Joy Jaagpad 19:00-20:00 Baan 1
+93. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag Joy Jaagpad 19:00-20:00 Baan 2
+94. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag Joy Jaagpad 20:00-21:00 Baan 1
+95. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag Joy Jaagpad 20:00-21:00 Baan 2
+96. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag TV Osdorp 19:00-20:00 Baan 1
+97. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag TV Osdorp 20:00-21:00 Baan 1
+98. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag TV Osdorp 20:00-21:00 Baan 2
+99. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag Joy Jaagpad 18:00-19:00 Baan 1
+100. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag Joy Jaagpad 19:00-20:00 Baan 1
+101. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag Joy Jaagpad 19:00-20:00 Baan 3
+102. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag TV Osdorp 18:00-19:00 Baan 1
+103. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag TV Osdorp 18:00-19:00 Baan 3
+104. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag TV Osdorp 19:00-20:00 Baan 1
+105. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Dinsdag TV Osdorp 19:00-20:00 Baan 1
+106. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag Joy Jaagpad 19:00-20:00 Baan 1
+107. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag Joy Jaagpad 19:00-20:00 Baan 2
+108. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag Joy Jaagpad 20:00-21:00 Baan 1
+109. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag Joy Jaagpad 20:00-21:00 Baan 2
+110. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag TV Osdorp 19:00-20:00 Baan 1
+111. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag TV Osdorp 20:00-21:00 Baan 1
+112. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag TV Osdorp 20:00-21:00 Baan 2
+113. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag Joy Jaagpad 18:00-19:00 Baan 1
+114. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag Joy Jaagpad 19:00-20:00 Baan 1
+115. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag Joy Jaagpad 19:00-20:00 Baan 3
+116. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag TV Osdorp 18:00-19:00 Baan 1
+117. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag TV Osdorp 18:00-19:00 Baan 3
+118. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag TV Osdorp 19:00-20:00 Baan 1
+119. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Dinsdag TV Osdorp 19:00-20:00 Baan 1
+120. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag Joy Jaagpad 19:00-20:00 Baan 1
+121. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag Joy Jaagpad 19:00-20:00 Baan 2
+122. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag Joy Jaagpad 20:00-21:00 Baan 1
+123. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag Joy Jaagpad 20:00-21:00 Baan 2
+124. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag TV Osdorp 19:00-20:00 Baan 1
+125. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag TV Osdorp 20:00-21:00 Baan 1
+126. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag TV Osdorp 20:00-21:00 Baan 2
+127. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag Joy Jaagpad 18:00-19:00 Baan 1
+128. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag Joy Jaagpad 19:00-20:00 Baan 1
+129. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag Joy Jaagpad 19:00-20:00 Baan 3
+130. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag TV Osdorp 18:00-19:00 Baan 1
+131. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag TV Osdorp 18:00-19:00 Baan 3
+132. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag TV Osdorp 19:00-20:00 Baan 1
+133. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Dinsdag TV Osdorp 19:00-20:00 Baan 1
+134. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag Joy Jaagpad 19:00-20:00 Baan 1
+135. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag Joy Jaagpad 19:00-20:00 Baan 2
+136. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag Joy Jaagpad 20:00-21:00 Baan 1
+137. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag Joy Jaagpad 20:00-21:00 Baan 2
+138. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag TV Osdorp 19:00-20:00 Baan 1
+139. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag TV Osdorp 20:00-21:00 Baan 1
+140. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag TV Osdorp 20:00-21:00 Baan 2
+141. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag Joy Jaagpad 18:00-19:00 Baan 1
+142. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag Joy Jaagpad 19:00-20:00 Baan 1
+143. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag Joy Jaagpad 19:00-20:00 Baan 3
+144. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag TV Osdorp 18:00-19:00 Baan 1
+145. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag TV Osdorp 18:00-19:00 Baan 3
+146. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag TV Osdorp 19:00-20:00 Baan 1
+147. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Dinsdag TV Osdorp 19:00-20:00 Baan 1
+148. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag Joy Jaagpad 19:00-20:00 Baan 1
+149. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag Joy Jaagpad 19:00-20:00 Baan 2
+150. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag Joy Jaagpad 20:00-21:00 Baan 1
+151. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag Joy Jaagpad 20:00-21:00 Baan 2
+152. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag TV Osdorp 19:00-20:00 Baan 1
+153. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag TV Osdorp 20:00-21:00 Baan 1
+154. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag TV Osdorp 20:00-21:00 Baan 2
+155. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag Joy Jaagpad 18:00-19:00 Baan 1
+156. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag Joy Jaagpad 19:00-20:00 Baan 1
+157. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag Joy Jaagpad 19:00-20:00 Baan 3
+158. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag TV Osdorp 18:00-19:00 Baan 1
+159. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag TV Osdorp 18:00-19:00 Baan 3
+160. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Maandag TV Osdorp 19:00-20:00 Baan 1
+161. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Dinsdag TV Osdorp 19:00-20:00 Baan 1
+162. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag Joy Jaagpad 19:00-20:00 Baan 1
+163. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag Joy Jaagpad 19:00-20:00 Baan 2
+164. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag Joy Jaagpad 20:00-21:00 Baan 1
+165. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag Joy Jaagpad 20:00-21:00 Baan 2
+166. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag TV Osdorp 19:00-20:00 Baan 1
+167. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag TV Osdorp 20:00-21:00 Baan 1
+168. FOUT: Homogene groep heeft verschillende niveaus (verschil 1) voor training: Woensdag TV Osdorp 20:00-21:00 Baan 2
