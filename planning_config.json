@@ -1,0 +1,189 @@
+{
+    "_comment_general": "=== PLANNINGSALGORITME CONFIGURATIE ===",
+    "_comment_general_2": "Dit bestand bevat alle configureerbare parameters voor het tennis planningsalgoritme.",
+    "_comment_general_3": "Pas de waarden aan naar wens en voer het algoritme opnieuw uit om de effecten te zien.",
+    
+    "score_weights": {
+        "_comment": "SCORINGSGEWICHTEN - Bepaalt de prioriteit van verschillende factoren (hogere waarde = belangrijker)",
+        
+        "samen_met_voorkeuren": 4.0,
+        "_comment_samen_met": "Gewicht voor SamenMet voorkeuren van spelers (HOOGSTE PRIORITEIT). Verhoog voor meer nadruk op voorkeuren.",
+        
+        "gender_ratio": 2.0,
+        "_comment_gender": "Gewicht voor gender balans (2M/2V ideaal)",
+        
+        "level_difference": 3.0,
+        "_comment_level": "Gewicht voor niveau matching",
+        
+        "level_mixing_penalty": 3.0,
+        "_comment_mixing": "Penalty voor niveau-verschillen binnen groepen. VERHOOGD van 2.0 naar 3.0 om grote niveau verschillen te voorkomen.",
+        
+        "leeftijd_matching": 1.0,
+        "_comment_leeftijd": "Gewicht voor leeftijdsgroep matching (LAAGSTE PRIORITEIT). Verhoog voor meer leeftijd homogeniteit.",
+        
+        "same_time_as_previous": 3.5,
+        "_comment_time": "Legacy factor voor tijdsconsistentie",
+        
+        "location_flexibility": 0.5,
+        "_comment_location": "Bonus voor locatie flexibiliteit (minder belangrijk)."
+    },
+    
+    "optimalisatie_instellingen": {
+        "_comment": "OPTIMALISATIE INSTELLINGEN - Controleert hoe het algoritme werkt",
+        
+        "globale_optimalisatie_aan": true,
+        "_comment_globaal": "Schakel globale optimalisatie in/uit. True = betere kwaliteit maar langzamer, False = sneller.",
+        
+        "max_verbeter_iteraties": 10,
+        "_comment_iteraties": "Maximum aantal globale optimalisatie rondes (1-20). Meer = betere kwaliteit maar langzamer.",
+        
+        "min_score_verbetering": 0.1,
+        "_comment_verbetering": "Minimale score verbetering om groep te verplaatsen (0.05-0.5). Lager = meer verfijning.",
+        
+        "minimale_kwaliteitsdrempel": 5.0,
+        "_comment_drempel": "Minimale kwaliteitsscore om groep te accepteren (3.0-7.0). Hoger = strengere kwaliteit.",
+        
+        "max_niveau_verschil": 1,
+        "_comment_niveau_verschil": "Maximum niveau verschil binnen groep (1-2). 1 = strikt, 2 = flexibeler.",
+        
+        "max_kandidaten_per_homogene_groep": 8,
+        "_comment_kandidaten": "Performance instelling: max spelers per groepsvorming (6-12). Hoger = betere kwaliteit maar langzamer.",
+        
+        "excellente_groep_drempel": 9.0,
+        "_comment_excellent": "Score waarbij groep als 'excellent' wordt beschouwd en niet verder geoptimaliseerd",
+        
+        "slechte_groep_drempel": 6.0,
+        "_comment_slecht": "Score waarbij groep als 'slecht' wordt beschouwd voor hersamenstelling",
+        
+        "max_swaps_per_week": 10,
+        "_comment_swaps": "Maximum aantal speler swaps per week tijdens optimalisatie",
+        
+        "max_hersamenstelling_groepen": 5,
+        "_comment_hersamenstelling": "Maximum aantal groepen per week voor hersamenstelling"
+    },
+    
+    "score_limieten": {
+        "_comment": "SCORE LIMIETEN - Maximale punten per categorie en scoring details",
+        
+        "max_samen_met_punten": 4.0,
+        "_comment_max_samen": "Maximum punten voor SamenMet voorkeuren",
+        
+        "max_gender_punten": 2.5,
+        "_comment_max_gender": "Maximum punten voor gender balans",
+        
+        "max_niveau_punten": 2.5,
+        "_comment_max_niveau": "Maximum punten voor niveau matching",
+        
+        "max_leeftijd_punten": 1.0,
+        "_comment_max_leeftijd": "Maximum punten voor leeftijd matching",
+        
+        "max_totaal_score": 10.0,
+        "_comment_max_totaal": "Maximum totaalscore per groep",
+        
+        "neutrale_samen_met_score": 2.0,
+        "_comment_neutraal": "Score wanneer niemand SamenMet voorkeuren heeft",
+        
+        "locatie_flexibiliteit_bonus": 0.1,
+        "_comment_locatie_bonus": "Bonus per speler voor locatie flexibiliteit",
+        
+        "max_locatie_flexibiliteit_bonus": 0.5,
+        "_comment_max_locatie": "Maximum totale locatie flexibiliteit bonus"
+    },
+    
+    "gender_balans_scores": {
+        "_comment": "GENDER BALANS SCORING - Punten voor verschillende gender verdeling",
+        
+        "perfect_balans": 2.5,
+        "_comment_perfect": "Score voor perfecte 2M/2V verdeling",
+        
+        "homogene_groep": 2.0,
+        "_comment_homogeen": "Score voor homogene groep (4M of 4V)",
+        
+        "drie_een_verdeling": 1.0,
+        "_comment_drie_een": "Score voor 3-1 verdeling",
+        
+        "overige_verdeling": 0.5,
+        "_comment_overig": "Score voor andere verdelingen"
+    },
+    
+    "niveau_scores": {
+        "_comment": "NIVEAU MATCHING SCORES - Punten voor niveau homogeniteit",
+        
+        "perfect_niveau_match": 3.0,
+        "_comment_perfect_niveau": "Score wanneer alle spelers exact hetzelfde niveau hebben",
+        
+        "goede_niveau_match": 2.5,
+        "_comment_goed_niveau": "Score wanneer niveau verschil binnen toegestane grens ligt",
+        
+        "slechte_niveau_match": 1.0,
+        "_comment_slecht_niveau": "Score voor groepen met te groot niveau verschil"
+    },
+    
+    "leeftijd_scores": {
+        "_comment": "LEEFTIJD MATCHING SCORES - Punten voor leeftijdshomogeniteit",
+        
+        "een_leeftijdsgroep": 1.0,
+        "_comment_een_groep": "Score wanneer alle spelers in dezelfde leeftijdscategorie vallen",
+        
+        "twee_leeftijdsgroepen": 0.7,
+        "_comment_twee_groepen": "Score wanneer spelers in twee verschillende leeftijdscategorieën vallen",
+        
+        "drie_plus_leeftijdsgroepen": 0.3,
+        "_comment_drie_plus": "Score wanneer spelers in drie of meer leeftijdscategorieën vallen",
+        
+        "onvoldoende_leeftijd_data": 0.5,
+        "_comment_onvoldoende": "Score wanneer leeftijdsdata ontbreekt voor sommige spelers"
+    },
+    
+    "leeftijdsgroepen": {
+        "_comment": "LEEFTIJDSGROEPEN - Definieert leeftijdscategorieën voor matching",
+        
+        "jong": [18, 30],
+        "_comment_jong": "Jonge spelers: 18-30 jaar",
+        
+        "middel": [30, 50],
+        "_comment_middel": "Middelbare leeftijd: 30-50 jaar",
+        
+        "senior": [50, 70],
+        "_comment_senior": "Senior spelers: 50-70 jaar"
+    },
+    
+    "gender_compensatie": {
+        "_comment": "GENDER-NIVEAU COMPENSATIE - Hoe niveau verschillen tussen geslachten gecompenseerd worden",
+        
+        "dame_niveau_bonus": 1,
+        "_comment_bonus": "Dame krijgt +1 niveau bonus (Dame niveau 6 = Heer niveau 7)",
+        
+        "omschrijving": "Dame niveau 6 = Heer niveau 7"
+    },
+    
+    "planning_parameters": {
+        "_comment": "PLANNING PARAMETERS - Basis instellingen van het planningsysteem",
+        
+        "standaard_aantal_weken": 12,
+        "_comment_weken": "Standaard aantal weken om te plannen (kan overschreven worden in code)",
+        
+        "spelers_per_groep": 4,
+        "_comment_groep_grootte": "Aantal spelers per groep",
+        
+        "performance_cutoff_homogeen": 8,
+        "_comment_performance": "Performance instelling voor homogene groepen",
+        
+        "max_combinaties_check": 16,
+        "_comment_combinaties": "Maximum aantal spelers te overwegen voor groepscombinaties (performance)"
+    },
+    
+    "_comment_usage": "=== GEBRUIK INSTRUCTIES ===",
+    "_comment_usage_1": "1. Pas de 'score_weights' aan om prioriteiten te veranderen",
+    "_comment_usage_2": "2. Verhoog 'samen_met_voorkeuren' voor meer focus op speler voorkeuren",
+    "_comment_usage_3": "3. Verhoog 'gender_ratio' voor perfecte 2M/2V groepen",
+    "_comment_usage_4": "4. Verhoog 'level_difference' voor striktere niveau groepering", 
+    "_comment_usage_5": "5. Verhoog 'max_verbeter_iteraties' voor betere kwaliteit (maar langzamer)",
+    "_comment_usage_6": "6. Voer daarna het Python script opnieuw uit om de wijzigingen toe te passen",
+    
+    "_comment_examples": "=== VOORBEELDEN ===",
+    "_comment_example_1": "Voor meer SamenMet focus: zet 'samen_met_voorkeuren' op 6.0",
+    "_comment_example_2": "Voor perfecte gender balans: zet 'gender_ratio' op 5.0", 
+    "_comment_example_3": "Voor snellere uitvoering: zet 'globale_optimalisatie_aan' op false",
+    "_comment_example_4": "Voor betere kwaliteit: zet 'max_verbeter_iteraties' op 20"
+}
