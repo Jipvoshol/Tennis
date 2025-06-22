@@ -1,0 +1,613 @@
+week,day,location,time,baan,group_size,group,speler_ids,niveau,gender_balans,quality_score,legacy,legacy_type
+1,Maandag,Joy Jaagpad,19:00-20:00,Baan 1,4,"Jacob Vlaander, Mike Nieland, Anoek Verdonck, Benthe van Rossem","80,81,33,34",7,Perfect (2M/2V),9.75,True,legacy_gedeeltelijk
+1,Woensdag,Joy Jaagpad,20:00-21:00,Baan 1,4,"Maud Warmerdam, Jeroen Keij, Wouter Neven, Laurien Reinalda","17,20,16,18",8-9 (gemengd),Perfect (2M/2V),10.00,True,legacy_volledig
+1,Maandag,TV Osdorp,20:00-21:00,Baan 1,4,"Karin Bouwmeester, Sylvia Kastein, Niels Hofman, Kirsten Hage","134,178,170,162",8,"Anders (M:1, V:3)",10.00,True,legacy_volledig
+1,Dinsdag,TV Osdorp,19:00-20:00,Baan 1,4,"Mark Roffelsen, Simon Koning, Kevin van loon, Joey Van Straten","216,184,242,248",8-9 (gemengd),Homogeen (4M),10.00,True,legacy_volledig
+1,Dinsdag,TV Osdorp,21:00-22:00,Baan 1,4,"Wesley de Ruig, Erik Maas, Derek Lampe, Kiki Boreel","143,196,189,102",8,"Anders (M:3, V:1)",9.58,True,legacy_gedeeltelijk
+1,Dinsdag,TV Osdorp,21:00-22:00,Baan 2,4,"Elmira Baghery, Lin Rezelman, Moses Sani, Puck van den Bosch","126,213,220,234",8-9 (gemengd),"Anders (M:1, V:3)",10.00,True,legacy_volledig
+1,Woensdag,TV Osdorp,18:00-19:00,Baan 1,4,"Nicolette Gründlehner, Rebecca Hollenberg, Paulien Gonzalez, Charlotte Degenkamp","157,172,156,146",7-8 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+1,Woensdag,TV Osdorp,20:00-21:00,Baan 1,4,"Ruud Onclin, Wim van vuure, Jan Ridder, Merel van der Weijde","207,249,214,32",7,"Anders (M:3, V:1)",9.58,True,legacy_gedeeltelijk
+1,Woensdag,TV Osdorp,21:00-22:00,Baan 1,4,"Lourens Keers, Frits Van Pijkeren, Stijn Lechner, Anton Dodkin","179,245,190,148",7,Homogeen (4M),10.00,True,legacy_volledig
+1,Donderdag,TV Osdorp,20:00-21:00,Baan 1,4,"Roos Reinders, Helena Heno, Puck Garland, Sjoerd Raijmans","212,166,12,100",9,"Anders (M:1, V:3)",9.17,True,legacy_gedeeltelijk
+2,Maandag,Joy Jaagpad,19:00-20:00,Baan 1,4,"Jacob Vlaander, Mike Nieland, Anoek Verdonck, Benthe van Rossem","80,81,33,34",7,Perfect (2M/2V),9.75,True,legacy_gedeeltelijk
+2,Woensdag,Joy Jaagpad,20:00-21:00,Baan 1,4,"Maud Warmerdam, Jeroen Keij, Wouter Neven, Laurien Reinalda","17,20,16,18",8-9 (gemengd),Perfect (2M/2V),10.00,True,legacy_volledig
+2,Maandag,TV Osdorp,20:00-21:00,Baan 1,4,"Karin Bouwmeester, Sylvia Kastein, Niels Hofman, Kirsten Hage","134,178,170,162",8,"Anders (M:1, V:3)",10.00,True,legacy_volledig
+2,Dinsdag,TV Osdorp,19:00-20:00,Baan 1,4,"Mark Roffelsen, Simon Koning, Kevin van loon, Joey Van Straten","216,184,242,248",8-9 (gemengd),Homogeen (4M),10.00,True,legacy_volledig
+2,Dinsdag,TV Osdorp,21:00-22:00,Baan 1,4,"Wesley de Ruig, Erik Maas, Derek Lampe, Kiki Boreel","143,196,189,102",8,"Anders (M:3, V:1)",9.58,True,legacy_gedeeltelijk
+2,Dinsdag,TV Osdorp,21:00-22:00,Baan 2,4,"Elmira Baghery, Lin Rezelman, Moses Sani, Puck van den Bosch","126,213,220,234",8-9 (gemengd),"Anders (M:1, V:3)",10.00,True,legacy_volledig
+2,Woensdag,TV Osdorp,18:00-19:00,Baan 1,4,"Nicolette Gründlehner, Rebecca Hollenberg, Paulien Gonzalez, Charlotte Degenkamp","157,172,156,146",7-8 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+2,Woensdag,TV Osdorp,20:00-21:00,Baan 1,4,"Ruud Onclin, Wim van vuure, Jan Ridder, Merel van der Weijde","207,249,214,32",7,"Anders (M:3, V:1)",9.58,True,legacy_gedeeltelijk
+2,Woensdag,TV Osdorp,21:00-22:00,Baan 1,4,"Lourens Keers, Frits Van Pijkeren, Stijn Lechner, Anton Dodkin","179,245,190,148",7,Homogeen (4M),10.00,True,legacy_volledig
+2,Donderdag,TV Osdorp,20:00-21:00,Baan 1,4,"Roos Reinders, Helena Heno, Puck Garland, Sjoerd Raijmans","212,166,12,100",9,"Anders (M:1, V:3)",9.17,True,legacy_gedeeltelijk
+3,Maandag,Joy Jaagpad,19:00-20:00,Baan 1,4,"Jacob Vlaander, Mike Nieland, Anoek Verdonck, Benthe van Rossem","80,81,33,34",7,Perfect (2M/2V),9.75,True,legacy_gedeeltelijk
+3,Woensdag,Joy Jaagpad,20:00-21:00,Baan 1,4,"Maud Warmerdam, Jeroen Keij, Wouter Neven, Laurien Reinalda","17,20,16,18",8-9 (gemengd),Perfect (2M/2V),10.00,True,legacy_volledig
+3,Maandag,TV Osdorp,20:00-21:00,Baan 1,4,"Karin Bouwmeester, Sylvia Kastein, Niels Hofman, Kirsten Hage","134,178,170,162",8,"Anders (M:1, V:3)",10.00,True,legacy_volledig
+3,Dinsdag,TV Osdorp,19:00-20:00,Baan 1,4,"Mark Roffelsen, Simon Koning, Kevin van loon, Joey Van Straten","216,184,242,248",8-9 (gemengd),Homogeen (4M),10.00,True,legacy_volledig
+3,Dinsdag,TV Osdorp,21:00-22:00,Baan 1,4,"Wesley de Ruig, Erik Maas, Derek Lampe, Kiki Boreel","143,196,189,102",8,"Anders (M:3, V:1)",9.58,True,legacy_gedeeltelijk
+3,Dinsdag,TV Osdorp,21:00-22:00,Baan 2,4,"Elmira Baghery, Lin Rezelman, Moses Sani, Puck van den Bosch","126,213,220,234",8-9 (gemengd),"Anders (M:1, V:3)",10.00,True,legacy_volledig
+3,Woensdag,TV Osdorp,18:00-19:00,Baan 1,4,"Nicolette Gründlehner, Rebecca Hollenberg, Paulien Gonzalez, Charlotte Degenkamp","157,172,156,146",7-8 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+3,Woensdag,TV Osdorp,20:00-21:00,Baan 1,4,"Ruud Onclin, Wim van vuure, Jan Ridder, Merel van der Weijde","207,249,214,32",7,"Anders (M:3, V:1)",9.58,True,legacy_gedeeltelijk
+3,Woensdag,TV Osdorp,21:00-22:00,Baan 1,4,"Lourens Keers, Frits Van Pijkeren, Stijn Lechner, Anton Dodkin","179,245,190,148",7,Homogeen (4M),10.00,True,legacy_volledig
+3,Donderdag,TV Osdorp,20:00-21:00,Baan 1,4,"Roos Reinders, Helena Heno, Puck Garland, Sjoerd Raijmans","212,166,12,100",9,"Anders (M:1, V:3)",9.17,True,legacy_gedeeltelijk
+4,Maandag,Joy Jaagpad,19:00-20:00,Baan 1,4,"Jacob Vlaander, Mike Nieland, Anoek Verdonck, Benthe van Rossem","80,81,33,34",7,Perfect (2M/2V),9.75,True,legacy_gedeeltelijk
+4,Woensdag,Joy Jaagpad,20:00-21:00,Baan 1,4,"Maud Warmerdam, Jeroen Keij, Wouter Neven, Laurien Reinalda","17,20,16,18",8-9 (gemengd),Perfect (2M/2V),10.00,True,legacy_volledig
+4,Maandag,TV Osdorp,20:00-21:00,Baan 1,4,"Karin Bouwmeester, Sylvia Kastein, Niels Hofman, Kirsten Hage","134,178,170,162",8,"Anders (M:1, V:3)",10.00,True,legacy_volledig
+4,Dinsdag,TV Osdorp,19:00-20:00,Baan 1,4,"Mark Roffelsen, Simon Koning, Kevin van loon, Joey Van Straten","216,184,242,248",8-9 (gemengd),Homogeen (4M),10.00,True,legacy_volledig
+4,Dinsdag,TV Osdorp,21:00-22:00,Baan 1,4,"Wesley de Ruig, Erik Maas, Derek Lampe, Kiki Boreel","143,196,189,102",8,"Anders (M:3, V:1)",9.58,True,legacy_gedeeltelijk
+4,Dinsdag,TV Osdorp,21:00-22:00,Baan 2,4,"Elmira Baghery, Lin Rezelman, Moses Sani, Puck van den Bosch","126,213,220,234",8-9 (gemengd),"Anders (M:1, V:3)",10.00,True,legacy_volledig
+4,Woensdag,TV Osdorp,18:00-19:00,Baan 1,4,"Nicolette Gründlehner, Rebecca Hollenberg, Paulien Gonzalez, Charlotte Degenkamp","157,172,156,146",7-8 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+4,Woensdag,TV Osdorp,20:00-21:00,Baan 1,4,"Ruud Onclin, Wim van vuure, Jan Ridder, Merel van der Weijde","207,249,214,32",7,"Anders (M:3, V:1)",9.58,True,legacy_gedeeltelijk
+4,Woensdag,TV Osdorp,21:00-22:00,Baan 1,4,"Lourens Keers, Frits Van Pijkeren, Stijn Lechner, Anton Dodkin","179,245,190,148",7,Homogeen (4M),10.00,True,legacy_volledig
+4,Donderdag,TV Osdorp,20:00-21:00,Baan 1,4,"Roos Reinders, Helena Heno, Puck Garland, Sjoerd Raijmans","212,166,12,100",9,"Anders (M:1, V:3)",9.17,True,legacy_gedeeltelijk
+5,Maandag,Joy Jaagpad,19:00-20:00,Baan 1,4,"Jacob Vlaander, Mike Nieland, Anoek Verdonck, Benthe van Rossem","80,81,33,34",7,Perfect (2M/2V),9.75,True,legacy_gedeeltelijk
+5,Woensdag,Joy Jaagpad,20:00-21:00,Baan 1,4,"Maud Warmerdam, Jeroen Keij, Wouter Neven, Laurien Reinalda","17,20,16,18",8-9 (gemengd),Perfect (2M/2V),10.00,True,legacy_volledig
+5,Maandag,TV Osdorp,20:00-21:00,Baan 1,4,"Karin Bouwmeester, Sylvia Kastein, Niels Hofman, Kirsten Hage","134,178,170,162",8,"Anders (M:1, V:3)",10.00,True,legacy_volledig
+5,Dinsdag,TV Osdorp,19:00-20:00,Baan 1,4,"Mark Roffelsen, Simon Koning, Kevin van loon, Joey Van Straten","216,184,242,248",8-9 (gemengd),Homogeen (4M),10.00,True,legacy_volledig
+5,Dinsdag,TV Osdorp,21:00-22:00,Baan 1,4,"Wesley de Ruig, Erik Maas, Derek Lampe, Kiki Boreel","143,196,189,102",8,"Anders (M:3, V:1)",9.58,True,legacy_gedeeltelijk
+5,Dinsdag,TV Osdorp,21:00-22:00,Baan 2,4,"Elmira Baghery, Lin Rezelman, Moses Sani, Puck van den Bosch","126,213,220,234",8-9 (gemengd),"Anders (M:1, V:3)",10.00,True,legacy_volledig
+5,Woensdag,TV Osdorp,18:00-19:00,Baan 1,4,"Nicolette Gründlehner, Rebecca Hollenberg, Paulien Gonzalez, Charlotte Degenkamp","157,172,156,146",7-8 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+5,Woensdag,TV Osdorp,20:00-21:00,Baan 1,4,"Ruud Onclin, Wim van vuure, Jan Ridder, Merel van der Weijde","207,249,214,32",7,"Anders (M:3, V:1)",9.58,True,legacy_gedeeltelijk
+5,Woensdag,TV Osdorp,21:00-22:00,Baan 1,4,"Lourens Keers, Frits Van Pijkeren, Stijn Lechner, Anton Dodkin","179,245,190,148",7,Homogeen (4M),10.00,True,legacy_volledig
+5,Donderdag,TV Osdorp,20:00-21:00,Baan 1,4,"Roos Reinders, Helena Heno, Puck Garland, Sjoerd Raijmans","212,166,12,100",9,"Anders (M:1, V:3)",9.17,True,legacy_gedeeltelijk
+6,Maandag,Joy Jaagpad,19:00-20:00,Baan 1,4,"Jacob Vlaander, Mike Nieland, Anoek Verdonck, Benthe van Rossem","80,81,33,34",7,Perfect (2M/2V),9.75,True,legacy_gedeeltelijk
+6,Woensdag,Joy Jaagpad,20:00-21:00,Baan 1,4,"Maud Warmerdam, Jeroen Keij, Wouter Neven, Laurien Reinalda","17,20,16,18",8-9 (gemengd),Perfect (2M/2V),10.00,True,legacy_volledig
+6,Maandag,TV Osdorp,20:00-21:00,Baan 1,4,"Karin Bouwmeester, Sylvia Kastein, Niels Hofman, Kirsten Hage","134,178,170,162",8,"Anders (M:1, V:3)",10.00,True,legacy_volledig
+6,Dinsdag,TV Osdorp,19:00-20:00,Baan 1,4,"Mark Roffelsen, Simon Koning, Kevin van loon, Joey Van Straten","216,184,242,248",8-9 (gemengd),Homogeen (4M),10.00,True,legacy_volledig
+6,Dinsdag,TV Osdorp,21:00-22:00,Baan 1,4,"Wesley de Ruig, Erik Maas, Derek Lampe, Kiki Boreel","143,196,189,102",8,"Anders (M:3, V:1)",9.58,True,legacy_gedeeltelijk
+6,Dinsdag,TV Osdorp,21:00-22:00,Baan 2,4,"Elmira Baghery, Lin Rezelman, Moses Sani, Puck van den Bosch","126,213,220,234",8-9 (gemengd),"Anders (M:1, V:3)",10.00,True,legacy_volledig
+6,Woensdag,TV Osdorp,18:00-19:00,Baan 1,4,"Nicolette Gründlehner, Rebecca Hollenberg, Paulien Gonzalez, Charlotte Degenkamp","157,172,156,146",7-8 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+6,Woensdag,TV Osdorp,20:00-21:00,Baan 1,4,"Ruud Onclin, Wim van vuure, Jan Ridder, Merel van der Weijde","207,249,214,32",7,"Anders (M:3, V:1)",9.58,True,legacy_gedeeltelijk
+6,Woensdag,TV Osdorp,21:00-22:00,Baan 1,4,"Lourens Keers, Frits Van Pijkeren, Stijn Lechner, Anton Dodkin","179,245,190,148",7,Homogeen (4M),10.00,True,legacy_volledig
+6,Donderdag,TV Osdorp,20:00-21:00,Baan 1,4,"Roos Reinders, Helena Heno, Puck Garland, Sjoerd Raijmans","212,166,12,100",9,"Anders (M:1, V:3)",9.17,True,legacy_gedeeltelijk
+7,Maandag,Joy Jaagpad,19:00-20:00,Baan 1,4,"Jacob Vlaander, Mike Nieland, Anoek Verdonck, Benthe van Rossem","80,81,33,34",7,Perfect (2M/2V),9.75,True,legacy_gedeeltelijk
+7,Woensdag,Joy Jaagpad,20:00-21:00,Baan 1,4,"Maud Warmerdam, Jeroen Keij, Wouter Neven, Laurien Reinalda","17,20,16,18",8-9 (gemengd),Perfect (2M/2V),10.00,True,legacy_volledig
+7,Maandag,TV Osdorp,20:00-21:00,Baan 1,4,"Karin Bouwmeester, Sylvia Kastein, Niels Hofman, Kirsten Hage","134,178,170,162",8,"Anders (M:1, V:3)",10.00,True,legacy_volledig
+7,Dinsdag,TV Osdorp,19:00-20:00,Baan 1,4,"Mark Roffelsen, Simon Koning, Kevin van loon, Joey Van Straten","216,184,242,248",8-9 (gemengd),Homogeen (4M),10.00,True,legacy_volledig
+7,Dinsdag,TV Osdorp,21:00-22:00,Baan 1,4,"Wesley de Ruig, Erik Maas, Derek Lampe, Kiki Boreel","143,196,189,102",8,"Anders (M:3, V:1)",9.58,True,legacy_gedeeltelijk
+7,Dinsdag,TV Osdorp,21:00-22:00,Baan 2,4,"Elmira Baghery, Lin Rezelman, Moses Sani, Puck van den Bosch","126,213,220,234",8-9 (gemengd),"Anders (M:1, V:3)",10.00,True,legacy_volledig
+7,Woensdag,TV Osdorp,18:00-19:00,Baan 1,4,"Nicolette Gründlehner, Rebecca Hollenberg, Paulien Gonzalez, Charlotte Degenkamp","157,172,156,146",7-8 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+7,Woensdag,TV Osdorp,20:00-21:00,Baan 1,4,"Ruud Onclin, Wim van vuure, Jan Ridder, Merel van der Weijde","207,249,214,32",7,"Anders (M:3, V:1)",9.58,True,legacy_gedeeltelijk
+7,Woensdag,TV Osdorp,21:00-22:00,Baan 1,4,"Lourens Keers, Frits Van Pijkeren, Stijn Lechner, Anton Dodkin","179,245,190,148",7,Homogeen (4M),10.00,True,legacy_volledig
+7,Donderdag,TV Osdorp,20:00-21:00,Baan 1,4,"Roos Reinders, Helena Heno, Puck Garland, Sjoerd Raijmans","212,166,12,100",9,"Anders (M:1, V:3)",9.17,True,legacy_gedeeltelijk
+8,Maandag,Joy Jaagpad,19:00-20:00,Baan 1,4,"Jacob Vlaander, Mike Nieland, Anoek Verdonck, Benthe van Rossem","80,81,33,34",7,Perfect (2M/2V),9.75,True,legacy_gedeeltelijk
+8,Woensdag,Joy Jaagpad,20:00-21:00,Baan 1,4,"Maud Warmerdam, Jeroen Keij, Wouter Neven, Laurien Reinalda","17,20,16,18",8-9 (gemengd),Perfect (2M/2V),10.00,True,legacy_volledig
+8,Maandag,TV Osdorp,20:00-21:00,Baan 1,4,"Karin Bouwmeester, Sylvia Kastein, Niels Hofman, Kirsten Hage","134,178,170,162",8,"Anders (M:1, V:3)",10.00,True,legacy_volledig
+8,Dinsdag,TV Osdorp,19:00-20:00,Baan 1,4,"Mark Roffelsen, Simon Koning, Kevin van loon, Joey Van Straten","216,184,242,248",8-9 (gemengd),Homogeen (4M),10.00,True,legacy_volledig
+8,Dinsdag,TV Osdorp,21:00-22:00,Baan 1,4,"Wesley de Ruig, Erik Maas, Derek Lampe, Kiki Boreel","143,196,189,102",8,"Anders (M:3, V:1)",9.58,True,legacy_gedeeltelijk
+8,Dinsdag,TV Osdorp,21:00-22:00,Baan 2,4,"Elmira Baghery, Lin Rezelman, Moses Sani, Puck van den Bosch","126,213,220,234",8-9 (gemengd),"Anders (M:1, V:3)",10.00,True,legacy_volledig
+8,Woensdag,TV Osdorp,18:00-19:00,Baan 1,4,"Nicolette Gründlehner, Rebecca Hollenberg, Paulien Gonzalez, Charlotte Degenkamp","157,172,156,146",7-8 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+8,Woensdag,TV Osdorp,20:00-21:00,Baan 1,4,"Ruud Onclin, Wim van vuure, Jan Ridder, Merel van der Weijde","207,249,214,32",7,"Anders (M:3, V:1)",9.58,True,legacy_gedeeltelijk
+8,Woensdag,TV Osdorp,21:00-22:00,Baan 1,4,"Lourens Keers, Frits Van Pijkeren, Stijn Lechner, Anton Dodkin","179,245,190,148",7,Homogeen (4M),10.00,True,legacy_volledig
+8,Donderdag,TV Osdorp,20:00-21:00,Baan 1,4,"Roos Reinders, Helena Heno, Puck Garland, Sjoerd Raijmans","212,166,12,100",9,"Anders (M:1, V:3)",9.17,True,legacy_gedeeltelijk
+9,Maandag,Joy Jaagpad,19:00-20:00,Baan 1,4,"Jacob Vlaander, Mike Nieland, Anoek Verdonck, Benthe van Rossem","80,81,33,34",7,Perfect (2M/2V),9.75,True,legacy_gedeeltelijk
+9,Woensdag,Joy Jaagpad,20:00-21:00,Baan 1,4,"Maud Warmerdam, Jeroen Keij, Wouter Neven, Laurien Reinalda","17,20,16,18",8-9 (gemengd),Perfect (2M/2V),10.00,True,legacy_volledig
+9,Maandag,TV Osdorp,20:00-21:00,Baan 1,4,"Karin Bouwmeester, Sylvia Kastein, Niels Hofman, Kirsten Hage","134,178,170,162",8,"Anders (M:1, V:3)",10.00,True,legacy_volledig
+9,Dinsdag,TV Osdorp,19:00-20:00,Baan 1,4,"Mark Roffelsen, Simon Koning, Kevin van loon, Joey Van Straten","216,184,242,248",8-9 (gemengd),Homogeen (4M),10.00,True,legacy_volledig
+9,Dinsdag,TV Osdorp,21:00-22:00,Baan 1,4,"Wesley de Ruig, Erik Maas, Derek Lampe, Kiki Boreel","143,196,189,102",8,"Anders (M:3, V:1)",9.58,True,legacy_gedeeltelijk
+9,Dinsdag,TV Osdorp,21:00-22:00,Baan 2,4,"Elmira Baghery, Lin Rezelman, Moses Sani, Puck van den Bosch","126,213,220,234",8-9 (gemengd),"Anders (M:1, V:3)",10.00,True,legacy_volledig
+9,Woensdag,TV Osdorp,18:00-19:00,Baan 1,4,"Nicolette Gründlehner, Rebecca Hollenberg, Paulien Gonzalez, Charlotte Degenkamp","157,172,156,146",7-8 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+9,Woensdag,TV Osdorp,20:00-21:00,Baan 1,4,"Ruud Onclin, Wim van vuure, Jan Ridder, Merel van der Weijde","207,249,214,32",7,"Anders (M:3, V:1)",9.58,True,legacy_gedeeltelijk
+9,Woensdag,TV Osdorp,21:00-22:00,Baan 1,4,"Lourens Keers, Frits Van Pijkeren, Stijn Lechner, Anton Dodkin","179,245,190,148",7,Homogeen (4M),10.00,True,legacy_volledig
+9,Donderdag,TV Osdorp,20:00-21:00,Baan 1,4,"Roos Reinders, Helena Heno, Puck Garland, Sjoerd Raijmans","212,166,12,100",9,"Anders (M:1, V:3)",9.17,True,legacy_gedeeltelijk
+10,Maandag,Joy Jaagpad,19:00-20:00,Baan 1,4,"Jacob Vlaander, Mike Nieland, Anoek Verdonck, Benthe van Rossem","80,81,33,34",7,Perfect (2M/2V),9.75,True,legacy_gedeeltelijk
+10,Woensdag,Joy Jaagpad,20:00-21:00,Baan 1,4,"Maud Warmerdam, Jeroen Keij, Wouter Neven, Laurien Reinalda","17,20,16,18",8-9 (gemengd),Perfect (2M/2V),10.00,True,legacy_volledig
+10,Maandag,TV Osdorp,20:00-21:00,Baan 1,4,"Karin Bouwmeester, Sylvia Kastein, Niels Hofman, Kirsten Hage","134,178,170,162",8,"Anders (M:1, V:3)",10.00,True,legacy_volledig
+10,Dinsdag,TV Osdorp,19:00-20:00,Baan 1,4,"Mark Roffelsen, Simon Koning, Kevin van loon, Joey Van Straten","216,184,242,248",8-9 (gemengd),Homogeen (4M),10.00,True,legacy_volledig
+10,Dinsdag,TV Osdorp,21:00-22:00,Baan 1,4,"Wesley de Ruig, Erik Maas, Derek Lampe, Kiki Boreel","143,196,189,102",8,"Anders (M:3, V:1)",9.58,True,legacy_gedeeltelijk
+10,Dinsdag,TV Osdorp,21:00-22:00,Baan 2,4,"Elmira Baghery, Lin Rezelman, Moses Sani, Puck van den Bosch","126,213,220,234",8-9 (gemengd),"Anders (M:1, V:3)",10.00,True,legacy_volledig
+10,Woensdag,TV Osdorp,18:00-19:00,Baan 1,4,"Nicolette Gründlehner, Rebecca Hollenberg, Paulien Gonzalez, Charlotte Degenkamp","157,172,156,146",7-8 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+10,Woensdag,TV Osdorp,20:00-21:00,Baan 1,4,"Ruud Onclin, Wim van vuure, Jan Ridder, Merel van der Weijde","207,249,214,32",7,"Anders (M:3, V:1)",9.58,True,legacy_gedeeltelijk
+10,Woensdag,TV Osdorp,21:00-22:00,Baan 1,4,"Lourens Keers, Frits Van Pijkeren, Stijn Lechner, Anton Dodkin","179,245,190,148",7,Homogeen (4M),10.00,True,legacy_volledig
+10,Donderdag,TV Osdorp,20:00-21:00,Baan 1,4,"Roos Reinders, Helena Heno, Puck Garland, Sjoerd Raijmans","212,166,12,100",9,"Anders (M:1, V:3)",9.17,True,legacy_gedeeltelijk
+11,Maandag,Joy Jaagpad,19:00-20:00,Baan 1,4,"Jacob Vlaander, Mike Nieland, Anoek Verdonck, Benthe van Rossem","80,81,33,34",7,Perfect (2M/2V),9.75,True,legacy_gedeeltelijk
+11,Woensdag,Joy Jaagpad,20:00-21:00,Baan 1,4,"Maud Warmerdam, Jeroen Keij, Wouter Neven, Laurien Reinalda","17,20,16,18",8-9 (gemengd),Perfect (2M/2V),10.00,True,legacy_volledig
+11,Maandag,TV Osdorp,20:00-21:00,Baan 1,4,"Karin Bouwmeester, Sylvia Kastein, Niels Hofman, Kirsten Hage","134,178,170,162",8,"Anders (M:1, V:3)",10.00,True,legacy_volledig
+11,Dinsdag,TV Osdorp,19:00-20:00,Baan 1,4,"Mark Roffelsen, Simon Koning, Kevin van loon, Joey Van Straten","216,184,242,248",8-9 (gemengd),Homogeen (4M),10.00,True,legacy_volledig
+11,Dinsdag,TV Osdorp,21:00-22:00,Baan 1,4,"Wesley de Ruig, Erik Maas, Derek Lampe, Kiki Boreel","143,196,189,102",8,"Anders (M:3, V:1)",9.58,True,legacy_gedeeltelijk
+11,Dinsdag,TV Osdorp,21:00-22:00,Baan 2,4,"Elmira Baghery, Lin Rezelman, Moses Sani, Puck van den Bosch","126,213,220,234",8-9 (gemengd),"Anders (M:1, V:3)",10.00,True,legacy_volledig
+11,Woensdag,TV Osdorp,18:00-19:00,Baan 1,4,"Nicolette Gründlehner, Rebecca Hollenberg, Paulien Gonzalez, Charlotte Degenkamp","157,172,156,146",7-8 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+11,Woensdag,TV Osdorp,20:00-21:00,Baan 1,4,"Ruud Onclin, Wim van vuure, Jan Ridder, Merel van der Weijde","207,249,214,32",7,"Anders (M:3, V:1)",9.58,True,legacy_gedeeltelijk
+11,Woensdag,TV Osdorp,21:00-22:00,Baan 1,4,"Lourens Keers, Frits Van Pijkeren, Stijn Lechner, Anton Dodkin","179,245,190,148",7,Homogeen (4M),10.00,True,legacy_volledig
+11,Donderdag,TV Osdorp,20:00-21:00,Baan 1,4,"Roos Reinders, Helena Heno, Puck Garland, Sjoerd Raijmans","212,166,12,100",9,"Anders (M:1, V:3)",9.17,True,legacy_gedeeltelijk
+12,Maandag,Joy Jaagpad,19:00-20:00,Baan 1,4,"Jacob Vlaander, Mike Nieland, Anoek Verdonck, Benthe van Rossem","80,81,33,34",7,Perfect (2M/2V),9.75,True,legacy_gedeeltelijk
+12,Woensdag,Joy Jaagpad,20:00-21:00,Baan 1,4,"Maud Warmerdam, Jeroen Keij, Wouter Neven, Laurien Reinalda","17,20,16,18",8-9 (gemengd),Perfect (2M/2V),10.00,True,legacy_volledig
+12,Maandag,TV Osdorp,20:00-21:00,Baan 1,4,"Karin Bouwmeester, Sylvia Kastein, Niels Hofman, Kirsten Hage","134,178,170,162",8,"Anders (M:1, V:3)",10.00,True,legacy_volledig
+12,Dinsdag,TV Osdorp,19:00-20:00,Baan 1,4,"Mark Roffelsen, Simon Koning, Kevin van loon, Joey Van Straten","216,184,242,248",8-9 (gemengd),Homogeen (4M),10.00,True,legacy_volledig
+12,Dinsdag,TV Osdorp,21:00-22:00,Baan 1,4,"Wesley de Ruig, Erik Maas, Derek Lampe, Kiki Boreel","143,196,189,102",8,"Anders (M:3, V:1)",9.58,True,legacy_gedeeltelijk
+12,Dinsdag,TV Osdorp,21:00-22:00,Baan 2,4,"Elmira Baghery, Lin Rezelman, Moses Sani, Puck van den Bosch","126,213,220,234",8-9 (gemengd),"Anders (M:1, V:3)",10.00,True,legacy_volledig
+12,Woensdag,TV Osdorp,18:00-19:00,Baan 1,4,"Nicolette Gründlehner, Rebecca Hollenberg, Paulien Gonzalez, Charlotte Degenkamp","157,172,156,146",7-8 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+12,Woensdag,TV Osdorp,20:00-21:00,Baan 1,4,"Ruud Onclin, Wim van vuure, Jan Ridder, Merel van der Weijde","207,249,214,32",7,"Anders (M:3, V:1)",9.58,True,legacy_gedeeltelijk
+12,Woensdag,TV Osdorp,21:00-22:00,Baan 1,4,"Lourens Keers, Frits Van Pijkeren, Stijn Lechner, Anton Dodkin","179,245,190,148",7,Homogeen (4M),10.00,True,legacy_volledig
+12,Donderdag,TV Osdorp,20:00-21:00,Baan 1,4,"Roos Reinders, Helena Heno, Puck Garland, Sjoerd Raijmans","212,166,12,100",9,"Anders (M:1, V:3)",9.17,True,legacy_gedeeltelijk
+1,Maandag,Joy Jaagpad,18:00-19:00,Baan 1,4,"Lotte Bruinink, Sanne van Amerongen, Jovanna Koens, Rosa Bent","42,93,68,82",6-7 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+1,Maandag,Joy Jaagpad,18:00-19:00,Baan 2,4,"Josephine Berger, Diana Aragon, Jip Nooitgedacht, Malou van Oosterhoud","70,77,85,118",8,Homogeen (4V),9.83,True,legacy_gedeeltelijk
+1,Maandag,Joy Jaagpad,18:00-19:00,Baan 3,4,"Jeroen Glebbeek, Daan Van Apeldoorn, Noud Gabel, Emile Röell","71,101,69,103",7-8 (gemengd),Homogeen (4M),9.17,True,legacy_gedeeltelijk
+1,Maandag,Joy Jaagpad,19:00-20:00,Baan 1,4,"Denise de Vor, Kristie Lek, Juliette Eulderink, Sophie Poorthuis","94,95,92,111",6-7 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+1,Woensdag,TV Osdorp,19:00-20:00,Baan 3,4,"Merel Vrolijk, Liduine Kampschöer, Annefien Nieuwenhuis, Ming de Jong","40,41,13,99",7-8 (gemengd),Homogeen (4V),5.50,False,
+1,Maandag,TV Osdorp,18:00-19:00,Baan 1,4,"Lennart Van Roeden, Bart Blaauw, Chris Endhoven, Francis Hoogenboom","123,131,151,173",7,Homogeen (4M),10.00,True,legacy_volledig
+1,Maandag,TV Osdorp,18:00-19:00,Baan 2,4,"Marleen Ceton, Jennifer Daarnhouwer, Yvonne de Meij van Streefkerk, Merel Eekman","136,138,142,150",7,Homogeen (4V),10.00,True,legacy_volledig
+1,Maandag,TV Osdorp,18:00-19:00,Baan 3,4,"Debby Collignon, Eefke de Vos, Josien Duijzer, Britt Faber","137,144,149,152",8,Homogeen (4V),10.00,True,legacy_volledig
+1,Maandag,TV Osdorp,19:00-20:00,Baan 1,4,"Peter Kniest, Jose Meulemans, Thomas Been, Fernando Gomez","182,200,128,155",7-8 (gemengd),Homogeen (4M),10.00,True,legacy_volledig
+1,Maandag,TV Osdorp,19:00-20:00,Baan 2,4,"Monique De meijer, Isabel Harlaar, Camilla Harvey, Shireen Keijzer","79,163,164,180",8,Homogeen (4V),10.00,True,legacy_volledig
+1,Maandag,TV Osdorp,19:00-20:00,Baan 3,4,"Rivka Nieuwenhuizen, Marieke Rodenhuis, Maaike Stoffels, Loes Stoltenborg","203,215,229,230",8,Homogeen (4V),10.00,True,legacy_volledig
+1,Maandag,TV Osdorp,20:00-21:00,Baan 1,4,"Fern Van Nassauw, Noelle van Rens, Romy Boiten, Fien de Kok","243,246,133,141",8-9 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+1,Maandag,TV Osdorp,20:00-21:00,Baan 2,4,"Laura Haakman, Anna Herter, Jana Hofmann, Thamar Lambregtse","161,167,171,188",9,Homogeen (4V),10.00,True,legacy_volledig
+1,Maandag,TV Osdorp,20:00-21:00,Baan 3,4,"Stefan Waterlander, Mark van Ginkel, Stef Geven, Thijs Geven","22,23,24,25",4,Homogeen (4M),9.83,True,legacy_gedeeltelijk
+1,Maandag,TV Osdorp,21:00-22:00,Baan 1,4,"Roland Kraaijpoel, Vivek Narayanan, Maik Oud, Mehmet Sabuncu","186,202,209,218",8,Homogeen (4M),10.00,True,legacy_volledig
+1,Maandag,TV Osdorp,21:00-22:00,Baan 2,4,"Paloma Nijsse, Rianne Oosterbeek, Mariell Fingal, Fie Hünneman","204,208,153,174",9-10 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+1,Dinsdag,Joy Jaagpad,19:00-20:00,Baan 1,4,"Hanne van der Veen, Martine Röell, Rebecca Van der Weerdt, Marit Bosselaar","11,21,5,107",5-6 (gemengd),Homogeen (4V),5.50,False,
+1,Dinsdag,TV Osdorp,18:00-19:00,Baan 1,4,"Christian Best, Robbert Slim, Karel van Gelder, Willem van Ingen","129,224,239,241",7,Homogeen (4M),10.00,True,legacy_volledig
+1,Dinsdag,TV Osdorp,18:00-19:00,Baan 2,4,"Eerke Steller, Lotte Brouwer, Vanessa Kuiper, Marjon Sanders","116,135,187,219",7,Homogeen (4V),10.00,True,legacy_volledig
+1,Dinsdag,TV Osdorp,18:00-19:00,Baan 3,4,"Eline Beukers, Diana Lupandina, Anne-Rose Lynch, Dongok Moon","130,194,195,201",8,Homogeen (4V),10.00,True,legacy_volledig
+1,Dinsdag,TV Osdorp,19:00-20:00,Baan 1,4,"Danny de Kinderen, Gertjan de Vries, Rahoel Guman, Julian Hiraki","139,145,160,168",8,Homogeen (4M),10.00,True,legacy_volledig
+1,Dinsdag,TV Osdorp,19:00-20:00,Baan 2,4,"Kristel Dodde, Hanna Sung, Wendy van Heeswijk, Joyce van Weering","58,231,240,250",8,Homogeen (4V),9.83,True,legacy_gedeeltelijk
+1,Dinsdag,TV Osdorp,19:00-20:00,Baan 3,4,"Rosa Huetink, Nikkie Poelmann, Duygu Manav, Angelique Slager","62,64,198,223",8-9 (gemengd),Homogeen (4V),9.17,True,legacy_gedeeltelijk
+1,Dinsdag,TV Osdorp,20:00-21:00,Baan 1,4,"Sietho Idsinga, Dave Koekkoek, Aytac Manav, Matthew O Shea","175,183,197,205",8,Homogeen (4M),10.00,True,legacy_volledig
+1,Dinsdag,TV Osdorp,20:00-21:00,Baan 2,4,"Maartje Herweijer, Fleur Jansen, Larissa de Vor, Laura Taal","28,36,35,90",7-8 (gemengd),Homogeen (4V),5.50,False,
+1,Dinsdag,TV Osdorp,21:00-22:00,Baan 1,4,"Giuseppe Procaccianti, Tom van de Vrede, Anton van den Broek, Bowi van Onna","211,233,236,244",8,Homogeen (4M),10.00,True,legacy_volledig
+1,Woensdag,Joy Jaagpad,19:00-20:00,Baan 1,4,"Quirine Dechesne, Ellen Coppens, Suzanne Huyskes, Lisanne Scheffens","29,30,7,47",5-6 (gemengd),Homogeen (4V),9.17,True,legacy_gedeeltelijk
+1,Woensdag,Joy Jaagpad,19:00-20:00,Baan 2,4,"Christian van paridon, Jeroen Roffel, Daan van Beers, Sebastiaan van den Brink","49,97,119,235",7,Homogeen (4M),5.00,False,
+1,Woensdag,Joy Jaagpad,19:00-20:00,Baan 3,4,"Maxine Schultz, Pascale Schafrat, Nienke Bliek, Madeleine Versteeg","15,114,84,112",7-8 (gemengd),Homogeen (4V),9.17,False,
+1,Woensdag,TV Osdorp,18:00-19:00,Baan 1,4,"Henry Anijs, Josh Goldman, Nihad Hassani, Marcio Ikeda","125,154,165,176",9,Homogeen (4M),10.00,True,legacy_volledig
+1,Woensdag,TV Osdorp,18:00-19:00,Baan 2,4,"Corinne Spijker, Eveline Spijker, Justine Kist, Milli Levendag","227,228,14,192",7-8 (gemengd),Homogeen (4V),9.17,True,legacy_gedeeltelijk
+1,Woensdag,TV Osdorp,19:00-20:00,Baan 1,4,"Coen van der Pas, Laurens de Knijff, Marcel Ruitenberg, Ruben van Schoonneveldt","44,140,217,247",7,Homogeen (4M),9.83,True,legacy_gedeeltelijk
+1,Woensdag,TV Osdorp,19:00-20:00,Baan 2,4,"Rianne de Wit, Kristin Wahle, Tessa Schop, Annemijn van Beers","46,48,45,120",7,Homogeen (4V),9.00,False,
+1,Woensdag,TV Osdorp,20:00-21:00,Baan 1,4,"Qasim Khan, Bastiaan Kraaijenbrink, Thom Lunshof, Manuel Martinez","181,185,193,199",9,Homogeen (4M),10.00,True,legacy_volledig
+1,Woensdag,TV Osdorp,20:00-21:00,Baan 2,4,"Thom Smit, Calvin van den Hoven, Tessa VAN schie Proost, Claudia Bouw","225,237,38,78",8-9 (gemengd),Perfect (2M/2V),9.00,True,legacy_gedeeltelijk
+1,Woensdag,TV Osdorp,21:00-22:00,Baan 1,4,"Marcel Jonker, Manuel Vester, Thomas De Vries, Martijn Kicken","10,96,104,106",6,Homogeen (4M),5.00,False,
+1,Donderdag,TV Osdorp,20:00-21:00,Baan 1,4,"Jan-Jaap ten Have, Gregor O'Gorman, Bo Hitzert, Dani Tonge","110,206,72,232",8,Perfect (2M/2V),9.50,True,legacy_gedeeltelijk
+2,Maandag,Joy Jaagpad,18:00-19:00,Baan 1,4,"Lotte Bruinink, Sanne van Amerongen, Jovanna Koens, Rosa Bent","42,93,68,82",6-7 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+2,Maandag,Joy Jaagpad,18:00-19:00,Baan 2,4,"Josephine Berger, Diana Aragon, Jip Nooitgedacht, Malou van Oosterhoud","70,77,85,118",8,Homogeen (4V),9.83,True,legacy_gedeeltelijk
+2,Maandag,Joy Jaagpad,18:00-19:00,Baan 3,4,"Jeroen Glebbeek, Daan Van Apeldoorn, Noud Gabel, Emile Röell","71,101,69,103",7-8 (gemengd),Homogeen (4M),9.17,True,legacy_gedeeltelijk
+2,Maandag,Joy Jaagpad,19:00-20:00,Baan 1,4,"Denise de Vor, Kristie Lek, Juliette Eulderink, Sophie Poorthuis","94,95,92,111",6-7 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+2,Woensdag,TV Osdorp,19:00-20:00,Baan 3,4,"Merel Vrolijk, Liduine Kampschöer, Annefien Nieuwenhuis, Ming de Jong","40,41,13,99",7-8 (gemengd),Homogeen (4V),5.50,False,
+2,Maandag,TV Osdorp,18:00-19:00,Baan 1,4,"Lennart Van Roeden, Bart Blaauw, Chris Endhoven, Francis Hoogenboom","123,131,151,173",7,Homogeen (4M),10.00,True,legacy_volledig
+2,Maandag,TV Osdorp,18:00-19:00,Baan 2,4,"Marleen Ceton, Jennifer Daarnhouwer, Yvonne de Meij van Streefkerk, Merel Eekman","136,138,142,150",7,Homogeen (4V),10.00,True,legacy_volledig
+2,Maandag,TV Osdorp,18:00-19:00,Baan 3,4,"Debby Collignon, Eefke de Vos, Josien Duijzer, Britt Faber","137,144,149,152",8,Homogeen (4V),10.00,True,legacy_volledig
+2,Maandag,TV Osdorp,19:00-20:00,Baan 1,4,"Peter Kniest, Jose Meulemans, Thomas Been, Fernando Gomez","182,200,128,155",7-8 (gemengd),Homogeen (4M),10.00,True,legacy_volledig
+2,Maandag,TV Osdorp,19:00-20:00,Baan 2,4,"Monique De meijer, Isabel Harlaar, Camilla Harvey, Shireen Keijzer","79,163,164,180",8,Homogeen (4V),10.00,True,legacy_volledig
+2,Maandag,TV Osdorp,19:00-20:00,Baan 3,4,"Rivka Nieuwenhuizen, Marieke Rodenhuis, Maaike Stoffels, Loes Stoltenborg","203,215,229,230",8,Homogeen (4V),10.00,True,legacy_volledig
+2,Maandag,TV Osdorp,20:00-21:00,Baan 1,4,"Fern Van Nassauw, Noelle van Rens, Romy Boiten, Fien de Kok","243,246,133,141",8-9 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+2,Maandag,TV Osdorp,20:00-21:00,Baan 2,4,"Laura Haakman, Anna Herter, Jana Hofmann, Thamar Lambregtse","161,167,171,188",9,Homogeen (4V),10.00,True,legacy_volledig
+2,Maandag,TV Osdorp,20:00-21:00,Baan 3,4,"Stefan Waterlander, Mark van Ginkel, Stef Geven, Thijs Geven","22,23,24,25",4,Homogeen (4M),9.83,True,legacy_gedeeltelijk
+2,Maandag,TV Osdorp,21:00-22:00,Baan 1,4,"Roland Kraaijpoel, Vivek Narayanan, Maik Oud, Mehmet Sabuncu","186,202,209,218",8,Homogeen (4M),10.00,True,legacy_volledig
+2,Maandag,TV Osdorp,21:00-22:00,Baan 2,4,"Paloma Nijsse, Rianne Oosterbeek, Mariell Fingal, Fie Hünneman","204,208,153,174",9-10 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+2,Dinsdag,Joy Jaagpad,19:00-20:00,Baan 1,4,"Hanne van der Veen, Martine Röell, Rebecca Van der Weerdt, Marit Bosselaar","11,21,5,107",5-6 (gemengd),Homogeen (4V),5.50,False,
+2,Dinsdag,TV Osdorp,18:00-19:00,Baan 1,4,"Christian Best, Robbert Slim, Karel van Gelder, Willem van Ingen","129,224,239,241",7,Homogeen (4M),10.00,True,legacy_volledig
+2,Dinsdag,TV Osdorp,18:00-19:00,Baan 2,4,"Eerke Steller, Lotte Brouwer, Vanessa Kuiper, Marjon Sanders","116,135,187,219",7,Homogeen (4V),10.00,True,legacy_volledig
+2,Dinsdag,TV Osdorp,18:00-19:00,Baan 3,4,"Eline Beukers, Diana Lupandina, Anne-Rose Lynch, Dongok Moon","130,194,195,201",8,Homogeen (4V),10.00,True,legacy_volledig
+2,Dinsdag,TV Osdorp,19:00-20:00,Baan 1,4,"Danny de Kinderen, Gertjan de Vries, Rahoel Guman, Julian Hiraki","139,145,160,168",8,Homogeen (4M),10.00,True,legacy_volledig
+2,Dinsdag,TV Osdorp,19:00-20:00,Baan 2,4,"Kristel Dodde, Hanna Sung, Wendy van Heeswijk, Joyce van Weering","58,231,240,250",8,Homogeen (4V),9.83,True,legacy_gedeeltelijk
+2,Dinsdag,TV Osdorp,19:00-20:00,Baan 3,4,"Rosa Huetink, Nikkie Poelmann, Duygu Manav, Angelique Slager","62,64,198,223",8-9 (gemengd),Homogeen (4V),9.17,True,legacy_gedeeltelijk
+2,Dinsdag,TV Osdorp,20:00-21:00,Baan 1,4,"Sietho Idsinga, Dave Koekkoek, Aytac Manav, Matthew O Shea","175,183,197,205",8,Homogeen (4M),10.00,True,legacy_volledig
+2,Dinsdag,TV Osdorp,20:00-21:00,Baan 2,4,"Maartje Herweijer, Fleur Jansen, Larissa de Vor, Laura Taal","28,36,35,90",7-8 (gemengd),Homogeen (4V),5.50,False,
+2,Dinsdag,TV Osdorp,21:00-22:00,Baan 1,4,"Giuseppe Procaccianti, Tom van de Vrede, Anton van den Broek, Bowi van Onna","211,233,236,244",8,Homogeen (4M),10.00,True,legacy_volledig
+2,Woensdag,Joy Jaagpad,19:00-20:00,Baan 1,4,"Quirine Dechesne, Ellen Coppens, Suzanne Huyskes, Lisanne Scheffens","29,30,7,47",5-6 (gemengd),Homogeen (4V),9.17,True,legacy_gedeeltelijk
+2,Woensdag,Joy Jaagpad,19:00-20:00,Baan 2,4,"Christian van paridon, Jeroen Roffel, Daan van Beers, Sebastiaan van den Brink","49,97,119,235",7,Homogeen (4M),5.00,False,
+2,Woensdag,Joy Jaagpad,19:00-20:00,Baan 3,4,"Maxine Schultz, Pascale Schafrat, Nienke Bliek, Madeleine Versteeg","15,114,84,112",7-8 (gemengd),Homogeen (4V),9.17,False,
+2,Woensdag,TV Osdorp,18:00-19:00,Baan 1,4,"Henry Anijs, Josh Goldman, Nihad Hassani, Marcio Ikeda","125,154,165,176",9,Homogeen (4M),10.00,True,legacy_volledig
+2,Woensdag,TV Osdorp,18:00-19:00,Baan 2,4,"Corinne Spijker, Eveline Spijker, Justine Kist, Milli Levendag","227,228,14,192",7-8 (gemengd),Homogeen (4V),9.17,True,legacy_gedeeltelijk
+2,Woensdag,TV Osdorp,19:00-20:00,Baan 1,4,"Coen van der Pas, Laurens de Knijff, Marcel Ruitenberg, Ruben van Schoonneveldt","44,140,217,247",7,Homogeen (4M),9.83,True,legacy_gedeeltelijk
+2,Woensdag,TV Osdorp,19:00-20:00,Baan 2,4,"Rianne de Wit, Kristin Wahle, Tessa Schop, Annemijn van Beers","46,48,45,120",7,Homogeen (4V),9.00,False,
+2,Woensdag,TV Osdorp,20:00-21:00,Baan 1,4,"Qasim Khan, Bastiaan Kraaijenbrink, Thom Lunshof, Manuel Martinez","181,185,193,199",9,Homogeen (4M),10.00,True,legacy_volledig
+2,Woensdag,TV Osdorp,20:00-21:00,Baan 2,4,"Thom Smit, Calvin van den Hoven, Tessa VAN schie Proost, Claudia Bouw","225,237,38,78",8-9 (gemengd),Perfect (2M/2V),9.00,True,legacy_gedeeltelijk
+2,Woensdag,TV Osdorp,21:00-22:00,Baan 1,4,"Marcel Jonker, Manuel Vester, Thomas De Vries, Martijn Kicken","10,96,104,106",6,Homogeen (4M),5.00,False,
+2,Donderdag,TV Osdorp,20:00-21:00,Baan 1,4,"Jan-Jaap ten Have, Gregor O'Gorman, Bo Hitzert, Dani Tonge","110,206,72,232",8,Perfect (2M/2V),9.50,True,legacy_gedeeltelijk
+3,Maandag,Joy Jaagpad,18:00-19:00,Baan 1,4,"Lotte Bruinink, Sanne van Amerongen, Jovanna Koens, Rosa Bent","42,93,68,82",6-7 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+3,Maandag,Joy Jaagpad,18:00-19:00,Baan 2,4,"Josephine Berger, Diana Aragon, Jip Nooitgedacht, Malou van Oosterhoud","70,77,85,118",8,Homogeen (4V),9.83,True,legacy_gedeeltelijk
+3,Maandag,Joy Jaagpad,18:00-19:00,Baan 3,4,"Jeroen Glebbeek, Daan Van Apeldoorn, Noud Gabel, Emile Röell","71,101,69,103",7-8 (gemengd),Homogeen (4M),9.17,True,legacy_gedeeltelijk
+3,Maandag,Joy Jaagpad,19:00-20:00,Baan 1,4,"Denise de Vor, Kristie Lek, Juliette Eulderink, Sophie Poorthuis","94,95,92,111",6-7 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+3,Woensdag,TV Osdorp,19:00-20:00,Baan 3,4,"Merel Vrolijk, Liduine Kampschöer, Annefien Nieuwenhuis, Ming de Jong","40,41,13,99",7-8 (gemengd),Homogeen (4V),5.50,False,
+3,Maandag,TV Osdorp,18:00-19:00,Baan 1,4,"Lennart Van Roeden, Bart Blaauw, Chris Endhoven, Francis Hoogenboom","123,131,151,173",7,Homogeen (4M),10.00,True,legacy_volledig
+3,Maandag,TV Osdorp,18:00-19:00,Baan 2,4,"Marleen Ceton, Jennifer Daarnhouwer, Yvonne de Meij van Streefkerk, Merel Eekman","136,138,142,150",7,Homogeen (4V),10.00,True,legacy_volledig
+3,Maandag,TV Osdorp,18:00-19:00,Baan 3,4,"Debby Collignon, Eefke de Vos, Josien Duijzer, Britt Faber","137,144,149,152",8,Homogeen (4V),10.00,True,legacy_volledig
+3,Maandag,TV Osdorp,19:00-20:00,Baan 1,4,"Peter Kniest, Jose Meulemans, Thomas Been, Fernando Gomez","182,200,128,155",7-8 (gemengd),Homogeen (4M),10.00,True,legacy_volledig
+3,Maandag,TV Osdorp,19:00-20:00,Baan 2,4,"Monique De meijer, Isabel Harlaar, Camilla Harvey, Shireen Keijzer","79,163,164,180",8,Homogeen (4V),10.00,True,legacy_volledig
+3,Maandag,TV Osdorp,19:00-20:00,Baan 3,4,"Rivka Nieuwenhuizen, Marieke Rodenhuis, Maaike Stoffels, Loes Stoltenborg","203,215,229,230",8,Homogeen (4V),10.00,True,legacy_volledig
+3,Maandag,TV Osdorp,20:00-21:00,Baan 1,4,"Fern Van Nassauw, Noelle van Rens, Romy Boiten, Fien de Kok","243,246,133,141",8-9 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+3,Maandag,TV Osdorp,20:00-21:00,Baan 2,4,"Laura Haakman, Anna Herter, Jana Hofmann, Thamar Lambregtse","161,167,171,188",9,Homogeen (4V),10.00,True,legacy_volledig
+3,Maandag,TV Osdorp,20:00-21:00,Baan 3,4,"Stefan Waterlander, Mark van Ginkel, Stef Geven, Thijs Geven","22,23,24,25",4,Homogeen (4M),9.83,True,legacy_gedeeltelijk
+3,Maandag,TV Osdorp,21:00-22:00,Baan 1,4,"Roland Kraaijpoel, Vivek Narayanan, Maik Oud, Mehmet Sabuncu","186,202,209,218",8,Homogeen (4M),10.00,True,legacy_volledig
+3,Maandag,TV Osdorp,21:00-22:00,Baan 2,4,"Paloma Nijsse, Rianne Oosterbeek, Mariell Fingal, Fie Hünneman","204,208,153,174",9-10 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+3,Dinsdag,Joy Jaagpad,19:00-20:00,Baan 1,4,"Hanne van der Veen, Martine Röell, Rebecca Van der Weerdt, Marit Bosselaar","11,21,5,107",5-6 (gemengd),Homogeen (4V),5.50,False,
+3,Dinsdag,TV Osdorp,18:00-19:00,Baan 1,4,"Christian Best, Robbert Slim, Karel van Gelder, Willem van Ingen","129,224,239,241",7,Homogeen (4M),10.00,True,legacy_volledig
+3,Dinsdag,TV Osdorp,18:00-19:00,Baan 2,4,"Eerke Steller, Lotte Brouwer, Vanessa Kuiper, Marjon Sanders","116,135,187,219",7,Homogeen (4V),10.00,True,legacy_volledig
+3,Dinsdag,TV Osdorp,18:00-19:00,Baan 3,4,"Eline Beukers, Diana Lupandina, Anne-Rose Lynch, Dongok Moon","130,194,195,201",8,Homogeen (4V),10.00,True,legacy_volledig
+3,Dinsdag,TV Osdorp,19:00-20:00,Baan 1,4,"Danny de Kinderen, Gertjan de Vries, Rahoel Guman, Julian Hiraki","139,145,160,168",8,Homogeen (4M),10.00,True,legacy_volledig
+3,Dinsdag,TV Osdorp,19:00-20:00,Baan 2,4,"Kristel Dodde, Hanna Sung, Wendy van Heeswijk, Joyce van Weering","58,231,240,250",8,Homogeen (4V),9.83,True,legacy_gedeeltelijk
+3,Dinsdag,TV Osdorp,19:00-20:00,Baan 3,4,"Rosa Huetink, Nikkie Poelmann, Duygu Manav, Angelique Slager","62,64,198,223",8-9 (gemengd),Homogeen (4V),9.17,True,legacy_gedeeltelijk
+3,Dinsdag,TV Osdorp,20:00-21:00,Baan 1,4,"Sietho Idsinga, Dave Koekkoek, Aytac Manav, Matthew O Shea","175,183,197,205",8,Homogeen (4M),10.00,True,legacy_volledig
+3,Dinsdag,TV Osdorp,20:00-21:00,Baan 2,4,"Maartje Herweijer, Fleur Jansen, Larissa de Vor, Laura Taal","28,36,35,90",7-8 (gemengd),Homogeen (4V),5.50,False,
+3,Dinsdag,TV Osdorp,21:00-22:00,Baan 1,4,"Giuseppe Procaccianti, Tom van de Vrede, Anton van den Broek, Bowi van Onna","211,233,236,244",8,Homogeen (4M),10.00,True,legacy_volledig
+3,Woensdag,Joy Jaagpad,19:00-20:00,Baan 1,4,"Quirine Dechesne, Ellen Coppens, Suzanne Huyskes, Lisanne Scheffens","29,30,7,47",5-6 (gemengd),Homogeen (4V),9.17,True,legacy_gedeeltelijk
+3,Woensdag,Joy Jaagpad,19:00-20:00,Baan 2,4,"Christian van paridon, Jeroen Roffel, Daan van Beers, Sebastiaan van den Brink","49,97,119,235",7,Homogeen (4M),5.00,False,
+3,Woensdag,Joy Jaagpad,19:00-20:00,Baan 3,4,"Maxine Schultz, Pascale Schafrat, Nienke Bliek, Madeleine Versteeg","15,114,84,112",7-8 (gemengd),Homogeen (4V),9.17,False,
+3,Woensdag,TV Osdorp,18:00-19:00,Baan 1,4,"Henry Anijs, Josh Goldman, Nihad Hassani, Marcio Ikeda","125,154,165,176",9,Homogeen (4M),10.00,True,legacy_volledig
+3,Woensdag,TV Osdorp,18:00-19:00,Baan 2,4,"Corinne Spijker, Eveline Spijker, Justine Kist, Milli Levendag","227,228,14,192",7-8 (gemengd),Homogeen (4V),9.17,True,legacy_gedeeltelijk
+3,Woensdag,TV Osdorp,19:00-20:00,Baan 1,4,"Coen van der Pas, Laurens de Knijff, Marcel Ruitenberg, Ruben van Schoonneveldt","44,140,217,247",7,Homogeen (4M),9.83,True,legacy_gedeeltelijk
+3,Woensdag,TV Osdorp,19:00-20:00,Baan 2,4,"Rianne de Wit, Kristin Wahle, Tessa Schop, Annemijn van Beers","46,48,45,120",7,Homogeen (4V),9.00,False,
+3,Woensdag,TV Osdorp,20:00-21:00,Baan 1,4,"Qasim Khan, Bastiaan Kraaijenbrink, Thom Lunshof, Manuel Martinez","181,185,193,199",9,Homogeen (4M),10.00,True,legacy_volledig
+3,Woensdag,TV Osdorp,20:00-21:00,Baan 2,4,"Thom Smit, Calvin van den Hoven, Tessa VAN schie Proost, Claudia Bouw","225,237,38,78",8-9 (gemengd),Perfect (2M/2V),9.00,True,legacy_gedeeltelijk
+3,Woensdag,TV Osdorp,21:00-22:00,Baan 1,4,"Marcel Jonker, Manuel Vester, Thomas De Vries, Martijn Kicken","10,96,104,106",6,Homogeen (4M),5.00,False,
+3,Donderdag,TV Osdorp,20:00-21:00,Baan 1,4,"Jan-Jaap ten Have, Gregor O'Gorman, Bo Hitzert, Dani Tonge","110,206,72,232",8,Perfect (2M/2V),9.50,True,legacy_gedeeltelijk
+4,Maandag,Joy Jaagpad,18:00-19:00,Baan 1,4,"Lotte Bruinink, Sanne van Amerongen, Jovanna Koens, Rosa Bent","42,93,68,82",6-7 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+4,Maandag,Joy Jaagpad,18:00-19:00,Baan 2,4,"Josephine Berger, Diana Aragon, Jip Nooitgedacht, Malou van Oosterhoud","70,77,85,118",8,Homogeen (4V),9.83,True,legacy_gedeeltelijk
+4,Maandag,Joy Jaagpad,18:00-19:00,Baan 3,4,"Jeroen Glebbeek, Daan Van Apeldoorn, Noud Gabel, Emile Röell","71,101,69,103",7-8 (gemengd),Homogeen (4M),9.17,True,legacy_gedeeltelijk
+4,Maandag,Joy Jaagpad,19:00-20:00,Baan 1,4,"Denise de Vor, Kristie Lek, Juliette Eulderink, Sophie Poorthuis","94,95,92,111",6-7 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+4,Woensdag,TV Osdorp,19:00-20:00,Baan 3,4,"Merel Vrolijk, Liduine Kampschöer, Annefien Nieuwenhuis, Ming de Jong","40,41,13,99",7-8 (gemengd),Homogeen (4V),5.50,False,
+4,Maandag,TV Osdorp,18:00-19:00,Baan 1,4,"Lennart Van Roeden, Bart Blaauw, Chris Endhoven, Francis Hoogenboom","123,131,151,173",7,Homogeen (4M),10.00,True,legacy_volledig
+4,Maandag,TV Osdorp,18:00-19:00,Baan 2,4,"Marleen Ceton, Jennifer Daarnhouwer, Yvonne de Meij van Streefkerk, Merel Eekman","136,138,142,150",7,Homogeen (4V),10.00,True,legacy_volledig
+4,Maandag,TV Osdorp,18:00-19:00,Baan 3,4,"Debby Collignon, Eefke de Vos, Josien Duijzer, Britt Faber","137,144,149,152",8,Homogeen (4V),10.00,True,legacy_volledig
+4,Maandag,TV Osdorp,19:00-20:00,Baan 1,4,"Peter Kniest, Jose Meulemans, Thomas Been, Fernando Gomez","182,200,128,155",7-8 (gemengd),Homogeen (4M),10.00,True,legacy_volledig
+4,Maandag,TV Osdorp,19:00-20:00,Baan 2,4,"Monique De meijer, Isabel Harlaar, Camilla Harvey, Shireen Keijzer","79,163,164,180",8,Homogeen (4V),10.00,True,legacy_volledig
+4,Maandag,TV Osdorp,19:00-20:00,Baan 3,4,"Rivka Nieuwenhuizen, Marieke Rodenhuis, Maaike Stoffels, Loes Stoltenborg","203,215,229,230",8,Homogeen (4V),10.00,True,legacy_volledig
+4,Maandag,TV Osdorp,20:00-21:00,Baan 1,4,"Fern Van Nassauw, Noelle van Rens, Romy Boiten, Fien de Kok","243,246,133,141",8-9 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+4,Maandag,TV Osdorp,20:00-21:00,Baan 2,4,"Laura Haakman, Anna Herter, Jana Hofmann, Thamar Lambregtse","161,167,171,188",9,Homogeen (4V),10.00,True,legacy_volledig
+4,Maandag,TV Osdorp,20:00-21:00,Baan 3,4,"Stefan Waterlander, Mark van Ginkel, Stef Geven, Thijs Geven","22,23,24,25",4,Homogeen (4M),9.83,True,legacy_gedeeltelijk
+4,Maandag,TV Osdorp,21:00-22:00,Baan 1,4,"Roland Kraaijpoel, Vivek Narayanan, Maik Oud, Mehmet Sabuncu","186,202,209,218",8,Homogeen (4M),10.00,True,legacy_volledig
+4,Maandag,TV Osdorp,21:00-22:00,Baan 2,4,"Paloma Nijsse, Rianne Oosterbeek, Mariell Fingal, Fie Hünneman","204,208,153,174",9-10 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+4,Dinsdag,Joy Jaagpad,19:00-20:00,Baan 1,4,"Hanne van der Veen, Martine Röell, Rebecca Van der Weerdt, Marit Bosselaar","11,21,5,107",5-6 (gemengd),Homogeen (4V),5.50,False,
+4,Dinsdag,TV Osdorp,18:00-19:00,Baan 1,4,"Christian Best, Robbert Slim, Karel van Gelder, Willem van Ingen","129,224,239,241",7,Homogeen (4M),10.00,True,legacy_volledig
+4,Dinsdag,TV Osdorp,18:00-19:00,Baan 2,4,"Eerke Steller, Lotte Brouwer, Vanessa Kuiper, Marjon Sanders","116,135,187,219",7,Homogeen (4V),10.00,True,legacy_volledig
+4,Dinsdag,TV Osdorp,18:00-19:00,Baan 3,4,"Eline Beukers, Diana Lupandina, Anne-Rose Lynch, Dongok Moon","130,194,195,201",8,Homogeen (4V),10.00,True,legacy_volledig
+4,Dinsdag,TV Osdorp,19:00-20:00,Baan 1,4,"Danny de Kinderen, Gertjan de Vries, Rahoel Guman, Julian Hiraki","139,145,160,168",8,Homogeen (4M),10.00,True,legacy_volledig
+4,Dinsdag,TV Osdorp,19:00-20:00,Baan 2,4,"Kristel Dodde, Hanna Sung, Wendy van Heeswijk, Joyce van Weering","58,231,240,250",8,Homogeen (4V),9.83,True,legacy_gedeeltelijk
+4,Dinsdag,TV Osdorp,19:00-20:00,Baan 3,4,"Rosa Huetink, Nikkie Poelmann, Duygu Manav, Angelique Slager","62,64,198,223",8-9 (gemengd),Homogeen (4V),9.17,True,legacy_gedeeltelijk
+4,Dinsdag,TV Osdorp,20:00-21:00,Baan 1,4,"Sietho Idsinga, Dave Koekkoek, Aytac Manav, Matthew O Shea","175,183,197,205",8,Homogeen (4M),10.00,True,legacy_volledig
+4,Dinsdag,TV Osdorp,20:00-21:00,Baan 2,4,"Maartje Herweijer, Fleur Jansen, Larissa de Vor, Laura Taal","28,36,35,90",7-8 (gemengd),Homogeen (4V),5.50,False,
+4,Dinsdag,TV Osdorp,21:00-22:00,Baan 1,4,"Giuseppe Procaccianti, Tom van de Vrede, Anton van den Broek, Bowi van Onna","211,233,236,244",8,Homogeen (4M),10.00,True,legacy_volledig
+4,Woensdag,Joy Jaagpad,19:00-20:00,Baan 1,4,"Quirine Dechesne, Ellen Coppens, Suzanne Huyskes, Lisanne Scheffens","29,30,7,47",5-6 (gemengd),Homogeen (4V),9.17,True,legacy_gedeeltelijk
+4,Woensdag,Joy Jaagpad,19:00-20:00,Baan 2,4,"Christian van paridon, Jeroen Roffel, Daan van Beers, Sebastiaan van den Brink","49,97,119,235",7,Homogeen (4M),5.00,False,
+4,Woensdag,Joy Jaagpad,19:00-20:00,Baan 3,4,"Maxine Schultz, Pascale Schafrat, Nienke Bliek, Madeleine Versteeg","15,114,84,112",7-8 (gemengd),Homogeen (4V),9.17,False,
+4,Woensdag,TV Osdorp,18:00-19:00,Baan 1,4,"Henry Anijs, Josh Goldman, Nihad Hassani, Marcio Ikeda","125,154,165,176",9,Homogeen (4M),10.00,True,legacy_volledig
+4,Woensdag,TV Osdorp,18:00-19:00,Baan 2,4,"Corinne Spijker, Eveline Spijker, Justine Kist, Milli Levendag","227,228,14,192",7-8 (gemengd),Homogeen (4V),9.17,True,legacy_gedeeltelijk
+4,Woensdag,TV Osdorp,19:00-20:00,Baan 1,4,"Coen van der Pas, Laurens de Knijff, Marcel Ruitenberg, Ruben van Schoonneveldt","44,140,217,247",7,Homogeen (4M),9.83,True,legacy_gedeeltelijk
+4,Woensdag,TV Osdorp,19:00-20:00,Baan 2,4,"Rianne de Wit, Kristin Wahle, Tessa Schop, Annemijn van Beers","46,48,45,120",7,Homogeen (4V),9.00,False,
+4,Woensdag,TV Osdorp,20:00-21:00,Baan 1,4,"Qasim Khan, Bastiaan Kraaijenbrink, Thom Lunshof, Manuel Martinez","181,185,193,199",9,Homogeen (4M),10.00,True,legacy_volledig
+4,Woensdag,TV Osdorp,20:00-21:00,Baan 2,4,"Thom Smit, Calvin van den Hoven, Tessa VAN schie Proost, Claudia Bouw","225,237,38,78",8-9 (gemengd),Perfect (2M/2V),9.00,True,legacy_gedeeltelijk
+4,Woensdag,TV Osdorp,21:00-22:00,Baan 1,4,"Marcel Jonker, Manuel Vester, Thomas De Vries, Martijn Kicken","10,96,104,106",6,Homogeen (4M),5.00,False,
+4,Donderdag,TV Osdorp,20:00-21:00,Baan 1,4,"Jan-Jaap ten Have, Gregor O'Gorman, Bo Hitzert, Dani Tonge","110,206,72,232",8,Perfect (2M/2V),9.50,True,legacy_gedeeltelijk
+5,Maandag,Joy Jaagpad,18:00-19:00,Baan 1,4,"Lotte Bruinink, Sanne van Amerongen, Jovanna Koens, Rosa Bent","42,93,68,82",6-7 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+5,Maandag,Joy Jaagpad,18:00-19:00,Baan 2,4,"Josephine Berger, Diana Aragon, Jip Nooitgedacht, Malou van Oosterhoud","70,77,85,118",8,Homogeen (4V),9.83,True,legacy_gedeeltelijk
+5,Maandag,Joy Jaagpad,18:00-19:00,Baan 3,4,"Jeroen Glebbeek, Daan Van Apeldoorn, Noud Gabel, Emile Röell","71,101,69,103",7-8 (gemengd),Homogeen (4M),9.17,True,legacy_gedeeltelijk
+5,Maandag,Joy Jaagpad,19:00-20:00,Baan 1,4,"Denise de Vor, Kristie Lek, Juliette Eulderink, Sophie Poorthuis","94,95,92,111",6-7 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+5,Woensdag,TV Osdorp,19:00-20:00,Baan 3,4,"Merel Vrolijk, Liduine Kampschöer, Annefien Nieuwenhuis, Ming de Jong","40,41,13,99",7-8 (gemengd),Homogeen (4V),5.50,False,
+5,Maandag,TV Osdorp,18:00-19:00,Baan 1,4,"Lennart Van Roeden, Bart Blaauw, Chris Endhoven, Francis Hoogenboom","123,131,151,173",7,Homogeen (4M),10.00,True,legacy_volledig
+5,Maandag,TV Osdorp,18:00-19:00,Baan 2,4,"Marleen Ceton, Jennifer Daarnhouwer, Yvonne de Meij van Streefkerk, Merel Eekman","136,138,142,150",7,Homogeen (4V),10.00,True,legacy_volledig
+5,Maandag,TV Osdorp,18:00-19:00,Baan 3,4,"Debby Collignon, Eefke de Vos, Josien Duijzer, Britt Faber","137,144,149,152",8,Homogeen (4V),10.00,True,legacy_volledig
+5,Maandag,TV Osdorp,19:00-20:00,Baan 1,4,"Peter Kniest, Jose Meulemans, Thomas Been, Fernando Gomez","182,200,128,155",7-8 (gemengd),Homogeen (4M),10.00,True,legacy_volledig
+5,Maandag,TV Osdorp,19:00-20:00,Baan 2,4,"Monique De meijer, Isabel Harlaar, Camilla Harvey, Shireen Keijzer","79,163,164,180",8,Homogeen (4V),10.00,True,legacy_volledig
+5,Maandag,TV Osdorp,19:00-20:00,Baan 3,4,"Rivka Nieuwenhuizen, Marieke Rodenhuis, Maaike Stoffels, Loes Stoltenborg","203,215,229,230",8,Homogeen (4V),10.00,True,legacy_volledig
+5,Maandag,TV Osdorp,20:00-21:00,Baan 1,4,"Fern Van Nassauw, Noelle van Rens, Romy Boiten, Fien de Kok","243,246,133,141",8-9 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+5,Maandag,TV Osdorp,20:00-21:00,Baan 2,4,"Laura Haakman, Anna Herter, Jana Hofmann, Thamar Lambregtse","161,167,171,188",9,Homogeen (4V),10.00,True,legacy_volledig
+5,Maandag,TV Osdorp,20:00-21:00,Baan 3,4,"Stefan Waterlander, Mark van Ginkel, Stef Geven, Thijs Geven","22,23,24,25",4,Homogeen (4M),9.83,True,legacy_gedeeltelijk
+5,Maandag,TV Osdorp,21:00-22:00,Baan 1,4,"Roland Kraaijpoel, Vivek Narayanan, Maik Oud, Mehmet Sabuncu","186,202,209,218",8,Homogeen (4M),10.00,True,legacy_volledig
+5,Maandag,TV Osdorp,21:00-22:00,Baan 2,4,"Paloma Nijsse, Rianne Oosterbeek, Mariell Fingal, Fie Hünneman","204,208,153,174",9-10 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+5,Dinsdag,Joy Jaagpad,19:00-20:00,Baan 1,4,"Hanne van der Veen, Martine Röell, Rebecca Van der Weerdt, Marit Bosselaar","11,21,5,107",5-6 (gemengd),Homogeen (4V),5.50,False,
+5,Dinsdag,TV Osdorp,18:00-19:00,Baan 1,4,"Christian Best, Robbert Slim, Karel van Gelder, Willem van Ingen","129,224,239,241",7,Homogeen (4M),10.00,True,legacy_volledig
+5,Dinsdag,TV Osdorp,18:00-19:00,Baan 2,4,"Eerke Steller, Lotte Brouwer, Vanessa Kuiper, Marjon Sanders","116,135,187,219",7,Homogeen (4V),10.00,True,legacy_volledig
+5,Dinsdag,TV Osdorp,18:00-19:00,Baan 3,4,"Eline Beukers, Diana Lupandina, Anne-Rose Lynch, Dongok Moon","130,194,195,201",8,Homogeen (4V),10.00,True,legacy_volledig
+5,Dinsdag,TV Osdorp,19:00-20:00,Baan 1,4,"Danny de Kinderen, Gertjan de Vries, Rahoel Guman, Julian Hiraki","139,145,160,168",8,Homogeen (4M),10.00,True,legacy_volledig
+5,Dinsdag,TV Osdorp,19:00-20:00,Baan 2,4,"Kristel Dodde, Hanna Sung, Wendy van Heeswijk, Joyce van Weering","58,231,240,250",8,Homogeen (4V),9.83,True,legacy_gedeeltelijk
+5,Dinsdag,TV Osdorp,19:00-20:00,Baan 3,4,"Rosa Huetink, Nikkie Poelmann, Duygu Manav, Angelique Slager","62,64,198,223",8-9 (gemengd),Homogeen (4V),9.17,True,legacy_gedeeltelijk
+5,Dinsdag,TV Osdorp,20:00-21:00,Baan 1,4,"Sietho Idsinga, Dave Koekkoek, Aytac Manav, Matthew O Shea","175,183,197,205",8,Homogeen (4M),10.00,True,legacy_volledig
+5,Dinsdag,TV Osdorp,20:00-21:00,Baan 2,4,"Maartje Herweijer, Fleur Jansen, Larissa de Vor, Laura Taal","28,36,35,90",7-8 (gemengd),Homogeen (4V),5.50,False,
+5,Dinsdag,TV Osdorp,21:00-22:00,Baan 1,4,"Giuseppe Procaccianti, Tom van de Vrede, Anton van den Broek, Bowi van Onna","211,233,236,244",8,Homogeen (4M),10.00,True,legacy_volledig
+5,Woensdag,Joy Jaagpad,19:00-20:00,Baan 1,4,"Quirine Dechesne, Ellen Coppens, Suzanne Huyskes, Lisanne Scheffens","29,30,7,47",5-6 (gemengd),Homogeen (4V),9.17,True,legacy_gedeeltelijk
+5,Woensdag,Joy Jaagpad,19:00-20:00,Baan 2,4,"Christian van paridon, Jeroen Roffel, Daan van Beers, Sebastiaan van den Brink","49,97,119,235",7,Homogeen (4M),5.00,False,
+5,Woensdag,Joy Jaagpad,19:00-20:00,Baan 3,4,"Maxine Schultz, Pascale Schafrat, Nienke Bliek, Madeleine Versteeg","15,114,84,112",7-8 (gemengd),Homogeen (4V),9.17,False,
+5,Woensdag,TV Osdorp,18:00-19:00,Baan 1,4,"Henry Anijs, Josh Goldman, Nihad Hassani, Marcio Ikeda","125,154,165,176",9,Homogeen (4M),10.00,True,legacy_volledig
+5,Woensdag,TV Osdorp,18:00-19:00,Baan 2,4,"Corinne Spijker, Eveline Spijker, Justine Kist, Milli Levendag","227,228,14,192",7-8 (gemengd),Homogeen (4V),9.17,True,legacy_gedeeltelijk
+5,Woensdag,TV Osdorp,19:00-20:00,Baan 1,4,"Coen van der Pas, Laurens de Knijff, Marcel Ruitenberg, Ruben van Schoonneveldt","44,140,217,247",7,Homogeen (4M),9.83,True,legacy_gedeeltelijk
+5,Woensdag,TV Osdorp,19:00-20:00,Baan 2,4,"Rianne de Wit, Kristin Wahle, Tessa Schop, Annemijn van Beers","46,48,45,120",7,Homogeen (4V),9.00,False,
+5,Woensdag,TV Osdorp,20:00-21:00,Baan 1,4,"Qasim Khan, Bastiaan Kraaijenbrink, Thom Lunshof, Manuel Martinez","181,185,193,199",9,Homogeen (4M),10.00,True,legacy_volledig
+5,Woensdag,TV Osdorp,20:00-21:00,Baan 2,4,"Thom Smit, Calvin van den Hoven, Tessa VAN schie Proost, Claudia Bouw","225,237,38,78",8-9 (gemengd),Perfect (2M/2V),9.00,True,legacy_gedeeltelijk
+5,Woensdag,TV Osdorp,21:00-22:00,Baan 1,4,"Marcel Jonker, Manuel Vester, Thomas De Vries, Martijn Kicken","10,96,104,106",6,Homogeen (4M),5.00,False,
+5,Donderdag,TV Osdorp,20:00-21:00,Baan 1,4,"Jan-Jaap ten Have, Gregor O'Gorman, Bo Hitzert, Dani Tonge","110,206,72,232",8,Perfect (2M/2V),9.50,True,legacy_gedeeltelijk
+6,Maandag,Joy Jaagpad,18:00-19:00,Baan 1,4,"Lotte Bruinink, Sanne van Amerongen, Jovanna Koens, Rosa Bent","42,93,68,82",6-7 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+6,Maandag,Joy Jaagpad,18:00-19:00,Baan 2,4,"Josephine Berger, Diana Aragon, Jip Nooitgedacht, Malou van Oosterhoud","70,77,85,118",8,Homogeen (4V),9.83,True,legacy_gedeeltelijk
+6,Maandag,Joy Jaagpad,18:00-19:00,Baan 3,4,"Jeroen Glebbeek, Daan Van Apeldoorn, Noud Gabel, Emile Röell","71,101,69,103",7-8 (gemengd),Homogeen (4M),9.17,True,legacy_gedeeltelijk
+6,Maandag,Joy Jaagpad,19:00-20:00,Baan 1,4,"Denise de Vor, Kristie Lek, Juliette Eulderink, Sophie Poorthuis","94,95,92,111",6-7 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+6,Woensdag,TV Osdorp,19:00-20:00,Baan 3,4,"Merel Vrolijk, Liduine Kampschöer, Annefien Nieuwenhuis, Ming de Jong","40,41,13,99",7-8 (gemengd),Homogeen (4V),5.50,False,
+6,Maandag,TV Osdorp,18:00-19:00,Baan 1,4,"Lennart Van Roeden, Bart Blaauw, Chris Endhoven, Francis Hoogenboom","123,131,151,173",7,Homogeen (4M),10.00,True,legacy_volledig
+6,Maandag,TV Osdorp,18:00-19:00,Baan 2,4,"Marleen Ceton, Jennifer Daarnhouwer, Yvonne de Meij van Streefkerk, Merel Eekman","136,138,142,150",7,Homogeen (4V),10.00,True,legacy_volledig
+6,Maandag,TV Osdorp,18:00-19:00,Baan 3,4,"Debby Collignon, Eefke de Vos, Josien Duijzer, Britt Faber","137,144,149,152",8,Homogeen (4V),10.00,True,legacy_volledig
+6,Maandag,TV Osdorp,19:00-20:00,Baan 1,4,"Peter Kniest, Jose Meulemans, Thomas Been, Fernando Gomez","182,200,128,155",7-8 (gemengd),Homogeen (4M),10.00,True,legacy_volledig
+6,Maandag,TV Osdorp,19:00-20:00,Baan 2,4,"Monique De meijer, Isabel Harlaar, Camilla Harvey, Shireen Keijzer","79,163,164,180",8,Homogeen (4V),10.00,True,legacy_volledig
+6,Maandag,TV Osdorp,19:00-20:00,Baan 3,4,"Rivka Nieuwenhuizen, Marieke Rodenhuis, Maaike Stoffels, Loes Stoltenborg","203,215,229,230",8,Homogeen (4V),10.00,True,legacy_volledig
+6,Maandag,TV Osdorp,20:00-21:00,Baan 1,4,"Fern Van Nassauw, Noelle van Rens, Romy Boiten, Fien de Kok","243,246,133,141",8-9 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+6,Maandag,TV Osdorp,20:00-21:00,Baan 2,4,"Laura Haakman, Anna Herter, Jana Hofmann, Thamar Lambregtse","161,167,171,188",9,Homogeen (4V),10.00,True,legacy_volledig
+6,Maandag,TV Osdorp,20:00-21:00,Baan 3,4,"Stefan Waterlander, Mark van Ginkel, Stef Geven, Thijs Geven","22,23,24,25",4,Homogeen (4M),9.83,True,legacy_gedeeltelijk
+6,Maandag,TV Osdorp,21:00-22:00,Baan 1,4,"Roland Kraaijpoel, Vivek Narayanan, Maik Oud, Mehmet Sabuncu","186,202,209,218",8,Homogeen (4M),10.00,True,legacy_volledig
+6,Maandag,TV Osdorp,21:00-22:00,Baan 2,4,"Paloma Nijsse, Rianne Oosterbeek, Mariell Fingal, Fie Hünneman","204,208,153,174",9-10 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+6,Dinsdag,Joy Jaagpad,19:00-20:00,Baan 1,4,"Hanne van der Veen, Martine Röell, Rebecca Van der Weerdt, Marit Bosselaar","11,21,5,107",5-6 (gemengd),Homogeen (4V),5.50,False,
+6,Dinsdag,TV Osdorp,18:00-19:00,Baan 1,4,"Christian Best, Robbert Slim, Karel van Gelder, Willem van Ingen","129,224,239,241",7,Homogeen (4M),10.00,True,legacy_volledig
+6,Dinsdag,TV Osdorp,18:00-19:00,Baan 2,4,"Eerke Steller, Lotte Brouwer, Vanessa Kuiper, Marjon Sanders","116,135,187,219",7,Homogeen (4V),10.00,True,legacy_volledig
+6,Dinsdag,TV Osdorp,18:00-19:00,Baan 3,4,"Eline Beukers, Diana Lupandina, Anne-Rose Lynch, Dongok Moon","130,194,195,201",8,Homogeen (4V),10.00,True,legacy_volledig
+6,Dinsdag,TV Osdorp,19:00-20:00,Baan 1,4,"Danny de Kinderen, Gertjan de Vries, Rahoel Guman, Julian Hiraki","139,145,160,168",8,Homogeen (4M),10.00,True,legacy_volledig
+6,Dinsdag,TV Osdorp,19:00-20:00,Baan 2,4,"Kristel Dodde, Hanna Sung, Wendy van Heeswijk, Joyce van Weering","58,231,240,250",8,Homogeen (4V),9.83,True,legacy_gedeeltelijk
+6,Dinsdag,TV Osdorp,19:00-20:00,Baan 3,4,"Rosa Huetink, Nikkie Poelmann, Duygu Manav, Angelique Slager","62,64,198,223",8-9 (gemengd),Homogeen (4V),9.17,True,legacy_gedeeltelijk
+6,Dinsdag,TV Osdorp,20:00-21:00,Baan 1,4,"Sietho Idsinga, Dave Koekkoek, Aytac Manav, Matthew O Shea","175,183,197,205",8,Homogeen (4M),10.00,True,legacy_volledig
+6,Dinsdag,TV Osdorp,20:00-21:00,Baan 2,4,"Maartje Herweijer, Fleur Jansen, Larissa de Vor, Laura Taal","28,36,35,90",7-8 (gemengd),Homogeen (4V),5.50,False,
+6,Dinsdag,TV Osdorp,21:00-22:00,Baan 1,4,"Giuseppe Procaccianti, Tom van de Vrede, Anton van den Broek, Bowi van Onna","211,233,236,244",8,Homogeen (4M),10.00,True,legacy_volledig
+6,Woensdag,Joy Jaagpad,19:00-20:00,Baan 1,4,"Quirine Dechesne, Ellen Coppens, Suzanne Huyskes, Lisanne Scheffens","29,30,7,47",5-6 (gemengd),Homogeen (4V),9.17,True,legacy_gedeeltelijk
+6,Woensdag,Joy Jaagpad,19:00-20:00,Baan 2,4,"Christian van paridon, Jeroen Roffel, Daan van Beers, Sebastiaan van den Brink","49,97,119,235",7,Homogeen (4M),5.00,False,
+6,Woensdag,Joy Jaagpad,19:00-20:00,Baan 3,4,"Maxine Schultz, Pascale Schafrat, Nienke Bliek, Madeleine Versteeg","15,114,84,112",7-8 (gemengd),Homogeen (4V),9.17,False,
+6,Woensdag,TV Osdorp,18:00-19:00,Baan 1,4,"Henry Anijs, Josh Goldman, Nihad Hassani, Marcio Ikeda","125,154,165,176",9,Homogeen (4M),10.00,True,legacy_volledig
+6,Woensdag,TV Osdorp,18:00-19:00,Baan 2,4,"Corinne Spijker, Eveline Spijker, Justine Kist, Milli Levendag","227,228,14,192",7-8 (gemengd),Homogeen (4V),9.17,True,legacy_gedeeltelijk
+6,Woensdag,TV Osdorp,19:00-20:00,Baan 1,4,"Coen van der Pas, Laurens de Knijff, Marcel Ruitenberg, Ruben van Schoonneveldt","44,140,217,247",7,Homogeen (4M),9.83,True,legacy_gedeeltelijk
+6,Woensdag,TV Osdorp,19:00-20:00,Baan 2,4,"Rianne de Wit, Kristin Wahle, Tessa Schop, Annemijn van Beers","46,48,45,120",7,Homogeen (4V),9.00,False,
+6,Woensdag,TV Osdorp,20:00-21:00,Baan 1,4,"Qasim Khan, Bastiaan Kraaijenbrink, Thom Lunshof, Manuel Martinez","181,185,193,199",9,Homogeen (4M),10.00,True,legacy_volledig
+6,Woensdag,TV Osdorp,20:00-21:00,Baan 2,4,"Thom Smit, Calvin van den Hoven, Tessa VAN schie Proost, Claudia Bouw","225,237,38,78",8-9 (gemengd),Perfect (2M/2V),9.00,True,legacy_gedeeltelijk
+6,Woensdag,TV Osdorp,21:00-22:00,Baan 1,4,"Marcel Jonker, Manuel Vester, Thomas De Vries, Martijn Kicken","10,96,104,106",6,Homogeen (4M),5.00,False,
+6,Donderdag,TV Osdorp,20:00-21:00,Baan 1,4,"Jan-Jaap ten Have, Gregor O'Gorman, Bo Hitzert, Dani Tonge","110,206,72,232",8,Perfect (2M/2V),9.50,True,legacy_gedeeltelijk
+7,Maandag,Joy Jaagpad,18:00-19:00,Baan 1,4,"Lotte Bruinink, Sanne van Amerongen, Jovanna Koens, Rosa Bent","42,93,68,82",6-7 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+7,Maandag,Joy Jaagpad,18:00-19:00,Baan 2,4,"Josephine Berger, Diana Aragon, Jip Nooitgedacht, Malou van Oosterhoud","70,77,85,118",8,Homogeen (4V),9.83,True,legacy_gedeeltelijk
+7,Maandag,Joy Jaagpad,18:00-19:00,Baan 3,4,"Jeroen Glebbeek, Daan Van Apeldoorn, Noud Gabel, Emile Röell","71,101,69,103",7-8 (gemengd),Homogeen (4M),9.17,True,legacy_gedeeltelijk
+7,Maandag,Joy Jaagpad,19:00-20:00,Baan 1,4,"Denise de Vor, Kristie Lek, Juliette Eulderink, Sophie Poorthuis","94,95,92,111",6-7 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+7,Woensdag,TV Osdorp,19:00-20:00,Baan 3,4,"Merel Vrolijk, Liduine Kampschöer, Annefien Nieuwenhuis, Ming de Jong","40,41,13,99",7-8 (gemengd),Homogeen (4V),5.50,False,
+7,Maandag,TV Osdorp,18:00-19:00,Baan 1,4,"Lennart Van Roeden, Bart Blaauw, Chris Endhoven, Francis Hoogenboom","123,131,151,173",7,Homogeen (4M),10.00,True,legacy_volledig
+7,Maandag,TV Osdorp,18:00-19:00,Baan 2,4,"Marleen Ceton, Jennifer Daarnhouwer, Yvonne de Meij van Streefkerk, Merel Eekman","136,138,142,150",7,Homogeen (4V),10.00,True,legacy_volledig
+7,Maandag,TV Osdorp,18:00-19:00,Baan 3,4,"Debby Collignon, Eefke de Vos, Josien Duijzer, Britt Faber","137,144,149,152",8,Homogeen (4V),10.00,True,legacy_volledig
+7,Maandag,TV Osdorp,19:00-20:00,Baan 1,4,"Peter Kniest, Jose Meulemans, Thomas Been, Fernando Gomez","182,200,128,155",7-8 (gemengd),Homogeen (4M),10.00,True,legacy_volledig
+7,Maandag,TV Osdorp,19:00-20:00,Baan 2,4,"Monique De meijer, Isabel Harlaar, Camilla Harvey, Shireen Keijzer","79,163,164,180",8,Homogeen (4V),10.00,True,legacy_volledig
+7,Maandag,TV Osdorp,19:00-20:00,Baan 3,4,"Rivka Nieuwenhuizen, Marieke Rodenhuis, Maaike Stoffels, Loes Stoltenborg","203,215,229,230",8,Homogeen (4V),10.00,True,legacy_volledig
+7,Maandag,TV Osdorp,20:00-21:00,Baan 1,4,"Fern Van Nassauw, Noelle van Rens, Romy Boiten, Fien de Kok","243,246,133,141",8-9 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+7,Maandag,TV Osdorp,20:00-21:00,Baan 2,4,"Laura Haakman, Anna Herter, Jana Hofmann, Thamar Lambregtse","161,167,171,188",9,Homogeen (4V),10.00,True,legacy_volledig
+7,Maandag,TV Osdorp,20:00-21:00,Baan 3,4,"Stefan Waterlander, Mark van Ginkel, Stef Geven, Thijs Geven","22,23,24,25",4,Homogeen (4M),9.83,True,legacy_gedeeltelijk
+7,Maandag,TV Osdorp,21:00-22:00,Baan 1,4,"Roland Kraaijpoel, Vivek Narayanan, Maik Oud, Mehmet Sabuncu","186,202,209,218",8,Homogeen (4M),10.00,True,legacy_volledig
+7,Maandag,TV Osdorp,21:00-22:00,Baan 2,4,"Paloma Nijsse, Rianne Oosterbeek, Mariell Fingal, Fie Hünneman","204,208,153,174",9-10 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+7,Dinsdag,Joy Jaagpad,19:00-20:00,Baan 1,4,"Hanne van der Veen, Martine Röell, Rebecca Van der Weerdt, Marit Bosselaar","11,21,5,107",5-6 (gemengd),Homogeen (4V),5.50,False,
+7,Dinsdag,TV Osdorp,18:00-19:00,Baan 1,4,"Christian Best, Robbert Slim, Karel van Gelder, Willem van Ingen","129,224,239,241",7,Homogeen (4M),10.00,True,legacy_volledig
+7,Dinsdag,TV Osdorp,18:00-19:00,Baan 2,4,"Eerke Steller, Lotte Brouwer, Vanessa Kuiper, Marjon Sanders","116,135,187,219",7,Homogeen (4V),10.00,True,legacy_volledig
+7,Dinsdag,TV Osdorp,18:00-19:00,Baan 3,4,"Eline Beukers, Diana Lupandina, Anne-Rose Lynch, Dongok Moon","130,194,195,201",8,Homogeen (4V),10.00,True,legacy_volledig
+7,Dinsdag,TV Osdorp,19:00-20:00,Baan 1,4,"Danny de Kinderen, Gertjan de Vries, Rahoel Guman, Julian Hiraki","139,145,160,168",8,Homogeen (4M),10.00,True,legacy_volledig
+7,Dinsdag,TV Osdorp,19:00-20:00,Baan 2,4,"Kristel Dodde, Hanna Sung, Wendy van Heeswijk, Joyce van Weering","58,231,240,250",8,Homogeen (4V),9.83,True,legacy_gedeeltelijk
+7,Dinsdag,TV Osdorp,19:00-20:00,Baan 3,4,"Rosa Huetink, Nikkie Poelmann, Duygu Manav, Angelique Slager","62,64,198,223",8-9 (gemengd),Homogeen (4V),9.17,True,legacy_gedeeltelijk
+7,Dinsdag,TV Osdorp,20:00-21:00,Baan 1,4,"Sietho Idsinga, Dave Koekkoek, Aytac Manav, Matthew O Shea","175,183,197,205",8,Homogeen (4M),10.00,True,legacy_volledig
+7,Dinsdag,TV Osdorp,20:00-21:00,Baan 2,4,"Maartje Herweijer, Fleur Jansen, Larissa de Vor, Laura Taal","28,36,35,90",7-8 (gemengd),Homogeen (4V),5.50,False,
+7,Dinsdag,TV Osdorp,21:00-22:00,Baan 1,4,"Giuseppe Procaccianti, Tom van de Vrede, Anton van den Broek, Bowi van Onna","211,233,236,244",8,Homogeen (4M),10.00,True,legacy_volledig
+7,Woensdag,Joy Jaagpad,19:00-20:00,Baan 1,4,"Quirine Dechesne, Ellen Coppens, Suzanne Huyskes, Lisanne Scheffens","29,30,7,47",5-6 (gemengd),Homogeen (4V),9.17,True,legacy_gedeeltelijk
+7,Woensdag,Joy Jaagpad,19:00-20:00,Baan 2,4,"Christian van paridon, Jeroen Roffel, Daan van Beers, Sebastiaan van den Brink","49,97,119,235",7,Homogeen (4M),5.00,False,
+7,Woensdag,Joy Jaagpad,19:00-20:00,Baan 3,4,"Maxine Schultz, Pascale Schafrat, Nienke Bliek, Madeleine Versteeg","15,114,84,112",7-8 (gemengd),Homogeen (4V),9.17,False,
+7,Woensdag,TV Osdorp,18:00-19:00,Baan 1,4,"Henry Anijs, Josh Goldman, Nihad Hassani, Marcio Ikeda","125,154,165,176",9,Homogeen (4M),10.00,True,legacy_volledig
+7,Woensdag,TV Osdorp,18:00-19:00,Baan 2,4,"Corinne Spijker, Eveline Spijker, Justine Kist, Milli Levendag","227,228,14,192",7-8 (gemengd),Homogeen (4V),9.17,True,legacy_gedeeltelijk
+7,Woensdag,TV Osdorp,19:00-20:00,Baan 1,4,"Coen van der Pas, Laurens de Knijff, Marcel Ruitenberg, Ruben van Schoonneveldt","44,140,217,247",7,Homogeen (4M),9.83,True,legacy_gedeeltelijk
+7,Woensdag,TV Osdorp,19:00-20:00,Baan 2,4,"Rianne de Wit, Kristin Wahle, Tessa Schop, Annemijn van Beers","46,48,45,120",7,Homogeen (4V),9.00,False,
+7,Woensdag,TV Osdorp,20:00-21:00,Baan 1,4,"Qasim Khan, Bastiaan Kraaijenbrink, Thom Lunshof, Manuel Martinez","181,185,193,199",9,Homogeen (4M),10.00,True,legacy_volledig
+7,Woensdag,TV Osdorp,20:00-21:00,Baan 2,4,"Thom Smit, Calvin van den Hoven, Tessa VAN schie Proost, Claudia Bouw","225,237,38,78",8-9 (gemengd),Perfect (2M/2V),9.00,True,legacy_gedeeltelijk
+7,Woensdag,TV Osdorp,21:00-22:00,Baan 1,4,"Marcel Jonker, Manuel Vester, Thomas De Vries, Martijn Kicken","10,96,104,106",6,Homogeen (4M),5.00,False,
+7,Donderdag,TV Osdorp,20:00-21:00,Baan 1,4,"Jan-Jaap ten Have, Gregor O'Gorman, Bo Hitzert, Dani Tonge","110,206,72,232",8,Perfect (2M/2V),9.50,True,legacy_gedeeltelijk
+8,Maandag,Joy Jaagpad,18:00-19:00,Baan 1,4,"Lotte Bruinink, Sanne van Amerongen, Jovanna Koens, Rosa Bent","42,93,68,82",6-7 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+8,Maandag,Joy Jaagpad,18:00-19:00,Baan 2,4,"Josephine Berger, Diana Aragon, Jip Nooitgedacht, Malou van Oosterhoud","70,77,85,118",8,Homogeen (4V),9.83,True,legacy_gedeeltelijk
+8,Maandag,Joy Jaagpad,18:00-19:00,Baan 3,4,"Jeroen Glebbeek, Daan Van Apeldoorn, Noud Gabel, Emile Röell","71,101,69,103",7-8 (gemengd),Homogeen (4M),9.17,True,legacy_gedeeltelijk
+8,Maandag,Joy Jaagpad,19:00-20:00,Baan 1,4,"Denise de Vor, Kristie Lek, Juliette Eulderink, Sophie Poorthuis","94,95,92,111",6-7 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+8,Woensdag,TV Osdorp,19:00-20:00,Baan 3,4,"Merel Vrolijk, Liduine Kampschöer, Annefien Nieuwenhuis, Ming de Jong","40,41,13,99",7-8 (gemengd),Homogeen (4V),5.50,False,
+8,Maandag,TV Osdorp,18:00-19:00,Baan 1,4,"Lennart Van Roeden, Bart Blaauw, Chris Endhoven, Francis Hoogenboom","123,131,151,173",7,Homogeen (4M),10.00,True,legacy_volledig
+8,Maandag,TV Osdorp,18:00-19:00,Baan 2,4,"Marleen Ceton, Jennifer Daarnhouwer, Yvonne de Meij van Streefkerk, Merel Eekman","136,138,142,150",7,Homogeen (4V),10.00,True,legacy_volledig
+8,Maandag,TV Osdorp,18:00-19:00,Baan 3,4,"Debby Collignon, Eefke de Vos, Josien Duijzer, Britt Faber","137,144,149,152",8,Homogeen (4V),10.00,True,legacy_volledig
+8,Maandag,TV Osdorp,19:00-20:00,Baan 1,4,"Peter Kniest, Jose Meulemans, Thomas Been, Fernando Gomez","182,200,128,155",7-8 (gemengd),Homogeen (4M),10.00,True,legacy_volledig
+8,Maandag,TV Osdorp,19:00-20:00,Baan 2,4,"Monique De meijer, Isabel Harlaar, Camilla Harvey, Shireen Keijzer","79,163,164,180",8,Homogeen (4V),10.00,True,legacy_volledig
+8,Maandag,TV Osdorp,19:00-20:00,Baan 3,4,"Rivka Nieuwenhuizen, Marieke Rodenhuis, Maaike Stoffels, Loes Stoltenborg","203,215,229,230",8,Homogeen (4V),10.00,True,legacy_volledig
+8,Maandag,TV Osdorp,20:00-21:00,Baan 1,4,"Fern Van Nassauw, Noelle van Rens, Romy Boiten, Fien de Kok","243,246,133,141",8-9 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+8,Maandag,TV Osdorp,20:00-21:00,Baan 2,4,"Laura Haakman, Anna Herter, Jana Hofmann, Thamar Lambregtse","161,167,171,188",9,Homogeen (4V),10.00,True,legacy_volledig
+8,Maandag,TV Osdorp,20:00-21:00,Baan 3,4,"Stefan Waterlander, Mark van Ginkel, Stef Geven, Thijs Geven","22,23,24,25",4,Homogeen (4M),9.83,True,legacy_gedeeltelijk
+8,Maandag,TV Osdorp,21:00-22:00,Baan 1,4,"Roland Kraaijpoel, Vivek Narayanan, Maik Oud, Mehmet Sabuncu","186,202,209,218",8,Homogeen (4M),10.00,True,legacy_volledig
+8,Maandag,TV Osdorp,21:00-22:00,Baan 2,4,"Paloma Nijsse, Rianne Oosterbeek, Mariell Fingal, Fie Hünneman","204,208,153,174",9-10 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+8,Dinsdag,Joy Jaagpad,19:00-20:00,Baan 1,4,"Hanne van der Veen, Martine Röell, Rebecca Van der Weerdt, Marit Bosselaar","11,21,5,107",5-6 (gemengd),Homogeen (4V),5.50,False,
+8,Dinsdag,TV Osdorp,18:00-19:00,Baan 1,4,"Christian Best, Robbert Slim, Karel van Gelder, Willem van Ingen","129,224,239,241",7,Homogeen (4M),10.00,True,legacy_volledig
+8,Dinsdag,TV Osdorp,18:00-19:00,Baan 2,4,"Eerke Steller, Lotte Brouwer, Vanessa Kuiper, Marjon Sanders","116,135,187,219",7,Homogeen (4V),10.00,True,legacy_volledig
+8,Dinsdag,TV Osdorp,18:00-19:00,Baan 3,4,"Eline Beukers, Diana Lupandina, Anne-Rose Lynch, Dongok Moon","130,194,195,201",8,Homogeen (4V),10.00,True,legacy_volledig
+8,Dinsdag,TV Osdorp,19:00-20:00,Baan 1,4,"Danny de Kinderen, Gertjan de Vries, Rahoel Guman, Julian Hiraki","139,145,160,168",8,Homogeen (4M),10.00,True,legacy_volledig
+8,Dinsdag,TV Osdorp,19:00-20:00,Baan 2,4,"Kristel Dodde, Hanna Sung, Wendy van Heeswijk, Joyce van Weering","58,231,240,250",8,Homogeen (4V),9.83,True,legacy_gedeeltelijk
+8,Dinsdag,TV Osdorp,19:00-20:00,Baan 3,4,"Rosa Huetink, Nikkie Poelmann, Duygu Manav, Angelique Slager","62,64,198,223",8-9 (gemengd),Homogeen (4V),9.17,True,legacy_gedeeltelijk
+8,Dinsdag,TV Osdorp,20:00-21:00,Baan 1,4,"Sietho Idsinga, Dave Koekkoek, Aytac Manav, Matthew O Shea","175,183,197,205",8,Homogeen (4M),10.00,True,legacy_volledig
+8,Dinsdag,TV Osdorp,20:00-21:00,Baan 2,4,"Maartje Herweijer, Fleur Jansen, Larissa de Vor, Laura Taal","28,36,35,90",7-8 (gemengd),Homogeen (4V),5.50,False,
+8,Dinsdag,TV Osdorp,21:00-22:00,Baan 1,4,"Giuseppe Procaccianti, Tom van de Vrede, Anton van den Broek, Bowi van Onna","211,233,236,244",8,Homogeen (4M),10.00,True,legacy_volledig
+8,Woensdag,Joy Jaagpad,19:00-20:00,Baan 1,4,"Quirine Dechesne, Ellen Coppens, Suzanne Huyskes, Lisanne Scheffens","29,30,7,47",5-6 (gemengd),Homogeen (4V),9.17,True,legacy_gedeeltelijk
+8,Woensdag,Joy Jaagpad,19:00-20:00,Baan 2,4,"Christian van paridon, Jeroen Roffel, Daan van Beers, Sebastiaan van den Brink","49,97,119,235",7,Homogeen (4M),5.00,False,
+8,Woensdag,Joy Jaagpad,19:00-20:00,Baan 3,4,"Maxine Schultz, Pascale Schafrat, Nienke Bliek, Madeleine Versteeg","15,114,84,112",7-8 (gemengd),Homogeen (4V),9.17,False,
+8,Woensdag,TV Osdorp,18:00-19:00,Baan 1,4,"Henry Anijs, Josh Goldman, Nihad Hassani, Marcio Ikeda","125,154,165,176",9,Homogeen (4M),10.00,True,legacy_volledig
+8,Woensdag,TV Osdorp,18:00-19:00,Baan 2,4,"Corinne Spijker, Eveline Spijker, Justine Kist, Milli Levendag","227,228,14,192",7-8 (gemengd),Homogeen (4V),9.17,True,legacy_gedeeltelijk
+8,Woensdag,TV Osdorp,19:00-20:00,Baan 1,4,"Coen van der Pas, Laurens de Knijff, Marcel Ruitenberg, Ruben van Schoonneveldt","44,140,217,247",7,Homogeen (4M),9.83,True,legacy_gedeeltelijk
+8,Woensdag,TV Osdorp,19:00-20:00,Baan 2,4,"Rianne de Wit, Kristin Wahle, Tessa Schop, Annemijn van Beers","46,48,45,120",7,Homogeen (4V),9.00,False,
+8,Woensdag,TV Osdorp,20:00-21:00,Baan 1,4,"Qasim Khan, Bastiaan Kraaijenbrink, Thom Lunshof, Manuel Martinez","181,185,193,199",9,Homogeen (4M),10.00,True,legacy_volledig
+8,Woensdag,TV Osdorp,20:00-21:00,Baan 2,4,"Thom Smit, Calvin van den Hoven, Tessa VAN schie Proost, Claudia Bouw","225,237,38,78",8-9 (gemengd),Perfect (2M/2V),9.00,True,legacy_gedeeltelijk
+8,Woensdag,TV Osdorp,21:00-22:00,Baan 1,4,"Marcel Jonker, Manuel Vester, Thomas De Vries, Martijn Kicken","10,96,104,106",6,Homogeen (4M),5.00,False,
+8,Donderdag,TV Osdorp,20:00-21:00,Baan 1,4,"Jan-Jaap ten Have, Gregor O'Gorman, Bo Hitzert, Dani Tonge","110,206,72,232",8,Perfect (2M/2V),9.50,True,legacy_gedeeltelijk
+9,Maandag,Joy Jaagpad,18:00-19:00,Baan 1,4,"Lotte Bruinink, Sanne van Amerongen, Jovanna Koens, Rosa Bent","42,93,68,82",6-7 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+9,Maandag,Joy Jaagpad,18:00-19:00,Baan 2,4,"Josephine Berger, Diana Aragon, Jip Nooitgedacht, Malou van Oosterhoud","70,77,85,118",8,Homogeen (4V),9.83,True,legacy_gedeeltelijk
+9,Maandag,Joy Jaagpad,18:00-19:00,Baan 3,4,"Jeroen Glebbeek, Daan Van Apeldoorn, Noud Gabel, Emile Röell","71,101,69,103",7-8 (gemengd),Homogeen (4M),9.17,True,legacy_gedeeltelijk
+9,Maandag,Joy Jaagpad,19:00-20:00,Baan 1,4,"Denise de Vor, Kristie Lek, Juliette Eulderink, Sophie Poorthuis","94,95,92,111",6-7 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+9,Woensdag,TV Osdorp,19:00-20:00,Baan 3,4,"Merel Vrolijk, Liduine Kampschöer, Annefien Nieuwenhuis, Ming de Jong","40,41,13,99",7-8 (gemengd),Homogeen (4V),5.50,False,
+9,Maandag,TV Osdorp,18:00-19:00,Baan 1,4,"Lennart Van Roeden, Bart Blaauw, Chris Endhoven, Francis Hoogenboom","123,131,151,173",7,Homogeen (4M),10.00,True,legacy_volledig
+9,Maandag,TV Osdorp,18:00-19:00,Baan 2,4,"Marleen Ceton, Jennifer Daarnhouwer, Yvonne de Meij van Streefkerk, Merel Eekman","136,138,142,150",7,Homogeen (4V),10.00,True,legacy_volledig
+9,Maandag,TV Osdorp,18:00-19:00,Baan 3,4,"Debby Collignon, Eefke de Vos, Josien Duijzer, Britt Faber","137,144,149,152",8,Homogeen (4V),10.00,True,legacy_volledig
+9,Maandag,TV Osdorp,19:00-20:00,Baan 1,4,"Peter Kniest, Jose Meulemans, Thomas Been, Fernando Gomez","182,200,128,155",7-8 (gemengd),Homogeen (4M),10.00,True,legacy_volledig
+9,Maandag,TV Osdorp,19:00-20:00,Baan 2,4,"Monique De meijer, Isabel Harlaar, Camilla Harvey, Shireen Keijzer","79,163,164,180",8,Homogeen (4V),10.00,True,legacy_volledig
+9,Maandag,TV Osdorp,19:00-20:00,Baan 3,4,"Rivka Nieuwenhuizen, Marieke Rodenhuis, Maaike Stoffels, Loes Stoltenborg","203,215,229,230",8,Homogeen (4V),10.00,True,legacy_volledig
+9,Maandag,TV Osdorp,20:00-21:00,Baan 1,4,"Fern Van Nassauw, Noelle van Rens, Romy Boiten, Fien de Kok","243,246,133,141",8-9 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+9,Maandag,TV Osdorp,20:00-21:00,Baan 2,4,"Laura Haakman, Anna Herter, Jana Hofmann, Thamar Lambregtse","161,167,171,188",9,Homogeen (4V),10.00,True,legacy_volledig
+9,Maandag,TV Osdorp,20:00-21:00,Baan 3,4,"Stefan Waterlander, Mark van Ginkel, Stef Geven, Thijs Geven","22,23,24,25",4,Homogeen (4M),9.83,True,legacy_gedeeltelijk
+9,Maandag,TV Osdorp,21:00-22:00,Baan 1,4,"Roland Kraaijpoel, Vivek Narayanan, Maik Oud, Mehmet Sabuncu","186,202,209,218",8,Homogeen (4M),10.00,True,legacy_volledig
+9,Maandag,TV Osdorp,21:00-22:00,Baan 2,4,"Paloma Nijsse, Rianne Oosterbeek, Mariell Fingal, Fie Hünneman","204,208,153,174",9-10 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+9,Dinsdag,Joy Jaagpad,19:00-20:00,Baan 1,4,"Hanne van der Veen, Martine Röell, Rebecca Van der Weerdt, Marit Bosselaar","11,21,5,107",5-6 (gemengd),Homogeen (4V),5.50,False,
+9,Dinsdag,TV Osdorp,18:00-19:00,Baan 1,4,"Christian Best, Robbert Slim, Karel van Gelder, Willem van Ingen","129,224,239,241",7,Homogeen (4M),10.00,True,legacy_volledig
+9,Dinsdag,TV Osdorp,18:00-19:00,Baan 2,4,"Eerke Steller, Lotte Brouwer, Vanessa Kuiper, Marjon Sanders","116,135,187,219",7,Homogeen (4V),10.00,True,legacy_volledig
+9,Dinsdag,TV Osdorp,18:00-19:00,Baan 3,4,"Eline Beukers, Diana Lupandina, Anne-Rose Lynch, Dongok Moon","130,194,195,201",8,Homogeen (4V),10.00,True,legacy_volledig
+9,Dinsdag,TV Osdorp,19:00-20:00,Baan 1,4,"Danny de Kinderen, Gertjan de Vries, Rahoel Guman, Julian Hiraki","139,145,160,168",8,Homogeen (4M),10.00,True,legacy_volledig
+9,Dinsdag,TV Osdorp,19:00-20:00,Baan 2,4,"Kristel Dodde, Hanna Sung, Wendy van Heeswijk, Joyce van Weering","58,231,240,250",8,Homogeen (4V),9.83,True,legacy_gedeeltelijk
+9,Dinsdag,TV Osdorp,19:00-20:00,Baan 3,4,"Rosa Huetink, Nikkie Poelmann, Duygu Manav, Angelique Slager","62,64,198,223",8-9 (gemengd),Homogeen (4V),9.17,True,legacy_gedeeltelijk
+9,Dinsdag,TV Osdorp,20:00-21:00,Baan 1,4,"Sietho Idsinga, Dave Koekkoek, Aytac Manav, Matthew O Shea","175,183,197,205",8,Homogeen (4M),10.00,True,legacy_volledig
+9,Dinsdag,TV Osdorp,20:00-21:00,Baan 2,4,"Maartje Herweijer, Fleur Jansen, Larissa de Vor, Laura Taal","28,36,35,90",7-8 (gemengd),Homogeen (4V),5.50,False,
+9,Dinsdag,TV Osdorp,21:00-22:00,Baan 1,4,"Giuseppe Procaccianti, Tom van de Vrede, Anton van den Broek, Bowi van Onna","211,233,236,244",8,Homogeen (4M),10.00,True,legacy_volledig
+9,Woensdag,Joy Jaagpad,19:00-20:00,Baan 1,4,"Quirine Dechesne, Ellen Coppens, Suzanne Huyskes, Lisanne Scheffens","29,30,7,47",5-6 (gemengd),Homogeen (4V),9.17,True,legacy_gedeeltelijk
+9,Woensdag,Joy Jaagpad,19:00-20:00,Baan 2,4,"Christian van paridon, Jeroen Roffel, Daan van Beers, Sebastiaan van den Brink","49,97,119,235",7,Homogeen (4M),5.00,False,
+9,Woensdag,Joy Jaagpad,19:00-20:00,Baan 3,4,"Maxine Schultz, Pascale Schafrat, Nienke Bliek, Madeleine Versteeg","15,114,84,112",7-8 (gemengd),Homogeen (4V),9.17,False,
+9,Woensdag,TV Osdorp,18:00-19:00,Baan 1,4,"Henry Anijs, Josh Goldman, Nihad Hassani, Marcio Ikeda","125,154,165,176",9,Homogeen (4M),10.00,True,legacy_volledig
+9,Woensdag,TV Osdorp,18:00-19:00,Baan 2,4,"Corinne Spijker, Eveline Spijker, Justine Kist, Milli Levendag","227,228,14,192",7-8 (gemengd),Homogeen (4V),9.17,True,legacy_gedeeltelijk
+9,Woensdag,TV Osdorp,19:00-20:00,Baan 1,4,"Coen van der Pas, Laurens de Knijff, Marcel Ruitenberg, Ruben van Schoonneveldt","44,140,217,247",7,Homogeen (4M),9.83,True,legacy_gedeeltelijk
+9,Woensdag,TV Osdorp,19:00-20:00,Baan 2,4,"Rianne de Wit, Kristin Wahle, Tessa Schop, Annemijn van Beers","46,48,45,120",7,Homogeen (4V),9.00,False,
+9,Woensdag,TV Osdorp,20:00-21:00,Baan 1,4,"Qasim Khan, Bastiaan Kraaijenbrink, Thom Lunshof, Manuel Martinez","181,185,193,199",9,Homogeen (4M),10.00,True,legacy_volledig
+9,Woensdag,TV Osdorp,20:00-21:00,Baan 2,4,"Thom Smit, Calvin van den Hoven, Tessa VAN schie Proost, Claudia Bouw","225,237,38,78",8-9 (gemengd),Perfect (2M/2V),9.00,True,legacy_gedeeltelijk
+9,Woensdag,TV Osdorp,21:00-22:00,Baan 1,4,"Marcel Jonker, Manuel Vester, Thomas De Vries, Martijn Kicken","10,96,104,106",6,Homogeen (4M),5.00,False,
+9,Donderdag,TV Osdorp,20:00-21:00,Baan 1,4,"Jan-Jaap ten Have, Gregor O'Gorman, Bo Hitzert, Dani Tonge","110,206,72,232",8,Perfect (2M/2V),9.50,True,legacy_gedeeltelijk
+10,Maandag,Joy Jaagpad,18:00-19:00,Baan 1,4,"Lotte Bruinink, Sanne van Amerongen, Jovanna Koens, Rosa Bent","42,93,68,82",6-7 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+10,Maandag,Joy Jaagpad,18:00-19:00,Baan 2,4,"Josephine Berger, Diana Aragon, Jip Nooitgedacht, Malou van Oosterhoud","70,77,85,118",8,Homogeen (4V),9.83,True,legacy_gedeeltelijk
+10,Maandag,Joy Jaagpad,18:00-19:00,Baan 3,4,"Jeroen Glebbeek, Daan Van Apeldoorn, Noud Gabel, Emile Röell","71,101,69,103",7-8 (gemengd),Homogeen (4M),9.17,True,legacy_gedeeltelijk
+10,Maandag,Joy Jaagpad,19:00-20:00,Baan 1,4,"Denise de Vor, Kristie Lek, Juliette Eulderink, Sophie Poorthuis","94,95,92,111",6-7 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+10,Woensdag,TV Osdorp,19:00-20:00,Baan 3,4,"Merel Vrolijk, Liduine Kampschöer, Annefien Nieuwenhuis, Ming de Jong","40,41,13,99",7-8 (gemengd),Homogeen (4V),5.50,False,
+10,Maandag,TV Osdorp,18:00-19:00,Baan 1,4,"Lennart Van Roeden, Bart Blaauw, Chris Endhoven, Francis Hoogenboom","123,131,151,173",7,Homogeen (4M),10.00,True,legacy_volledig
+10,Maandag,TV Osdorp,18:00-19:00,Baan 2,4,"Marleen Ceton, Jennifer Daarnhouwer, Yvonne de Meij van Streefkerk, Merel Eekman","136,138,142,150",7,Homogeen (4V),10.00,True,legacy_volledig
+10,Maandag,TV Osdorp,18:00-19:00,Baan 3,4,"Debby Collignon, Eefke de Vos, Josien Duijzer, Britt Faber","137,144,149,152",8,Homogeen (4V),10.00,True,legacy_volledig
+10,Maandag,TV Osdorp,19:00-20:00,Baan 1,4,"Peter Kniest, Jose Meulemans, Thomas Been, Fernando Gomez","182,200,128,155",7-8 (gemengd),Homogeen (4M),10.00,True,legacy_volledig
+10,Maandag,TV Osdorp,19:00-20:00,Baan 2,4,"Monique De meijer, Isabel Harlaar, Camilla Harvey, Shireen Keijzer","79,163,164,180",8,Homogeen (4V),10.00,True,legacy_volledig
+10,Maandag,TV Osdorp,19:00-20:00,Baan 3,4,"Rivka Nieuwenhuizen, Marieke Rodenhuis, Maaike Stoffels, Loes Stoltenborg","203,215,229,230",8,Homogeen (4V),10.00,True,legacy_volledig
+10,Maandag,TV Osdorp,20:00-21:00,Baan 1,4,"Fern Van Nassauw, Noelle van Rens, Romy Boiten, Fien de Kok","243,246,133,141",8-9 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+10,Maandag,TV Osdorp,20:00-21:00,Baan 2,4,"Laura Haakman, Anna Herter, Jana Hofmann, Thamar Lambregtse","161,167,171,188",9,Homogeen (4V),10.00,True,legacy_volledig
+10,Maandag,TV Osdorp,20:00-21:00,Baan 3,4,"Stefan Waterlander, Mark van Ginkel, Stef Geven, Thijs Geven","22,23,24,25",4,Homogeen (4M),9.83,True,legacy_gedeeltelijk
+10,Maandag,TV Osdorp,21:00-22:00,Baan 1,4,"Roland Kraaijpoel, Vivek Narayanan, Maik Oud, Mehmet Sabuncu","186,202,209,218",8,Homogeen (4M),10.00,True,legacy_volledig
+10,Maandag,TV Osdorp,21:00-22:00,Baan 2,4,"Paloma Nijsse, Rianne Oosterbeek, Mariell Fingal, Fie Hünneman","204,208,153,174",9-10 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+10,Dinsdag,Joy Jaagpad,19:00-20:00,Baan 1,4,"Hanne van der Veen, Martine Röell, Rebecca Van der Weerdt, Marit Bosselaar","11,21,5,107",5-6 (gemengd),Homogeen (4V),5.50,False,
+10,Dinsdag,TV Osdorp,18:00-19:00,Baan 1,4,"Christian Best, Robbert Slim, Karel van Gelder, Willem van Ingen","129,224,239,241",7,Homogeen (4M),10.00,True,legacy_volledig
+10,Dinsdag,TV Osdorp,18:00-19:00,Baan 2,4,"Eerke Steller, Lotte Brouwer, Vanessa Kuiper, Marjon Sanders","116,135,187,219",7,Homogeen (4V),10.00,True,legacy_volledig
+10,Dinsdag,TV Osdorp,18:00-19:00,Baan 3,4,"Eline Beukers, Diana Lupandina, Anne-Rose Lynch, Dongok Moon","130,194,195,201",8,Homogeen (4V),10.00,True,legacy_volledig
+10,Dinsdag,TV Osdorp,19:00-20:00,Baan 1,4,"Danny de Kinderen, Gertjan de Vries, Rahoel Guman, Julian Hiraki","139,145,160,168",8,Homogeen (4M),10.00,True,legacy_volledig
+10,Dinsdag,TV Osdorp,19:00-20:00,Baan 2,4,"Kristel Dodde, Hanna Sung, Wendy van Heeswijk, Joyce van Weering","58,231,240,250",8,Homogeen (4V),9.83,True,legacy_gedeeltelijk
+10,Dinsdag,TV Osdorp,19:00-20:00,Baan 3,4,"Rosa Huetink, Nikkie Poelmann, Duygu Manav, Angelique Slager","62,64,198,223",8-9 (gemengd),Homogeen (4V),9.17,True,legacy_gedeeltelijk
+10,Dinsdag,TV Osdorp,20:00-21:00,Baan 1,4,"Sietho Idsinga, Dave Koekkoek, Aytac Manav, Matthew O Shea","175,183,197,205",8,Homogeen (4M),10.00,True,legacy_volledig
+10,Dinsdag,TV Osdorp,20:00-21:00,Baan 2,4,"Maartje Herweijer, Fleur Jansen, Larissa de Vor, Laura Taal","28,36,35,90",7-8 (gemengd),Homogeen (4V),5.50,False,
+10,Dinsdag,TV Osdorp,21:00-22:00,Baan 1,4,"Giuseppe Procaccianti, Tom van de Vrede, Anton van den Broek, Bowi van Onna","211,233,236,244",8,Homogeen (4M),10.00,True,legacy_volledig
+10,Woensdag,Joy Jaagpad,19:00-20:00,Baan 1,4,"Quirine Dechesne, Ellen Coppens, Suzanne Huyskes, Lisanne Scheffens","29,30,7,47",5-6 (gemengd),Homogeen (4V),9.17,True,legacy_gedeeltelijk
+10,Woensdag,Joy Jaagpad,19:00-20:00,Baan 2,4,"Christian van paridon, Jeroen Roffel, Daan van Beers, Sebastiaan van den Brink","49,97,119,235",7,Homogeen (4M),5.00,False,
+10,Woensdag,Joy Jaagpad,19:00-20:00,Baan 3,4,"Maxine Schultz, Pascale Schafrat, Nienke Bliek, Madeleine Versteeg","15,114,84,112",7-8 (gemengd),Homogeen (4V),9.17,False,
+10,Woensdag,TV Osdorp,18:00-19:00,Baan 1,4,"Henry Anijs, Josh Goldman, Nihad Hassani, Marcio Ikeda","125,154,165,176",9,Homogeen (4M),10.00,True,legacy_volledig
+10,Woensdag,TV Osdorp,18:00-19:00,Baan 2,4,"Corinne Spijker, Eveline Spijker, Justine Kist, Milli Levendag","227,228,14,192",7-8 (gemengd),Homogeen (4V),9.17,True,legacy_gedeeltelijk
+10,Woensdag,TV Osdorp,19:00-20:00,Baan 1,4,"Coen van der Pas, Laurens de Knijff, Marcel Ruitenberg, Ruben van Schoonneveldt","44,140,217,247",7,Homogeen (4M),9.83,True,legacy_gedeeltelijk
+10,Woensdag,TV Osdorp,19:00-20:00,Baan 2,4,"Rianne de Wit, Kristin Wahle, Tessa Schop, Annemijn van Beers","46,48,45,120",7,Homogeen (4V),9.00,False,
+10,Woensdag,TV Osdorp,20:00-21:00,Baan 1,4,"Qasim Khan, Bastiaan Kraaijenbrink, Thom Lunshof, Manuel Martinez","181,185,193,199",9,Homogeen (4M),10.00,True,legacy_volledig
+10,Woensdag,TV Osdorp,20:00-21:00,Baan 2,4,"Thom Smit, Calvin van den Hoven, Tessa VAN schie Proost, Claudia Bouw","225,237,38,78",8-9 (gemengd),Perfect (2M/2V),9.00,True,legacy_gedeeltelijk
+10,Woensdag,TV Osdorp,21:00-22:00,Baan 1,4,"Marcel Jonker, Manuel Vester, Thomas De Vries, Martijn Kicken","10,96,104,106",6,Homogeen (4M),5.00,False,
+10,Donderdag,TV Osdorp,20:00-21:00,Baan 1,4,"Jan-Jaap ten Have, Gregor O'Gorman, Bo Hitzert, Dani Tonge","110,206,72,232",8,Perfect (2M/2V),9.50,True,legacy_gedeeltelijk
+11,Maandag,Joy Jaagpad,18:00-19:00,Baan 1,4,"Lotte Bruinink, Sanne van Amerongen, Jovanna Koens, Rosa Bent","42,93,68,82",6-7 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+11,Maandag,Joy Jaagpad,18:00-19:00,Baan 2,4,"Josephine Berger, Diana Aragon, Jip Nooitgedacht, Malou van Oosterhoud","70,77,85,118",8,Homogeen (4V),9.83,True,legacy_gedeeltelijk
+11,Maandag,Joy Jaagpad,18:00-19:00,Baan 3,4,"Jeroen Glebbeek, Daan Van Apeldoorn, Noud Gabel, Emile Röell","71,101,69,103",7-8 (gemengd),Homogeen (4M),9.17,True,legacy_gedeeltelijk
+11,Maandag,Joy Jaagpad,19:00-20:00,Baan 1,4,"Denise de Vor, Kristie Lek, Juliette Eulderink, Sophie Poorthuis","94,95,92,111",6-7 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+11,Woensdag,TV Osdorp,19:00-20:00,Baan 3,4,"Merel Vrolijk, Liduine Kampschöer, Annefien Nieuwenhuis, Ming de Jong","40,41,13,99",7-8 (gemengd),Homogeen (4V),5.50,False,
+11,Maandag,TV Osdorp,18:00-19:00,Baan 1,4,"Lennart Van Roeden, Bart Blaauw, Chris Endhoven, Francis Hoogenboom","123,131,151,173",7,Homogeen (4M),10.00,True,legacy_volledig
+11,Maandag,TV Osdorp,18:00-19:00,Baan 2,4,"Marleen Ceton, Jennifer Daarnhouwer, Yvonne de Meij van Streefkerk, Merel Eekman","136,138,142,150",7,Homogeen (4V),10.00,True,legacy_volledig
+11,Maandag,TV Osdorp,18:00-19:00,Baan 3,4,"Debby Collignon, Eefke de Vos, Josien Duijzer, Britt Faber","137,144,149,152",8,Homogeen (4V),10.00,True,legacy_volledig
+11,Maandag,TV Osdorp,19:00-20:00,Baan 1,4,"Peter Kniest, Jose Meulemans, Thomas Been, Fernando Gomez","182,200,128,155",7-8 (gemengd),Homogeen (4M),10.00,True,legacy_volledig
+11,Maandag,TV Osdorp,19:00-20:00,Baan 2,4,"Monique De meijer, Isabel Harlaar, Camilla Harvey, Shireen Keijzer","79,163,164,180",8,Homogeen (4V),10.00,True,legacy_volledig
+11,Maandag,TV Osdorp,19:00-20:00,Baan 3,4,"Rivka Nieuwenhuizen, Marieke Rodenhuis, Maaike Stoffels, Loes Stoltenborg","203,215,229,230",8,Homogeen (4V),10.00,True,legacy_volledig
+11,Maandag,TV Osdorp,20:00-21:00,Baan 1,4,"Fern Van Nassauw, Noelle van Rens, Romy Boiten, Fien de Kok","243,246,133,141",8-9 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+11,Maandag,TV Osdorp,20:00-21:00,Baan 2,4,"Laura Haakman, Anna Herter, Jana Hofmann, Thamar Lambregtse","161,167,171,188",9,Homogeen (4V),10.00,True,legacy_volledig
+11,Maandag,TV Osdorp,20:00-21:00,Baan 3,4,"Stefan Waterlander, Mark van Ginkel, Stef Geven, Thijs Geven","22,23,24,25",4,Homogeen (4M),9.83,True,legacy_gedeeltelijk
+11,Maandag,TV Osdorp,21:00-22:00,Baan 1,4,"Roland Kraaijpoel, Vivek Narayanan, Maik Oud, Mehmet Sabuncu","186,202,209,218",8,Homogeen (4M),10.00,True,legacy_volledig
+11,Maandag,TV Osdorp,21:00-22:00,Baan 2,4,"Paloma Nijsse, Rianne Oosterbeek, Mariell Fingal, Fie Hünneman","204,208,153,174",9-10 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+11,Dinsdag,Joy Jaagpad,19:00-20:00,Baan 1,4,"Hanne van der Veen, Martine Röell, Rebecca Van der Weerdt, Marit Bosselaar","11,21,5,107",5-6 (gemengd),Homogeen (4V),5.50,False,
+11,Dinsdag,TV Osdorp,18:00-19:00,Baan 1,4,"Christian Best, Robbert Slim, Karel van Gelder, Willem van Ingen","129,224,239,241",7,Homogeen (4M),10.00,True,legacy_volledig
+11,Dinsdag,TV Osdorp,18:00-19:00,Baan 2,4,"Eerke Steller, Lotte Brouwer, Vanessa Kuiper, Marjon Sanders","116,135,187,219",7,Homogeen (4V),10.00,True,legacy_volledig
+11,Dinsdag,TV Osdorp,18:00-19:00,Baan 3,4,"Eline Beukers, Diana Lupandina, Anne-Rose Lynch, Dongok Moon","130,194,195,201",8,Homogeen (4V),10.00,True,legacy_volledig
+11,Dinsdag,TV Osdorp,19:00-20:00,Baan 1,4,"Danny de Kinderen, Gertjan de Vries, Rahoel Guman, Julian Hiraki","139,145,160,168",8,Homogeen (4M),10.00,True,legacy_volledig
+11,Dinsdag,TV Osdorp,19:00-20:00,Baan 2,4,"Kristel Dodde, Hanna Sung, Wendy van Heeswijk, Joyce van Weering","58,231,240,250",8,Homogeen (4V),9.83,True,legacy_gedeeltelijk
+11,Dinsdag,TV Osdorp,19:00-20:00,Baan 3,4,"Rosa Huetink, Nikkie Poelmann, Duygu Manav, Angelique Slager","62,64,198,223",8-9 (gemengd),Homogeen (4V),9.17,True,legacy_gedeeltelijk
+11,Dinsdag,TV Osdorp,20:00-21:00,Baan 1,4,"Sietho Idsinga, Dave Koekkoek, Aytac Manav, Matthew O Shea","175,183,197,205",8,Homogeen (4M),10.00,True,legacy_volledig
+11,Dinsdag,TV Osdorp,20:00-21:00,Baan 2,4,"Maartje Herweijer, Fleur Jansen, Larissa de Vor, Laura Taal","28,36,35,90",7-8 (gemengd),Homogeen (4V),5.50,False,
+11,Dinsdag,TV Osdorp,21:00-22:00,Baan 1,4,"Giuseppe Procaccianti, Tom van de Vrede, Anton van den Broek, Bowi van Onna","211,233,236,244",8,Homogeen (4M),10.00,True,legacy_volledig
+11,Woensdag,Joy Jaagpad,19:00-20:00,Baan 1,4,"Quirine Dechesne, Ellen Coppens, Suzanne Huyskes, Lisanne Scheffens","29,30,7,47",5-6 (gemengd),Homogeen (4V),9.17,True,legacy_gedeeltelijk
+11,Woensdag,Joy Jaagpad,19:00-20:00,Baan 2,4,"Christian van paridon, Jeroen Roffel, Daan van Beers, Sebastiaan van den Brink","49,97,119,235",7,Homogeen (4M),5.00,False,
+11,Woensdag,Joy Jaagpad,19:00-20:00,Baan 3,4,"Maxine Schultz, Pascale Schafrat, Nienke Bliek, Madeleine Versteeg","15,114,84,112",7-8 (gemengd),Homogeen (4V),9.17,False,
+11,Woensdag,TV Osdorp,18:00-19:00,Baan 1,4,"Henry Anijs, Josh Goldman, Nihad Hassani, Marcio Ikeda","125,154,165,176",9,Homogeen (4M),10.00,True,legacy_volledig
+11,Woensdag,TV Osdorp,18:00-19:00,Baan 2,4,"Corinne Spijker, Eveline Spijker, Justine Kist, Milli Levendag","227,228,14,192",7-8 (gemengd),Homogeen (4V),9.17,True,legacy_gedeeltelijk
+11,Woensdag,TV Osdorp,19:00-20:00,Baan 1,4,"Coen van der Pas, Laurens de Knijff, Marcel Ruitenberg, Ruben van Schoonneveldt","44,140,217,247",7,Homogeen (4M),9.83,True,legacy_gedeeltelijk
+11,Woensdag,TV Osdorp,19:00-20:00,Baan 2,4,"Rianne de Wit, Kristin Wahle, Tessa Schop, Annemijn van Beers","46,48,45,120",7,Homogeen (4V),9.00,False,
+11,Woensdag,TV Osdorp,20:00-21:00,Baan 1,4,"Qasim Khan, Bastiaan Kraaijenbrink, Thom Lunshof, Manuel Martinez","181,185,193,199",9,Homogeen (4M),10.00,True,legacy_volledig
+11,Woensdag,TV Osdorp,20:00-21:00,Baan 2,4,"Thom Smit, Calvin van den Hoven, Tessa VAN schie Proost, Claudia Bouw","225,237,38,78",8-9 (gemengd),Perfect (2M/2V),9.00,True,legacy_gedeeltelijk
+11,Woensdag,TV Osdorp,21:00-22:00,Baan 1,4,"Marcel Jonker, Manuel Vester, Thomas De Vries, Martijn Kicken","10,96,104,106",6,Homogeen (4M),5.00,False,
+11,Donderdag,TV Osdorp,20:00-21:00,Baan 1,4,"Jan-Jaap ten Have, Gregor O'Gorman, Bo Hitzert, Dani Tonge","110,206,72,232",8,Perfect (2M/2V),9.50,True,legacy_gedeeltelijk
+12,Maandag,Joy Jaagpad,18:00-19:00,Baan 1,4,"Lotte Bruinink, Sanne van Amerongen, Jovanna Koens, Rosa Bent","42,93,68,82",6-7 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+12,Maandag,Joy Jaagpad,18:00-19:00,Baan 2,4,"Josephine Berger, Diana Aragon, Jip Nooitgedacht, Malou van Oosterhoud","70,77,85,118",8,Homogeen (4V),9.83,True,legacy_gedeeltelijk
+12,Maandag,Joy Jaagpad,18:00-19:00,Baan 3,4,"Jeroen Glebbeek, Daan Van Apeldoorn, Noud Gabel, Emile Röell","71,101,69,103",7-8 (gemengd),Homogeen (4M),9.17,True,legacy_gedeeltelijk
+12,Maandag,Joy Jaagpad,19:00-20:00,Baan 1,4,"Denise de Vor, Kristie Lek, Juliette Eulderink, Sophie Poorthuis","94,95,92,111",6-7 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+12,Woensdag,TV Osdorp,19:00-20:00,Baan 3,4,"Merel Vrolijk, Liduine Kampschöer, Annefien Nieuwenhuis, Ming de Jong","40,41,13,99",7-8 (gemengd),Homogeen (4V),5.50,False,
+12,Maandag,TV Osdorp,18:00-19:00,Baan 1,4,"Lennart Van Roeden, Bart Blaauw, Chris Endhoven, Francis Hoogenboom","123,131,151,173",7,Homogeen (4M),10.00,True,legacy_volledig
+12,Maandag,TV Osdorp,18:00-19:00,Baan 2,4,"Marleen Ceton, Jennifer Daarnhouwer, Yvonne de Meij van Streefkerk, Merel Eekman","136,138,142,150",7,Homogeen (4V),10.00,True,legacy_volledig
+12,Maandag,TV Osdorp,18:00-19:00,Baan 3,4,"Debby Collignon, Eefke de Vos, Josien Duijzer, Britt Faber","137,144,149,152",8,Homogeen (4V),10.00,True,legacy_volledig
+12,Maandag,TV Osdorp,19:00-20:00,Baan 1,4,"Peter Kniest, Jose Meulemans, Thomas Been, Fernando Gomez","182,200,128,155",7-8 (gemengd),Homogeen (4M),10.00,True,legacy_volledig
+12,Maandag,TV Osdorp,19:00-20:00,Baan 2,4,"Monique De meijer, Isabel Harlaar, Camilla Harvey, Shireen Keijzer","79,163,164,180",8,Homogeen (4V),10.00,True,legacy_volledig
+12,Maandag,TV Osdorp,19:00-20:00,Baan 3,4,"Rivka Nieuwenhuizen, Marieke Rodenhuis, Maaike Stoffels, Loes Stoltenborg","203,215,229,230",8,Homogeen (4V),10.00,True,legacy_volledig
+12,Maandag,TV Osdorp,20:00-21:00,Baan 1,4,"Fern Van Nassauw, Noelle van Rens, Romy Boiten, Fien de Kok","243,246,133,141",8-9 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+12,Maandag,TV Osdorp,20:00-21:00,Baan 2,4,"Laura Haakman, Anna Herter, Jana Hofmann, Thamar Lambregtse","161,167,171,188",9,Homogeen (4V),10.00,True,legacy_volledig
+12,Maandag,TV Osdorp,20:00-21:00,Baan 3,4,"Stefan Waterlander, Mark van Ginkel, Stef Geven, Thijs Geven","22,23,24,25",4,Homogeen (4M),9.83,True,legacy_gedeeltelijk
+12,Maandag,TV Osdorp,21:00-22:00,Baan 1,4,"Roland Kraaijpoel, Vivek Narayanan, Maik Oud, Mehmet Sabuncu","186,202,209,218",8,Homogeen (4M),10.00,True,legacy_volledig
+12,Maandag,TV Osdorp,21:00-22:00,Baan 2,4,"Paloma Nijsse, Rianne Oosterbeek, Mariell Fingal, Fie Hünneman","204,208,153,174",9-10 (gemengd),Homogeen (4V),10.00,True,legacy_volledig
+12,Dinsdag,Joy Jaagpad,19:00-20:00,Baan 1,4,"Hanne van der Veen, Martine Röell, Rebecca Van der Weerdt, Marit Bosselaar","11,21,5,107",5-6 (gemengd),Homogeen (4V),5.50,False,
+12,Dinsdag,TV Osdorp,18:00-19:00,Baan 1,4,"Christian Best, Robbert Slim, Karel van Gelder, Willem van Ingen","129,224,239,241",7,Homogeen (4M),10.00,True,legacy_volledig
+12,Dinsdag,TV Osdorp,18:00-19:00,Baan 2,4,"Eerke Steller, Lotte Brouwer, Vanessa Kuiper, Marjon Sanders","116,135,187,219",7,Homogeen (4V),10.00,True,legacy_volledig
+12,Dinsdag,TV Osdorp,18:00-19:00,Baan 3,4,"Eline Beukers, Diana Lupandina, Anne-Rose Lynch, Dongok Moon","130,194,195,201",8,Homogeen (4V),10.00,True,legacy_volledig
+12,Dinsdag,TV Osdorp,19:00-20:00,Baan 1,4,"Danny de Kinderen, Gertjan de Vries, Rahoel Guman, Julian Hiraki","139,145,160,168",8,Homogeen (4M),10.00,True,legacy_volledig
+12,Dinsdag,TV Osdorp,19:00-20:00,Baan 2,4,"Kristel Dodde, Hanna Sung, Wendy van Heeswijk, Joyce van Weering","58,231,240,250",8,Homogeen (4V),9.83,True,legacy_gedeeltelijk
+12,Dinsdag,TV Osdorp,19:00-20:00,Baan 3,4,"Rosa Huetink, Nikkie Poelmann, Duygu Manav, Angelique Slager","62,64,198,223",8-9 (gemengd),Homogeen (4V),9.17,True,legacy_gedeeltelijk
+12,Dinsdag,TV Osdorp,20:00-21:00,Baan 1,4,"Sietho Idsinga, Dave Koekkoek, Aytac Manav, Matthew O Shea","175,183,197,205",8,Homogeen (4M),10.00,True,legacy_volledig
+12,Dinsdag,TV Osdorp,20:00-21:00,Baan 2,4,"Maartje Herweijer, Fleur Jansen, Larissa de Vor, Laura Taal","28,36,35,90",7-8 (gemengd),Homogeen (4V),5.50,False,
+12,Dinsdag,TV Osdorp,21:00-22:00,Baan 1,4,"Giuseppe Procaccianti, Tom van de Vrede, Anton van den Broek, Bowi van Onna","211,233,236,244",8,Homogeen (4M),10.00,True,legacy_volledig
+12,Woensdag,Joy Jaagpad,19:00-20:00,Baan 1,4,"Quirine Dechesne, Ellen Coppens, Suzanne Huyskes, Lisanne Scheffens","29,30,7,47",5-6 (gemengd),Homogeen (4V),9.17,True,legacy_gedeeltelijk
+12,Woensdag,Joy Jaagpad,19:00-20:00,Baan 2,4,"Christian van paridon, Jeroen Roffel, Daan van Beers, Sebastiaan van den Brink","49,97,119,235",7,Homogeen (4M),5.00,False,
+12,Woensdag,Joy Jaagpad,19:00-20:00,Baan 3,4,"Maxine Schultz, Pascale Schafrat, Nienke Bliek, Madeleine Versteeg","15,114,84,112",7-8 (gemengd),Homogeen (4V),9.17,False,
+12,Woensdag,TV Osdorp,18:00-19:00,Baan 1,4,"Henry Anijs, Josh Goldman, Nihad Hassani, Marcio Ikeda","125,154,165,176",9,Homogeen (4M),10.00,True,legacy_volledig
+12,Woensdag,TV Osdorp,18:00-19:00,Baan 2,4,"Corinne Spijker, Eveline Spijker, Justine Kist, Milli Levendag","227,228,14,192",7-8 (gemengd),Homogeen (4V),9.17,True,legacy_gedeeltelijk
+12,Woensdag,TV Osdorp,19:00-20:00,Baan 1,4,"Coen van der Pas, Laurens de Knijff, Marcel Ruitenberg, Ruben van Schoonneveldt","44,140,217,247",7,Homogeen (4M),9.83,True,legacy_gedeeltelijk
+12,Woensdag,TV Osdorp,19:00-20:00,Baan 2,4,"Rianne de Wit, Kristin Wahle, Tessa Schop, Annemijn van Beers","46,48,45,120",7,Homogeen (4V),9.00,False,
+12,Woensdag,TV Osdorp,20:00-21:00,Baan 1,4,"Qasim Khan, Bastiaan Kraaijenbrink, Thom Lunshof, Manuel Martinez","181,185,193,199",9,Homogeen (4M),10.00,True,legacy_volledig
+12,Woensdag,TV Osdorp,20:00-21:00,Baan 2,4,"Thom Smit, Calvin van den Hoven, Tessa VAN schie Proost, Claudia Bouw","225,237,38,78",8-9 (gemengd),Perfect (2M/2V),9.00,True,legacy_gedeeltelijk
+12,Woensdag,TV Osdorp,21:00-22:00,Baan 1,4,"Marcel Jonker, Manuel Vester, Thomas De Vries, Martijn Kicken","10,96,104,106",6,Homogeen (4M),5.00,False,
+12,Donderdag,TV Osdorp,20:00-21:00,Baan 1,4,"Jan-Jaap ten Have, Gregor O'Gorman, Bo Hitzert, Dani Tonge","110,206,72,232",8,Perfect (2M/2V),9.50,True,legacy_gedeeltelijk
+1,Maandag,Joy Jaagpad,19:00-20:00,Baan 2,4,"Iris Dekker, Maartje Klaver, Annemarie Appel, Viviane Hirano","147,115,53,169",8-9,Hersamensteld,9.17,False,
+1,Maandag,Joy Jaagpad,20:00-21:00,Baan 1,4,"Teska Vaessen, Maud Beltman, Isabel Pieterse, Nora Bartelsman","6,8,122,127",6-6,Hersamensteld,5.00,False,
+1,Dinsdag,Joy Jaagpad,18:00-19:00,Baan 1,4,"Narmin Gulmammadova, Françoise Nillesen, Coco Levendag, Margot Bolhuis","159,117,191,27",8-8,Hersamensteld,5.00,False,
+1,Dinsdag,Joy Jaagpad,20:00-21:00,Baan 1,4,"Peter-Paul Mast, Thom Van Eijden, Arnold Vlaander, Victor Keunen","9,105,83,89",6-7,Hersamensteld,3.50,False,
+2,Maandag,Joy Jaagpad,19:00-20:00,Baan 2,4,"Iris Dekker, Maartje Klaver, Annemarie Appel, Viviane Hirano","147,115,53,169",8-9,Hersamensteld,9.17,False,
+2,Maandag,Joy Jaagpad,20:00-21:00,Baan 1,4,"Teska Vaessen, Maud Beltman, Isabel Pieterse, Nora Bartelsman","6,8,122,127",6-6,Hersamensteld,5.00,False,
+2,Dinsdag,Joy Jaagpad,18:00-19:00,Baan 1,4,"Narmin Gulmammadova, Françoise Nillesen, Coco Levendag, Margot Bolhuis","159,117,191,27",8-8,Hersamensteld,5.00,False,
+2,Dinsdag,Joy Jaagpad,20:00-21:00,Baan 1,4,"Peter-Paul Mast, Thom Van Eijden, Arnold Vlaander, Victor Keunen","9,105,83,89",6-7,Hersamensteld,3.50,False,
+3,Maandag,Joy Jaagpad,19:00-20:00,Baan 2,4,"Iris Dekker, Maartje Klaver, Annemarie Appel, Viviane Hirano","147,115,53,169",8-9,Hersamensteld,9.17,False,
+3,Maandag,Joy Jaagpad,20:00-21:00,Baan 1,4,"Teska Vaessen, Maud Beltman, Isabel Pieterse, Nora Bartelsman","6,8,122,127",6-6,Hersamensteld,5.00,False,
+3,Dinsdag,Joy Jaagpad,18:00-19:00,Baan 1,4,"Narmin Gulmammadova, Françoise Nillesen, Coco Levendag, Margot Bolhuis","159,117,191,27",8-8,Hersamensteld,5.00,False,
+3,Dinsdag,Joy Jaagpad,20:00-21:00,Baan 1,4,"Peter-Paul Mast, Thom Van Eijden, Arnold Vlaander, Victor Keunen","9,105,83,89",6-7,Hersamensteld,3.50,False,
+4,Maandag,Joy Jaagpad,19:00-20:00,Baan 2,4,"Iris Dekker, Maartje Klaver, Annemarie Appel, Viviane Hirano","147,115,53,169",8-9,Hersamensteld,9.17,False,
+4,Maandag,Joy Jaagpad,20:00-21:00,Baan 1,4,"Teska Vaessen, Maud Beltman, Isabel Pieterse, Nora Bartelsman","6,8,122,127",6-6,Hersamensteld,5.00,False,
+4,Dinsdag,Joy Jaagpad,18:00-19:00,Baan 1,4,"Narmin Gulmammadova, Françoise Nillesen, Coco Levendag, Margot Bolhuis","159,117,191,27",8-8,Hersamensteld,5.00,False,
+4,Dinsdag,Joy Jaagpad,20:00-21:00,Baan 1,4,"Peter-Paul Mast, Thom Van Eijden, Arnold Vlaander, Victor Keunen","9,105,83,89",6-7,Hersamensteld,3.50,False,
+5,Maandag,Joy Jaagpad,19:00-20:00,Baan 2,4,"Iris Dekker, Maartje Klaver, Annemarie Appel, Viviane Hirano","147,115,53,169",8-9,Hersamensteld,9.17,False,
+5,Maandag,Joy Jaagpad,20:00-21:00,Baan 1,4,"Teska Vaessen, Maud Beltman, Isabel Pieterse, Nora Bartelsman","6,8,122,127",6-6,Hersamensteld,5.00,False,
+5,Dinsdag,Joy Jaagpad,18:00-19:00,Baan 1,4,"Narmin Gulmammadova, Françoise Nillesen, Coco Levendag, Margot Bolhuis","159,117,191,27",8-8,Hersamensteld,5.00,False,
+5,Dinsdag,Joy Jaagpad,20:00-21:00,Baan 1,4,"Peter-Paul Mast, Thom Van Eijden, Arnold Vlaander, Victor Keunen","9,105,83,89",6-7,Hersamensteld,3.50,False,
+6,Maandag,Joy Jaagpad,19:00-20:00,Baan 2,4,"Iris Dekker, Maartje Klaver, Annemarie Appel, Viviane Hirano","147,115,53,169",8-9,Hersamensteld,9.17,False,
+6,Maandag,Joy Jaagpad,20:00-21:00,Baan 1,4,"Teska Vaessen, Maud Beltman, Isabel Pieterse, Nora Bartelsman","6,8,122,127",6-6,Hersamensteld,5.00,False,
+6,Dinsdag,Joy Jaagpad,18:00-19:00,Baan 1,4,"Narmin Gulmammadova, Françoise Nillesen, Coco Levendag, Margot Bolhuis","159,117,191,27",8-8,Hersamensteld,5.00,False,
+6,Dinsdag,Joy Jaagpad,20:00-21:00,Baan 1,4,"Peter-Paul Mast, Thom Van Eijden, Arnold Vlaander, Victor Keunen","9,105,83,89",6-7,Hersamensteld,3.50,False,
+7,Maandag,Joy Jaagpad,19:00-20:00,Baan 2,4,"Iris Dekker, Maartje Klaver, Annemarie Appel, Viviane Hirano","147,115,53,169",8-9,Hersamensteld,9.17,False,
+7,Maandag,Joy Jaagpad,20:00-21:00,Baan 1,4,"Teska Vaessen, Maud Beltman, Isabel Pieterse, Nora Bartelsman","6,8,122,127",6-6,Hersamensteld,5.00,False,
+7,Dinsdag,Joy Jaagpad,18:00-19:00,Baan 1,4,"Narmin Gulmammadova, Françoise Nillesen, Coco Levendag, Margot Bolhuis","159,117,191,27",8-8,Hersamensteld,5.00,False,
+7,Dinsdag,Joy Jaagpad,20:00-21:00,Baan 1,4,"Peter-Paul Mast, Thom Van Eijden, Arnold Vlaander, Victor Keunen","9,105,83,89",6-7,Hersamensteld,3.50,False,
+8,Maandag,Joy Jaagpad,19:00-20:00,Baan 2,4,"Iris Dekker, Maartje Klaver, Annemarie Appel, Viviane Hirano","147,115,53,169",8-9,Hersamensteld,9.17,False,
+8,Maandag,Joy Jaagpad,20:00-21:00,Baan 1,4,"Teska Vaessen, Maud Beltman, Isabel Pieterse, Nora Bartelsman","6,8,122,127",6-6,Hersamensteld,5.00,False,
+8,Dinsdag,Joy Jaagpad,18:00-19:00,Baan 1,4,"Narmin Gulmammadova, Françoise Nillesen, Coco Levendag, Margot Bolhuis","159,117,191,27",8-8,Hersamensteld,5.00,False,
+8,Dinsdag,Joy Jaagpad,20:00-21:00,Baan 1,4,"Peter-Paul Mast, Thom Van Eijden, Arnold Vlaander, Victor Keunen","9,105,83,89",6-7,Hersamensteld,3.50,False,
+9,Maandag,Joy Jaagpad,19:00-20:00,Baan 2,4,"Iris Dekker, Maartje Klaver, Annemarie Appel, Viviane Hirano","147,115,53,169",8-9,Hersamensteld,9.17,False,
+9,Maandag,Joy Jaagpad,20:00-21:00,Baan 1,4,"Teska Vaessen, Maud Beltman, Isabel Pieterse, Nora Bartelsman","6,8,122,127",6-6,Hersamensteld,5.00,False,
+9,Dinsdag,Joy Jaagpad,18:00-19:00,Baan 1,4,"Narmin Gulmammadova, Françoise Nillesen, Coco Levendag, Margot Bolhuis","159,117,191,27",8-8,Hersamensteld,5.00,False,
+9,Dinsdag,Joy Jaagpad,20:00-21:00,Baan 1,4,"Peter-Paul Mast, Thom Van Eijden, Arnold Vlaander, Victor Keunen","9,105,83,89",6-7,Hersamensteld,3.50,False,
+10,Maandag,Joy Jaagpad,19:00-20:00,Baan 2,4,"Iris Dekker, Maartje Klaver, Annemarie Appel, Viviane Hirano","147,115,53,169",8-9,Hersamensteld,9.17,False,
+10,Maandag,Joy Jaagpad,20:00-21:00,Baan 1,4,"Teska Vaessen, Maud Beltman, Isabel Pieterse, Nora Bartelsman","6,8,122,127",6-6,Hersamensteld,5.00,False,
+10,Dinsdag,Joy Jaagpad,18:00-19:00,Baan 1,4,"Narmin Gulmammadova, Françoise Nillesen, Coco Levendag, Margot Bolhuis","159,117,191,27",8-8,Hersamensteld,5.00,False,
+10,Dinsdag,Joy Jaagpad,20:00-21:00,Baan 1,4,"Peter-Paul Mast, Thom Van Eijden, Arnold Vlaander, Victor Keunen","9,105,83,89",6-7,Hersamensteld,3.50,False,
+11,Maandag,Joy Jaagpad,19:00-20:00,Baan 2,4,"Iris Dekker, Maartje Klaver, Annemarie Appel, Viviane Hirano","147,115,53,169",8-9,Hersamensteld,9.17,False,
+11,Maandag,Joy Jaagpad,20:00-21:00,Baan 1,4,"Teska Vaessen, Maud Beltman, Isabel Pieterse, Nora Bartelsman","6,8,122,127",6-6,Hersamensteld,5.00,False,
+11,Dinsdag,Joy Jaagpad,18:00-19:00,Baan 1,4,"Narmin Gulmammadova, Françoise Nillesen, Coco Levendag, Margot Bolhuis","159,117,191,27",8-8,Hersamensteld,5.00,False,
+11,Dinsdag,Joy Jaagpad,20:00-21:00,Baan 1,4,"Peter-Paul Mast, Thom Van Eijden, Arnold Vlaander, Victor Keunen","9,105,83,89",6-7,Hersamensteld,3.50,False,
+12,Maandag,Joy Jaagpad,19:00-20:00,Baan 2,4,"Iris Dekker, Maartje Klaver, Annemarie Appel, Viviane Hirano","147,115,53,169",8-9,Hersamensteld,9.17,False,
+12,Maandag,Joy Jaagpad,20:00-21:00,Baan 1,4,"Teska Vaessen, Maud Beltman, Isabel Pieterse, Nora Bartelsman","6,8,122,127",6-6,Hersamensteld,5.00,False,
+12,Dinsdag,Joy Jaagpad,18:00-19:00,Baan 1,4,"Narmin Gulmammadova, Françoise Nillesen, Coco Levendag, Margot Bolhuis","159,117,191,27",8-8,Hersamensteld,5.00,False,
+12,Dinsdag,Joy Jaagpad,20:00-21:00,Baan 1,4,"Peter-Paul Mast, Thom Van Eijden, Arnold Vlaander, Victor Keunen","9,105,83,89",6-7,Hersamensteld,3.50,False,
