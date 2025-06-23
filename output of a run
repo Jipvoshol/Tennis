@@ -1,0 +1,123 @@
+Configuratie geladen uit: /home/jip/Meerkat/Meerkat/Planning/code/planning_config.json
+=== PLANNING MET LEGACY GROEPEN ONDERSTEUNING ===
+Geladen: 71 spelers
+SamenMet voorkeuren gevonden voor 34 spelers
+Geladen: 457 beschikbare baantijden
+Geladen: 102 legacy groepen
+Geladen: 84 trainer beschikbaarheidsrecords
+=== FASE 0: LEGACY GROEPEN PLANNING ===
+  Week 1: 0 volledig legacy groepen, 0 gedeeltelijk legacy groepen ingepland
+  Unieke volledig legacy-groepen in week 1: 0
+  Alle weken hebben dezelfde verdeling: 0 volledig legacy groepen, 0 gedeeltelijk legacy groepen ingepland per week.
+Legacy groepen planning voltooid:
+  - 0 legacy groepen succesvol ingepland
+  - 1224 legacy groepen konden niet worden ingepland
+  - Totaal: 0 legacy trainingen
+
+=== RAPPORT REDENEN AFGEWEZEN LEGACY GROEPEN ===
+  Te weinig blijvers: 1224 (100.0%)
+  Niet alle spelers beschikbaar: 0 (0.0%)
+  Niet tot 4 aan te vullen: 0 (0.0%)
+  Geen beschikbare baan: 0 (0.0%)
+  Groepgrootte ongeldig: 0 (0.0%)
+  Via alternatief tijdslot: 0 (0.0%)
+=== FASE 1: LOKALE OPTIMALISATIE ===
+Planning week 1...
+  Week 1: 56 spelers ingepland, 15 niet ingepland
+  Alle weken hebben dezelfde verdeling: 56 spelers ingepland, 15 niet ingepland per week.
+
+Lokale optimalisatie voltooid: 168 trainingen over 12 weken
+
+=== FASE 2: GLOBALE OPTIMALISATIE ===
+Start globale optimalisatie...
+  Iteratie 1/10
+    Fase 1: Groep verplaatsing...
+      0 groep verplaatsingen
+    Fase 2: Speler swapping...
+      0 speler swaps
+    Fase 3: Groep hersamenstelling...
+      0 groep hersamensstellingen
+    Totaal: 0 verbeteringen gevonden
+  Geen verdere verbeteringen mogelijk, stoppen met optimalisatie
+Globale optimalisatie voltooid
+
+Totale planning na optimalisatie: 168 trainingen over 12 weken
+
+=== FASE 3: TRAINER TOEWIJZING (MET BLOK-OPTIMALISATIE) ===
+  Echte trainer records: 84
+  Totaal beschikbaar (incl. dummies): 105 records
+  Totaal toegewezen: 168 van de 168 trainingen.
+    - Echte trainers: 156
+    - Dummy trainers: 12
+Planning geëxporteerd naar: /home/jip/Meerkat/Meerkat/Planning/planning/trainingsindeling.csv
+Rapport geëxporteerd naar: /home/jip/Meerkat/Meerkat/Planning/planning/niet_ingeplande_spelers.csv
+
+============================================================
+TENNIS PLANNING SAMENVATTING
+============================================================
+
+ALGEMENE STATISTIEKEN
+  Aantal weken: 12
+  Trainingen per week: 14
+  Totaal trainingen: 168
+
+WEEK 1 (representatief voor alle weken)
+  Ingeplande spelers: 56
+  Niet ingeplande spelers: 15
+
+KWALITEITSANALYSE
+  Gemiddelde score: 7.00
+  Hoogste score: 8.00
+  Excellent (>9.0): 0 (0.0%)
+  Good (7.0-9.0): 108 (64.3%)
+  Average (5.0-7.0): 60 (35.7%)
+  Poor (<5.0): 0 (0.0%)
+
+GROEPSTYPEN (totaal aantal trainingen over alle weken)
+  Volledige legacy trainingen: 0
+  Gedeeltelijke legacy trainingen: 0
+  Nieuwe trainingen: 168
+
+UNIEKE VOLLEDIGE LEGACY GROEPEN: 0
+
+OVERZICHT UNIEKE VOLLEDIGE LEGACY GROEPEN:
+GENDER VERDELING (totaal)
+  Homogeen (4V): 84 (50.0%)
+  Perfect (2M/2V): 48 (28.6%)
+  Homogeen (4M): 36 (21.4%)
+
+NIVEAU VERDELING (top 5)
+  7: 24 (14.3%)
+  9: 24 (14.3%)
+  10: 24 (14.3%)
+  8: 24 (14.3%)
+  7-8 (gemengd): 24 (14.3%)
+
+TRAINER TOEWIJZING (totaal over alle weken)
+  Aantal unieke echte trainers: 4
+  Aantal unieke dummy trainers: 1
+  Trainingen met echte trainer: 156
+  Trainingen met dummy trainer: 12
+  Totaal trainingen: 168
+
+TRAINER TOEWIJZING (week 1)
+  Trainingen met echte trainer: 13
+  Trainingen met dummy trainer: 1
+  Unieke echte trainers in week 1: 4
+  Unieke dummy trainers in week 1: 1
+  Overzicht trainingen per trainer (week 1):
+    Raymon: 7 trainingen
+    Pedro: 4 trainingen
+    Louk: 1 trainingen
+    Guilherme: 1 trainingen
+    Trainer A: 1 trainingen
+
+NIET INGEPLANDE SPELERS (Week 1)
+  Aantal: 15
+  Voorbeelden: Viathou Bijleveld, Brian De leeuw, Tim van den Meijdenberg, Eliza Arzhakova, Marjet van Beek ... en 10 anderen
+
+PERCENTAGE INGEPLAND (week 1): 78.9% van alle spelers uit de dataset
+
+============================================================
+PLANNING VOLTOOID
+============================================================
