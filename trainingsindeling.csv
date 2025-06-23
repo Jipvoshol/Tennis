@@ -1,0 +1,505 @@
+Week,Dag,Tijd,Locatie,Baan,Trainer,Spelers,Niveau,Gender_Balans,Score,Type
+1,Maandag,18:00-19:00,Joy Jaagpad,Baan 1,Raymon,"Jip Nooitgedacht, Iris Dekker, Narmin Gulmammadova, Coco Levendag",8,Homogeen (4V),7.00,
+1,Maandag,19:00-20:00,Joy Jaagpad,Baan 1,Raymon,"Jacob Vlaander, Mike Nieland, Anoek Verdonck (toegevoegd), Benthe van Rossem (toegevoegd)",7,Perfect (2M/2V),9.50,legacy_gedeeltelijk
+1,Maandag,19:00-20:00,TV Osdorp,Baan 1,Alvaro,"Emine Akdemir, Angelique Slager, Mariell Fingal, Wesley Pieper (toegevoegd)",9-12 (gemengd),"Anders (M:1, V:3)",10.00,legacy_volledig
+1,Maandag,19:00-20:00,TV Osdorp,Baan 2,Dyan,"Jennifer Daarnhouwer, Rivka Nieuwenhuizen, Britt Faber, Hao Shen (toegevoegd)",7-8 (gemengd),"Anders (M:1, V:3)",9.33,legacy_gedeeltelijk
+1,Maandag,20:00-21:00,TV Osdorp,Baan 1,Alvaro,"Peter Kniest, Jose Meulemans, Bastiaan Kraaijenbrink, Jana Hofmann",7-9 (gemengd),"Anders (M:3, V:1)",10.00,legacy_volledig
+1,Maandag,20:00-21:00,TV Osdorp,Baan 2,Dyan,"Karin Bouwmeester, Sylvia Kastein, Niels Hofman, Kirsten Hage",8,"Anders (M:1, V:3)",10.00,legacy_volledig
+1,Maandag,20:00-21:00,TV Osdorp,Baan 1,Trainer A,"Nils IJske, Manuel Vester, Sjors van Laarhoven, Ulvi Gulmammadov",6-7 (gemengd),Homogeen (4M),5.50,
+1,Maandag,21:00-22:00,Joy Jaagpad,Baan 1,Raymon,"Sanne van Amerongen, Denise de Vor, Teska Vaessen (toegevoegd), Peter-Paul Mast (toegevoegd)",6,"Anders (M:1, V:3)",8.17,legacy_gedeeltelijk
+1,Maandag,21:00-22:00,TV Osdorp,Baan 1,Trainer A,"Tom van de Vrede, Calvin van den Hoven, Maik Oud, Ming de Jong (toegevoegd)",8-9 (gemengd),"Anders (M:3, V:1)",9.33,legacy_gedeeltelijk
+1,Maandag,21:00-22:00,TV Osdorp,Baan 2,Trainer B,"Fern Van Nassauw, Maaike Stoffels, Thom Lunshof, Thomas Been (toegevoegd)",8-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+1,Dinsdag,18:00-19:00,TV Osdorp,Baan 1,Dyan,"Wendy van Heeswijk, Rianne Oosterbeek, Maikel Munsterhuis (toegevoegd), Christof Tenkink (toegevoegd)",8-9 (gemengd),Perfect (2M/2V),8.50,legacy_gedeeltelijk
+1,Dinsdag,18:00-19:00,Joy Jaagpad,Baan 1,Raymon,"Sofia de Haan, Sanne Boels, Wissal Kobeissi, Ellis van der Gulik",9-10 (gemengd),Homogeen (4V),5.50,
+1,Dinsdag,19:00-20:00,TV Osdorp,Baan 1,Francois,"Mark Roffelsen, Simon Koning, Kevin van loon, Joey Van Straten",8-9 (gemengd),Homogeen (4M),10.00,legacy_volledig
+1,Dinsdag,19:00-20:00,TV Osdorp,Baan 2,Emil,"Joyce van Weering, Lotte Brouwer, Thom Smit, Danny de Kinderen",7-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+1,Dinsdag,19:00-20:00,TV Osdorp,Baan 1,Trainer A,"Marcel Jonker, Thomas De Vries, Maud Beltman, Isabel Pieterse",6,Perfect (2M/2V),5.00,
+1,Dinsdag,20:00-21:00,TV Osdorp,Baan 1,Francois,"Thamar Lambregtse, Dongok Moon, Hanna Sung, Reimer Janssen (toegevoegd)",8-9 (gemengd),"Anders (M:1, V:3)",9.08,legacy_gedeeltelijk
+1,Dinsdag,20:00-21:00,Joy Jaagpad,Baan 1,Raymon,"Daan Van Apeldoorn, Vincent van Donk, Rebecca Van der Weerdt, Suzanne Huyskes",6-7 (gemengd),Perfect (2M/2V),6.50,
+1,Dinsdag,20:00-21:00,TV Osdorp,Baan 1,Emil,"Maartje Herweijer, Fleur Jansen, Kristel Dodde, Nikkie Poelmann",8,Homogeen (4V),7.00,
+1,Dinsdag,21:00-22:00,TV Osdorp,Baan 1,Trainer A,"Wesley de Ruig, Erik Maas, Derek Lampe, Kiki Boreel (toegevoegd)",8,"Anders (M:3, V:1)",9.08,legacy_gedeeltelijk
+1,Dinsdag,21:00-22:00,TV Osdorp,Baan 2,Trainer B,"Lin Rezelman, Moses Sani, Puck van den Bosch, Marcio Ikeda (toegevoegd)",8-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+1,Woensdag,18:00-19:00,TV Osdorp,Baan 1,Pedro,"Nicolette Gründlehner, Rebecca Hollenberg, Paulien Gonzalez, Charlotte Degenkamp",7-8 (gemengd),Homogeen (4V),10.00,legacy_volledig
+1,Woensdag,19:00-20:00,TV Osdorp,Baan 1,Pedro,"Stef Geven, Thijs Geven, Mark van Ginkel, Hanne van der Veen (toegevoegd)",4-5 (gemengd),"Anders (M:3, V:1)",9.08,legacy_gedeeltelijk
+1,Woensdag,19:00-20:00,TV Osdorp,Baan 2,Dyan,"Marcel Ruitenberg, Lennart Van Roeden, Merel van der Weijde (toegevoegd), Larissa de Vor (toegevoegd)",7,Perfect (2M/2V),9.00,legacy_gedeeltelijk
+1,Woensdag,19:00-20:00,Joy Jaagpad,Baan 1,Raymon,"Arnold Vlaander, Jeroen Roffel, Daan van Beers, Sebastiaan van den Brink",7,Homogeen (4M),7.00,
+1,Woensdag,19:00-20:00,Joy Jaagpad,Baan 2,Youssef,"Lisanne Scheffens, Marit Bosselaar, Tessa Schop, Suzanne Straathof",6-7 (gemengd),Homogeen (4V),4.00,
+1,Woensdag,19:00-20:00,TV Osdorp,Baan 1,Francois,"Rianne de Wit, Kristin Wahle, Claudia Bouw, Milli Levendag",7-8 (gemengd),Homogeen (4V),5.50,
+1,Woensdag,20:00-21:00,Joy Jaagpad,Baan 1,Youssef,"Maud Warmerdam, Jeroen Keij, Wouter Neven, Laurien Reinalda",8-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+1,Woensdag,20:00-21:00,TV Osdorp,Baan 1,Pedro,"Willem van Ingen, Ruben van Schoonneveldt, Maud Santing (toegevoegd), Merel Vrolijk (toegevoegd)",7,Perfect (2M/2V),9.00,legacy_gedeeltelijk
+1,Woensdag,20:00-21:00,TV Osdorp,Baan 2,Dyan,"Ruud Onclin, Wim van vuure, Jan Ridder, Liduine Kampschöer (toegevoegd)",7,"Anders (M:3, V:1)",9.08,legacy_gedeeltelijk
+1,Woensdag,20:00-21:00,TV Osdorp,Baan 3,Francois,"Anne-Rose Lynch, Paloma Nijsse, Margot Bolhuis (toegevoegd), Remco van Dijk (toegevoegd)",8-9 (gemengd),"Anders (M:1, V:3)",8.17,legacy_gedeeltelijk
+1,Woensdag,21:00-22:00,TV Osdorp,Baan 1,Trainer A,"Lourens Keers, Frits Van Pijkeren, Stijn Lechner, Anton Dodkin",7,Homogeen (4M),10.00,legacy_volledig
+1,Woensdag,21:00-22:00,TV Osdorp,Baan 2,Trainer B,"Bowi van Onna, Isabel Harlaar, Frank Boerma, Laura Taal (toegevoegd)",6-8 (gemengd),Perfect (2M/2V),9.25,legacy_gedeeltelijk
+1,Woensdag,21:00-22:00,TV Osdorp,Baan 3,Trainer C,"Karel van Gelder, Laurens de Knijff, Gregor O'Gorman, Pascale Schafrat (toegevoegd)",7-8 (gemengd),"Anders (M:3, V:1)",9.33,legacy_gedeeltelijk
+1,Donderdag,19:00-20:00,Joy Jaagpad,Baan 1,Pedro,"Jeroen Glebbeek, Josephine Berger, Annefien Nieuwenhuis (toegevoegd), Emile Röell (toegevoegd)",7-8 (gemengd),Perfect (2M/2V),8.50,legacy_gedeeltelijk
+1,Donderdag,19:00-20:00,TV Osdorp,Baan 1,Guilherme,"Fie Hünneman, Marieke Rodenhuis, Nihad Hassani, Sjoerd Raijmans (toegevoegd)",8-10 (gemengd),Perfect (2M/2V),9.25,legacy_gedeeltelijk
+1,Donderdag,19:00-20:00,TV Osdorp,Baan 2,Youssef,"Josien Duijzer, Shireen Keijzer, Rosa Huetink (toegevoegd), Dave Koekkoek (toegevoegd)",8,"Anders (M:1, V:3)",9.08,legacy_gedeeltelijk
+1,Donderdag,20:00-21:00,TV Osdorp,Baan 1,Guilherme,"Roos Reinders, Helena Heno, Raquel Wijngaarde (toegevoegd), Josh Goldman (toegevoegd)",9,"Anders (M:1, V:3)",9.08,legacy_gedeeltelijk
+1,Donderdag,20:00-21:00,TV Osdorp,Baan 2,Dyan,"Qasim Khan, Marieke Jansen, Loes Stoltenborg, Gertjan de Vries",7-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+1,Donderdag,21:00-22:00,TV Osdorp,Baan 1,Trainer A,"Corinne Spijker, Romy Boiten, Laura Haakman, Eveline Spijker",7-9 (gemengd),Homogeen (4V),10.00,legacy_volledig
+1,Donderdag,21:00-22:00,TV Osdorp,Baan 2,Trainer B,"Mehmet Sabuncu, Sietho Idsinga, Justine Kist (toegevoegd), Maxine Schultz (toegevoegd)",8,Perfect (2M/2V),9.00,legacy_gedeeltelijk
+1,Donderdag,21:00-22:00,TV Osdorp,Baan 3,Trainer C,"Noelle van Rens, Marleen Ceton, Tessa VAN schie Proost (toegevoegd), Jan-Jaap ten Have (toegevoegd)",7-8 (gemengd),"Anders (M:1, V:3)",8.67,legacy_gedeeltelijk
+1,Vrijdag,20:00-21:00,TV Osdorp,Baan 1,Francois,"Duygu Manav, Aytac Manav, Elmira Baghery (toegevoegd), Fernando Gomez (toegevoegd)",8-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+2,Maandag,18:00-19:00,Joy Jaagpad,Baan 1,Raymon,"Jip Nooitgedacht, Iris Dekker, Narmin Gulmammadova, Coco Levendag",8,Homogeen (4V),7.00,
+2,Maandag,19:00-20:00,Joy Jaagpad,Baan 1,Raymon,"Jacob Vlaander, Mike Nieland, Anoek Verdonck (toegevoegd), Benthe van Rossem (toegevoegd)",7,Perfect (2M/2V),9.50,legacy_gedeeltelijk
+2,Maandag,19:00-20:00,TV Osdorp,Baan 1,Alvaro,"Emine Akdemir, Angelique Slager, Mariell Fingal, Wesley Pieper (toegevoegd)",9-12 (gemengd),"Anders (M:1, V:3)",10.00,legacy_volledig
+2,Maandag,19:00-20:00,TV Osdorp,Baan 2,Dyan,"Jennifer Daarnhouwer, Rivka Nieuwenhuizen, Britt Faber, Hao Shen (toegevoegd)",7-8 (gemengd),"Anders (M:1, V:3)",9.33,legacy_gedeeltelijk
+2,Maandag,20:00-21:00,TV Osdorp,Baan 1,Alvaro,"Peter Kniest, Jose Meulemans, Bastiaan Kraaijenbrink, Jana Hofmann",7-9 (gemengd),"Anders (M:3, V:1)",10.00,legacy_volledig
+2,Maandag,20:00-21:00,TV Osdorp,Baan 2,Dyan,"Karin Bouwmeester, Sylvia Kastein, Niels Hofman, Kirsten Hage",8,"Anders (M:1, V:3)",10.00,legacy_volledig
+2,Maandag,20:00-21:00,TV Osdorp,Baan 1,Trainer A,"Nils IJske, Manuel Vester, Sjors van Laarhoven, Ulvi Gulmammadov",6-7 (gemengd),Homogeen (4M),5.50,
+2,Maandag,21:00-22:00,Joy Jaagpad,Baan 1,Raymon,"Sanne van Amerongen, Denise de Vor, Teska Vaessen (toegevoegd), Peter-Paul Mast (toegevoegd)",6,"Anders (M:1, V:3)",8.17,legacy_gedeeltelijk
+2,Maandag,21:00-22:00,TV Osdorp,Baan 1,Trainer A,"Tom van de Vrede, Calvin van den Hoven, Maik Oud, Ming de Jong (toegevoegd)",8-9 (gemengd),"Anders (M:3, V:1)",9.33,legacy_gedeeltelijk
+2,Maandag,21:00-22:00,TV Osdorp,Baan 2,Trainer B,"Fern Van Nassauw, Maaike Stoffels, Thom Lunshof, Thomas Been (toegevoegd)",8-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+2,Dinsdag,18:00-19:00,TV Osdorp,Baan 1,Dyan,"Wendy van Heeswijk, Rianne Oosterbeek, Maikel Munsterhuis (toegevoegd), Christof Tenkink (toegevoegd)",8-9 (gemengd),Perfect (2M/2V),8.50,legacy_gedeeltelijk
+2,Dinsdag,18:00-19:00,Joy Jaagpad,Baan 1,Raymon,"Sofia de Haan, Sanne Boels, Wissal Kobeissi, Ellis van der Gulik",9-10 (gemengd),Homogeen (4V),5.50,
+2,Dinsdag,19:00-20:00,TV Osdorp,Baan 1,Francois,"Mark Roffelsen, Simon Koning, Kevin van loon, Joey Van Straten",8-9 (gemengd),Homogeen (4M),10.00,legacy_volledig
+2,Dinsdag,19:00-20:00,TV Osdorp,Baan 2,Emil,"Joyce van Weering, Lotte Brouwer, Thom Smit, Danny de Kinderen",7-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+2,Dinsdag,19:00-20:00,TV Osdorp,Baan 1,Trainer A,"Marcel Jonker, Thomas De Vries, Maud Beltman, Isabel Pieterse",6,Perfect (2M/2V),5.00,
+2,Dinsdag,20:00-21:00,TV Osdorp,Baan 1,Francois,"Thamar Lambregtse, Dongok Moon, Hanna Sung, Reimer Janssen (toegevoegd)",8-9 (gemengd),"Anders (M:1, V:3)",9.08,legacy_gedeeltelijk
+2,Dinsdag,20:00-21:00,Joy Jaagpad,Baan 1,Raymon,"Daan Van Apeldoorn, Vincent van Donk, Rebecca Van der Weerdt, Suzanne Huyskes",6-7 (gemengd),Perfect (2M/2V),6.50,
+2,Dinsdag,20:00-21:00,TV Osdorp,Baan 1,Emil,"Maartje Herweijer, Fleur Jansen, Kristel Dodde, Nikkie Poelmann",8,Homogeen (4V),7.00,
+2,Dinsdag,21:00-22:00,TV Osdorp,Baan 1,Trainer A,"Wesley de Ruig, Erik Maas, Derek Lampe, Kiki Boreel (toegevoegd)",8,"Anders (M:3, V:1)",9.08,legacy_gedeeltelijk
+2,Dinsdag,21:00-22:00,TV Osdorp,Baan 2,Trainer B,"Lin Rezelman, Moses Sani, Puck van den Bosch, Marcio Ikeda (toegevoegd)",8-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+2,Woensdag,18:00-19:00,TV Osdorp,Baan 1,Pedro,"Nicolette Gründlehner, Rebecca Hollenberg, Paulien Gonzalez, Charlotte Degenkamp",7-8 (gemengd),Homogeen (4V),10.00,legacy_volledig
+2,Woensdag,19:00-20:00,TV Osdorp,Baan 1,Pedro,"Stef Geven, Thijs Geven, Mark van Ginkel, Hanne van der Veen (toegevoegd)",4-5 (gemengd),"Anders (M:3, V:1)",9.08,legacy_gedeeltelijk
+2,Woensdag,19:00-20:00,TV Osdorp,Baan 2,Dyan,"Marcel Ruitenberg, Lennart Van Roeden, Merel van der Weijde (toegevoegd), Larissa de Vor (toegevoegd)",7,Perfect (2M/2V),9.00,legacy_gedeeltelijk
+2,Woensdag,19:00-20:00,Joy Jaagpad,Baan 1,Raymon,"Arnold Vlaander, Jeroen Roffel, Daan van Beers, Sebastiaan van den Brink",7,Homogeen (4M),7.00,
+2,Woensdag,19:00-20:00,Joy Jaagpad,Baan 2,Youssef,"Lisanne Scheffens, Marit Bosselaar, Tessa Schop, Suzanne Straathof",6-7 (gemengd),Homogeen (4V),4.00,
+2,Woensdag,19:00-20:00,TV Osdorp,Baan 1,Francois,"Rianne de Wit, Kristin Wahle, Claudia Bouw, Milli Levendag",7-8 (gemengd),Homogeen (4V),5.50,
+2,Woensdag,20:00-21:00,Joy Jaagpad,Baan 1,Youssef,"Maud Warmerdam, Jeroen Keij, Wouter Neven, Laurien Reinalda",8-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+2,Woensdag,20:00-21:00,TV Osdorp,Baan 1,Pedro,"Willem van Ingen, Ruben van Schoonneveldt, Maud Santing (toegevoegd), Merel Vrolijk (toegevoegd)",7,Perfect (2M/2V),9.00,legacy_gedeeltelijk
+2,Woensdag,20:00-21:00,TV Osdorp,Baan 2,Dyan,"Ruud Onclin, Wim van vuure, Jan Ridder, Liduine Kampschöer (toegevoegd)",7,"Anders (M:3, V:1)",9.08,legacy_gedeeltelijk
+2,Woensdag,20:00-21:00,TV Osdorp,Baan 3,Francois,"Anne-Rose Lynch, Paloma Nijsse, Margot Bolhuis (toegevoegd), Remco van Dijk (toegevoegd)",8-9 (gemengd),"Anders (M:1, V:3)",8.17,legacy_gedeeltelijk
+2,Woensdag,21:00-22:00,TV Osdorp,Baan 1,Trainer A,"Lourens Keers, Frits Van Pijkeren, Stijn Lechner, Anton Dodkin",7,Homogeen (4M),10.00,legacy_volledig
+2,Woensdag,21:00-22:00,TV Osdorp,Baan 2,Trainer B,"Bowi van Onna, Isabel Harlaar, Frank Boerma, Laura Taal (toegevoegd)",6-8 (gemengd),Perfect (2M/2V),9.25,legacy_gedeeltelijk
+2,Woensdag,21:00-22:00,TV Osdorp,Baan 3,Trainer C,"Karel van Gelder, Laurens de Knijff, Gregor O'Gorman, Pascale Schafrat (toegevoegd)",7-8 (gemengd),"Anders (M:3, V:1)",9.33,legacy_gedeeltelijk
+2,Donderdag,19:00-20:00,Joy Jaagpad,Baan 1,Pedro,"Jeroen Glebbeek, Josephine Berger, Annefien Nieuwenhuis (toegevoegd), Emile Röell (toegevoegd)",7-8 (gemengd),Perfect (2M/2V),8.50,legacy_gedeeltelijk
+2,Donderdag,19:00-20:00,TV Osdorp,Baan 1,Guilherme,"Fie Hünneman, Marieke Rodenhuis, Nihad Hassani, Sjoerd Raijmans (toegevoegd)",8-10 (gemengd),Perfect (2M/2V),9.25,legacy_gedeeltelijk
+2,Donderdag,19:00-20:00,TV Osdorp,Baan 2,Youssef,"Josien Duijzer, Shireen Keijzer, Rosa Huetink (toegevoegd), Dave Koekkoek (toegevoegd)",8,"Anders (M:1, V:3)",9.08,legacy_gedeeltelijk
+2,Donderdag,20:00-21:00,TV Osdorp,Baan 1,Guilherme,"Roos Reinders, Helena Heno, Raquel Wijngaarde (toegevoegd), Josh Goldman (toegevoegd)",9,"Anders (M:1, V:3)",9.08,legacy_gedeeltelijk
+2,Donderdag,20:00-21:00,TV Osdorp,Baan 2,Dyan,"Qasim Khan, Marieke Jansen, Loes Stoltenborg, Gertjan de Vries",7-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+2,Donderdag,21:00-22:00,TV Osdorp,Baan 1,Trainer A,"Corinne Spijker, Romy Boiten, Laura Haakman, Eveline Spijker",7-9 (gemengd),Homogeen (4V),10.00,legacy_volledig
+2,Donderdag,21:00-22:00,TV Osdorp,Baan 2,Trainer B,"Mehmet Sabuncu, Sietho Idsinga, Justine Kist (toegevoegd), Maxine Schultz (toegevoegd)",8,Perfect (2M/2V),9.00,legacy_gedeeltelijk
+2,Donderdag,21:00-22:00,TV Osdorp,Baan 3,Trainer C,"Noelle van Rens, Marleen Ceton, Tessa VAN schie Proost (toegevoegd), Jan-Jaap ten Have (toegevoegd)",7-8 (gemengd),"Anders (M:1, V:3)",8.67,legacy_gedeeltelijk
+2,Vrijdag,20:00-21:00,TV Osdorp,Baan 1,Francois,"Duygu Manav, Aytac Manav, Elmira Baghery (toegevoegd), Fernando Gomez (toegevoegd)",8-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+3,Maandag,18:00-19:00,Joy Jaagpad,Baan 1,Raymon,"Jip Nooitgedacht, Iris Dekker, Narmin Gulmammadova, Coco Levendag",8,Homogeen (4V),7.00,
+3,Maandag,19:00-20:00,Joy Jaagpad,Baan 1,Raymon,"Jacob Vlaander, Mike Nieland, Anoek Verdonck (toegevoegd), Benthe van Rossem (toegevoegd)",7,Perfect (2M/2V),9.50,legacy_gedeeltelijk
+3,Maandag,19:00-20:00,TV Osdorp,Baan 1,Alvaro,"Emine Akdemir, Angelique Slager, Mariell Fingal, Wesley Pieper (toegevoegd)",9-12 (gemengd),"Anders (M:1, V:3)",10.00,legacy_volledig
+3,Maandag,19:00-20:00,TV Osdorp,Baan 2,Dyan,"Jennifer Daarnhouwer, Rivka Nieuwenhuizen, Britt Faber, Hao Shen (toegevoegd)",7-8 (gemengd),"Anders (M:1, V:3)",9.33,legacy_gedeeltelijk
+3,Maandag,20:00-21:00,TV Osdorp,Baan 1,Alvaro,"Peter Kniest, Jose Meulemans, Bastiaan Kraaijenbrink, Jana Hofmann",7-9 (gemengd),"Anders (M:3, V:1)",10.00,legacy_volledig
+3,Maandag,20:00-21:00,TV Osdorp,Baan 2,Dyan,"Karin Bouwmeester, Sylvia Kastein, Niels Hofman, Kirsten Hage",8,"Anders (M:1, V:3)",10.00,legacy_volledig
+3,Maandag,20:00-21:00,TV Osdorp,Baan 1,Trainer A,"Nils IJske, Manuel Vester, Sjors van Laarhoven, Ulvi Gulmammadov",6-7 (gemengd),Homogeen (4M),5.50,
+3,Maandag,21:00-22:00,Joy Jaagpad,Baan 1,Raymon,"Sanne van Amerongen, Denise de Vor, Teska Vaessen (toegevoegd), Peter-Paul Mast (toegevoegd)",6,"Anders (M:1, V:3)",8.17,legacy_gedeeltelijk
+3,Maandag,21:00-22:00,TV Osdorp,Baan 1,Trainer A,"Tom van de Vrede, Calvin van den Hoven, Maik Oud, Ming de Jong (toegevoegd)",8-9 (gemengd),"Anders (M:3, V:1)",9.33,legacy_gedeeltelijk
+3,Maandag,21:00-22:00,TV Osdorp,Baan 2,Trainer B,"Fern Van Nassauw, Maaike Stoffels, Thom Lunshof, Thomas Been (toegevoegd)",8-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+3,Dinsdag,18:00-19:00,TV Osdorp,Baan 1,Dyan,"Wendy van Heeswijk, Rianne Oosterbeek, Maikel Munsterhuis (toegevoegd), Christof Tenkink (toegevoegd)",8-9 (gemengd),Perfect (2M/2V),8.50,legacy_gedeeltelijk
+3,Dinsdag,18:00-19:00,Joy Jaagpad,Baan 1,Raymon,"Sofia de Haan, Sanne Boels, Wissal Kobeissi, Ellis van der Gulik",9-10 (gemengd),Homogeen (4V),5.50,
+3,Dinsdag,19:00-20:00,TV Osdorp,Baan 1,Francois,"Mark Roffelsen, Simon Koning, Kevin van loon, Joey Van Straten",8-9 (gemengd),Homogeen (4M),10.00,legacy_volledig
+3,Dinsdag,19:00-20:00,TV Osdorp,Baan 2,Emil,"Joyce van Weering, Lotte Brouwer, Thom Smit, Danny de Kinderen",7-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+3,Dinsdag,19:00-20:00,TV Osdorp,Baan 1,Trainer A,"Marcel Jonker, Thomas De Vries, Maud Beltman, Isabel Pieterse",6,Perfect (2M/2V),5.00,
+3,Dinsdag,20:00-21:00,TV Osdorp,Baan 1,Francois,"Thamar Lambregtse, Dongok Moon, Hanna Sung, Reimer Janssen (toegevoegd)",8-9 (gemengd),"Anders (M:1, V:3)",9.08,legacy_gedeeltelijk
+3,Dinsdag,20:00-21:00,Joy Jaagpad,Baan 1,Raymon,"Daan Van Apeldoorn, Vincent van Donk, Rebecca Van der Weerdt, Suzanne Huyskes",6-7 (gemengd),Perfect (2M/2V),6.50,
+3,Dinsdag,20:00-21:00,TV Osdorp,Baan 1,Emil,"Maartje Herweijer, Fleur Jansen, Kristel Dodde, Nikkie Poelmann",8,Homogeen (4V),7.00,
+3,Dinsdag,21:00-22:00,TV Osdorp,Baan 1,Trainer A,"Wesley de Ruig, Erik Maas, Derek Lampe, Kiki Boreel (toegevoegd)",8,"Anders (M:3, V:1)",9.08,legacy_gedeeltelijk
+3,Dinsdag,21:00-22:00,TV Osdorp,Baan 2,Trainer B,"Lin Rezelman, Moses Sani, Puck van den Bosch, Marcio Ikeda (toegevoegd)",8-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+3,Woensdag,18:00-19:00,TV Osdorp,Baan 1,Pedro,"Nicolette Gründlehner, Rebecca Hollenberg, Paulien Gonzalez, Charlotte Degenkamp",7-8 (gemengd),Homogeen (4V),10.00,legacy_volledig
+3,Woensdag,19:00-20:00,TV Osdorp,Baan 1,Pedro,"Stef Geven, Thijs Geven, Mark van Ginkel, Hanne van der Veen (toegevoegd)",4-5 (gemengd),"Anders (M:3, V:1)",9.08,legacy_gedeeltelijk
+3,Woensdag,19:00-20:00,TV Osdorp,Baan 2,Dyan,"Marcel Ruitenberg, Lennart Van Roeden, Merel van der Weijde (toegevoegd), Larissa de Vor (toegevoegd)",7,Perfect (2M/2V),9.00,legacy_gedeeltelijk
+3,Woensdag,19:00-20:00,Joy Jaagpad,Baan 1,Raymon,"Arnold Vlaander, Jeroen Roffel, Daan van Beers, Sebastiaan van den Brink",7,Homogeen (4M),7.00,
+3,Woensdag,19:00-20:00,Joy Jaagpad,Baan 2,Youssef,"Lisanne Scheffens, Marit Bosselaar, Tessa Schop, Suzanne Straathof",6-7 (gemengd),Homogeen (4V),4.00,
+3,Woensdag,19:00-20:00,TV Osdorp,Baan 1,Francois,"Rianne de Wit, Kristin Wahle, Claudia Bouw, Milli Levendag",7-8 (gemengd),Homogeen (4V),5.50,
+3,Woensdag,20:00-21:00,Joy Jaagpad,Baan 1,Youssef,"Maud Warmerdam, Jeroen Keij, Wouter Neven, Laurien Reinalda",8-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+3,Woensdag,20:00-21:00,TV Osdorp,Baan 1,Pedro,"Willem van Ingen, Ruben van Schoonneveldt, Maud Santing (toegevoegd), Merel Vrolijk (toegevoegd)",7,Perfect (2M/2V),9.00,legacy_gedeeltelijk
+3,Woensdag,20:00-21:00,TV Osdorp,Baan 2,Dyan,"Ruud Onclin, Wim van vuure, Jan Ridder, Liduine Kampschöer (toegevoegd)",7,"Anders (M:3, V:1)",9.08,legacy_gedeeltelijk
+3,Woensdag,20:00-21:00,TV Osdorp,Baan 3,Francois,"Anne-Rose Lynch, Paloma Nijsse, Margot Bolhuis (toegevoegd), Remco van Dijk (toegevoegd)",8-9 (gemengd),"Anders (M:1, V:3)",8.17,legacy_gedeeltelijk
+3,Woensdag,21:00-22:00,TV Osdorp,Baan 1,Trainer A,"Lourens Keers, Frits Van Pijkeren, Stijn Lechner, Anton Dodkin",7,Homogeen (4M),10.00,legacy_volledig
+3,Woensdag,21:00-22:00,TV Osdorp,Baan 2,Trainer B,"Bowi van Onna, Isabel Harlaar, Frank Boerma, Laura Taal (toegevoegd)",6-8 (gemengd),Perfect (2M/2V),9.25,legacy_gedeeltelijk
+3,Woensdag,21:00-22:00,TV Osdorp,Baan 3,Trainer C,"Karel van Gelder, Laurens de Knijff, Gregor O'Gorman, Pascale Schafrat (toegevoegd)",7-8 (gemengd),"Anders (M:3, V:1)",9.33,legacy_gedeeltelijk
+3,Donderdag,19:00-20:00,Joy Jaagpad,Baan 1,Pedro,"Jeroen Glebbeek, Josephine Berger, Annefien Nieuwenhuis (toegevoegd), Emile Röell (toegevoegd)",7-8 (gemengd),Perfect (2M/2V),8.50,legacy_gedeeltelijk
+3,Donderdag,19:00-20:00,TV Osdorp,Baan 1,Guilherme,"Fie Hünneman, Marieke Rodenhuis, Nihad Hassani, Sjoerd Raijmans (toegevoegd)",8-10 (gemengd),Perfect (2M/2V),9.25,legacy_gedeeltelijk
+3,Donderdag,19:00-20:00,TV Osdorp,Baan 2,Youssef,"Josien Duijzer, Shireen Keijzer, Rosa Huetink (toegevoegd), Dave Koekkoek (toegevoegd)",8,"Anders (M:1, V:3)",9.08,legacy_gedeeltelijk
+3,Donderdag,20:00-21:00,TV Osdorp,Baan 1,Guilherme,"Roos Reinders, Helena Heno, Raquel Wijngaarde (toegevoegd), Josh Goldman (toegevoegd)",9,"Anders (M:1, V:3)",9.08,legacy_gedeeltelijk
+3,Donderdag,20:00-21:00,TV Osdorp,Baan 2,Dyan,"Qasim Khan, Marieke Jansen, Loes Stoltenborg, Gertjan de Vries",7-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+3,Donderdag,21:00-22:00,TV Osdorp,Baan 1,Trainer A,"Corinne Spijker, Romy Boiten, Laura Haakman, Eveline Spijker",7-9 (gemengd),Homogeen (4V),10.00,legacy_volledig
+3,Donderdag,21:00-22:00,TV Osdorp,Baan 2,Trainer B,"Mehmet Sabuncu, Sietho Idsinga, Justine Kist (toegevoegd), Maxine Schultz (toegevoegd)",8,Perfect (2M/2V),9.00,legacy_gedeeltelijk
+3,Donderdag,21:00-22:00,TV Osdorp,Baan 3,Trainer C,"Noelle van Rens, Marleen Ceton, Tessa VAN schie Proost (toegevoegd), Jan-Jaap ten Have (toegevoegd)",7-8 (gemengd),"Anders (M:1, V:3)",8.67,legacy_gedeeltelijk
+3,Vrijdag,20:00-21:00,TV Osdorp,Baan 1,Francois,"Duygu Manav, Aytac Manav, Elmira Baghery (toegevoegd), Fernando Gomez (toegevoegd)",8-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+4,Maandag,18:00-19:00,Joy Jaagpad,Baan 1,Raymon,"Jip Nooitgedacht, Iris Dekker, Narmin Gulmammadova, Coco Levendag",8,Homogeen (4V),7.00,
+4,Maandag,19:00-20:00,Joy Jaagpad,Baan 1,Raymon,"Jacob Vlaander, Mike Nieland, Anoek Verdonck (toegevoegd), Benthe van Rossem (toegevoegd)",7,Perfect (2M/2V),9.50,legacy_gedeeltelijk
+4,Maandag,19:00-20:00,TV Osdorp,Baan 1,Alvaro,"Emine Akdemir, Angelique Slager, Mariell Fingal, Wesley Pieper (toegevoegd)",9-12 (gemengd),"Anders (M:1, V:3)",10.00,legacy_volledig
+4,Maandag,19:00-20:00,TV Osdorp,Baan 2,Dyan,"Jennifer Daarnhouwer, Rivka Nieuwenhuizen, Britt Faber, Hao Shen (toegevoegd)",7-8 (gemengd),"Anders (M:1, V:3)",9.33,legacy_gedeeltelijk
+4,Maandag,20:00-21:00,TV Osdorp,Baan 1,Alvaro,"Peter Kniest, Jose Meulemans, Bastiaan Kraaijenbrink, Jana Hofmann",7-9 (gemengd),"Anders (M:3, V:1)",10.00,legacy_volledig
+4,Maandag,20:00-21:00,TV Osdorp,Baan 2,Dyan,"Karin Bouwmeester, Sylvia Kastein, Niels Hofman, Kirsten Hage",8,"Anders (M:1, V:3)",10.00,legacy_volledig
+4,Maandag,20:00-21:00,TV Osdorp,Baan 1,Trainer A,"Nils IJske, Manuel Vester, Sjors van Laarhoven, Ulvi Gulmammadov",6-7 (gemengd),Homogeen (4M),5.50,
+4,Maandag,21:00-22:00,Joy Jaagpad,Baan 1,Raymon,"Sanne van Amerongen, Denise de Vor, Teska Vaessen (toegevoegd), Peter-Paul Mast (toegevoegd)",6,"Anders (M:1, V:3)",8.17,legacy_gedeeltelijk
+4,Maandag,21:00-22:00,TV Osdorp,Baan 1,Trainer A,"Tom van de Vrede, Calvin van den Hoven, Maik Oud, Ming de Jong (toegevoegd)",8-9 (gemengd),"Anders (M:3, V:1)",9.33,legacy_gedeeltelijk
+4,Maandag,21:00-22:00,TV Osdorp,Baan 2,Trainer B,"Fern Van Nassauw, Maaike Stoffels, Thom Lunshof, Thomas Been (toegevoegd)",8-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+4,Dinsdag,18:00-19:00,TV Osdorp,Baan 1,Dyan,"Wendy van Heeswijk, Rianne Oosterbeek, Maikel Munsterhuis (toegevoegd), Christof Tenkink (toegevoegd)",8-9 (gemengd),Perfect (2M/2V),8.50,legacy_gedeeltelijk
+4,Dinsdag,18:00-19:00,Joy Jaagpad,Baan 1,Raymon,"Sofia de Haan, Sanne Boels, Wissal Kobeissi, Ellis van der Gulik",9-10 (gemengd),Homogeen (4V),5.50,
+4,Dinsdag,19:00-20:00,TV Osdorp,Baan 1,Francois,"Mark Roffelsen, Simon Koning, Kevin van loon, Joey Van Straten",8-9 (gemengd),Homogeen (4M),10.00,legacy_volledig
+4,Dinsdag,19:00-20:00,TV Osdorp,Baan 2,Emil,"Joyce van Weering, Lotte Brouwer, Thom Smit, Danny de Kinderen",7-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+4,Dinsdag,19:00-20:00,TV Osdorp,Baan 1,Trainer A,"Marcel Jonker, Thomas De Vries, Maud Beltman, Isabel Pieterse",6,Perfect (2M/2V),5.00,
+4,Dinsdag,20:00-21:00,TV Osdorp,Baan 1,Francois,"Thamar Lambregtse, Dongok Moon, Hanna Sung, Reimer Janssen (toegevoegd)",8-9 (gemengd),"Anders (M:1, V:3)",9.08,legacy_gedeeltelijk
+4,Dinsdag,20:00-21:00,Joy Jaagpad,Baan 1,Raymon,"Daan Van Apeldoorn, Vincent van Donk, Rebecca Van der Weerdt, Suzanne Huyskes",6-7 (gemengd),Perfect (2M/2V),6.50,
+4,Dinsdag,20:00-21:00,TV Osdorp,Baan 1,Emil,"Maartje Herweijer, Fleur Jansen, Kristel Dodde, Nikkie Poelmann",8,Homogeen (4V),7.00,
+4,Dinsdag,21:00-22:00,TV Osdorp,Baan 1,Trainer A,"Wesley de Ruig, Erik Maas, Derek Lampe, Kiki Boreel (toegevoegd)",8,"Anders (M:3, V:1)",9.08,legacy_gedeeltelijk
+4,Dinsdag,21:00-22:00,TV Osdorp,Baan 2,Trainer B,"Lin Rezelman, Moses Sani, Puck van den Bosch, Marcio Ikeda (toegevoegd)",8-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+4,Woensdag,18:00-19:00,TV Osdorp,Baan 1,Pedro,"Nicolette Gründlehner, Rebecca Hollenberg, Paulien Gonzalez, Charlotte Degenkamp",7-8 (gemengd),Homogeen (4V),10.00,legacy_volledig
+4,Woensdag,19:00-20:00,TV Osdorp,Baan 1,Pedro,"Stef Geven, Thijs Geven, Mark van Ginkel, Hanne van der Veen (toegevoegd)",4-5 (gemengd),"Anders (M:3, V:1)",9.08,legacy_gedeeltelijk
+4,Woensdag,19:00-20:00,TV Osdorp,Baan 2,Dyan,"Marcel Ruitenberg, Lennart Van Roeden, Merel van der Weijde (toegevoegd), Larissa de Vor (toegevoegd)",7,Perfect (2M/2V),9.00,legacy_gedeeltelijk
+4,Woensdag,19:00-20:00,Joy Jaagpad,Baan 1,Raymon,"Arnold Vlaander, Jeroen Roffel, Daan van Beers, Sebastiaan van den Brink",7,Homogeen (4M),7.00,
+4,Woensdag,19:00-20:00,Joy Jaagpad,Baan 2,Youssef,"Lisanne Scheffens, Marit Bosselaar, Tessa Schop, Suzanne Straathof",6-7 (gemengd),Homogeen (4V),4.00,
+4,Woensdag,19:00-20:00,TV Osdorp,Baan 1,Francois,"Rianne de Wit, Kristin Wahle, Claudia Bouw, Milli Levendag",7-8 (gemengd),Homogeen (4V),5.50,
+4,Woensdag,20:00-21:00,Joy Jaagpad,Baan 1,Youssef,"Maud Warmerdam, Jeroen Keij, Wouter Neven, Laurien Reinalda",8-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+4,Woensdag,20:00-21:00,TV Osdorp,Baan 1,Pedro,"Willem van Ingen, Ruben van Schoonneveldt, Maud Santing (toegevoegd), Merel Vrolijk (toegevoegd)",7,Perfect (2M/2V),9.00,legacy_gedeeltelijk
+4,Woensdag,20:00-21:00,TV Osdorp,Baan 2,Dyan,"Ruud Onclin, Wim van vuure, Jan Ridder, Liduine Kampschöer (toegevoegd)",7,"Anders (M:3, V:1)",9.08,legacy_gedeeltelijk
+4,Woensdag,20:00-21:00,TV Osdorp,Baan 3,Francois,"Anne-Rose Lynch, Paloma Nijsse, Margot Bolhuis (toegevoegd), Remco van Dijk (toegevoegd)",8-9 (gemengd),"Anders (M:1, V:3)",8.17,legacy_gedeeltelijk
+4,Woensdag,21:00-22:00,TV Osdorp,Baan 1,Trainer A,"Lourens Keers, Frits Van Pijkeren, Stijn Lechner, Anton Dodkin",7,Homogeen (4M),10.00,legacy_volledig
+4,Woensdag,21:00-22:00,TV Osdorp,Baan 2,Trainer B,"Bowi van Onna, Isabel Harlaar, Frank Boerma, Laura Taal (toegevoegd)",6-8 (gemengd),Perfect (2M/2V),9.25,legacy_gedeeltelijk
+4,Woensdag,21:00-22:00,TV Osdorp,Baan 3,Trainer C,"Karel van Gelder, Laurens de Knijff, Gregor O'Gorman, Pascale Schafrat (toegevoegd)",7-8 (gemengd),"Anders (M:3, V:1)",9.33,legacy_gedeeltelijk
+4,Donderdag,19:00-20:00,Joy Jaagpad,Baan 1,Pedro,"Jeroen Glebbeek, Josephine Berger, Annefien Nieuwenhuis (toegevoegd), Emile Röell (toegevoegd)",7-8 (gemengd),Perfect (2M/2V),8.50,legacy_gedeeltelijk
+4,Donderdag,19:00-20:00,TV Osdorp,Baan 1,Guilherme,"Fie Hünneman, Marieke Rodenhuis, Nihad Hassani, Sjoerd Raijmans (toegevoegd)",8-10 (gemengd),Perfect (2M/2V),9.25,legacy_gedeeltelijk
+4,Donderdag,19:00-20:00,TV Osdorp,Baan 2,Youssef,"Josien Duijzer, Shireen Keijzer, Rosa Huetink (toegevoegd), Dave Koekkoek (toegevoegd)",8,"Anders (M:1, V:3)",9.08,legacy_gedeeltelijk
+4,Donderdag,20:00-21:00,TV Osdorp,Baan 1,Guilherme,"Roos Reinders, Helena Heno, Raquel Wijngaarde (toegevoegd), Josh Goldman (toegevoegd)",9,"Anders (M:1, V:3)",9.08,legacy_gedeeltelijk
+4,Donderdag,20:00-21:00,TV Osdorp,Baan 2,Dyan,"Qasim Khan, Marieke Jansen, Loes Stoltenborg, Gertjan de Vries",7-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+4,Donderdag,21:00-22:00,TV Osdorp,Baan 1,Trainer A,"Corinne Spijker, Romy Boiten, Laura Haakman, Eveline Spijker",7-9 (gemengd),Homogeen (4V),10.00,legacy_volledig
+4,Donderdag,21:00-22:00,TV Osdorp,Baan 2,Trainer B,"Mehmet Sabuncu, Sietho Idsinga, Justine Kist (toegevoegd), Maxine Schultz (toegevoegd)",8,Perfect (2M/2V),9.00,legacy_gedeeltelijk
+4,Donderdag,21:00-22:00,TV Osdorp,Baan 3,Trainer C,"Noelle van Rens, Marleen Ceton, Tessa VAN schie Proost (toegevoegd), Jan-Jaap ten Have (toegevoegd)",7-8 (gemengd),"Anders (M:1, V:3)",8.67,legacy_gedeeltelijk
+4,Vrijdag,20:00-21:00,TV Osdorp,Baan 1,Francois,"Duygu Manav, Aytac Manav, Elmira Baghery (toegevoegd), Fernando Gomez (toegevoegd)",8-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+5,Maandag,18:00-19:00,Joy Jaagpad,Baan 1,Raymon,"Jip Nooitgedacht, Iris Dekker, Narmin Gulmammadova, Coco Levendag",8,Homogeen (4V),7.00,
+5,Maandag,19:00-20:00,Joy Jaagpad,Baan 1,Raymon,"Jacob Vlaander, Mike Nieland, Anoek Verdonck (toegevoegd), Benthe van Rossem (toegevoegd)",7,Perfect (2M/2V),9.50,legacy_gedeeltelijk
+5,Maandag,19:00-20:00,TV Osdorp,Baan 1,Alvaro,"Emine Akdemir, Angelique Slager, Mariell Fingal, Wesley Pieper (toegevoegd)",9-12 (gemengd),"Anders (M:1, V:3)",10.00,legacy_volledig
+5,Maandag,19:00-20:00,TV Osdorp,Baan 2,Dyan,"Jennifer Daarnhouwer, Rivka Nieuwenhuizen, Britt Faber, Hao Shen (toegevoegd)",7-8 (gemengd),"Anders (M:1, V:3)",9.33,legacy_gedeeltelijk
+5,Maandag,20:00-21:00,TV Osdorp,Baan 1,Alvaro,"Peter Kniest, Jose Meulemans, Bastiaan Kraaijenbrink, Jana Hofmann",7-9 (gemengd),"Anders (M:3, V:1)",10.00,legacy_volledig
+5,Maandag,20:00-21:00,TV Osdorp,Baan 2,Dyan,"Karin Bouwmeester, Sylvia Kastein, Niels Hofman, Kirsten Hage",8,"Anders (M:1, V:3)",10.00,legacy_volledig
+5,Maandag,20:00-21:00,TV Osdorp,Baan 1,Trainer A,"Nils IJske, Manuel Vester, Sjors van Laarhoven, Ulvi Gulmammadov",6-7 (gemengd),Homogeen (4M),5.50,
+5,Maandag,21:00-22:00,Joy Jaagpad,Baan 1,Raymon,"Sanne van Amerongen, Denise de Vor, Teska Vaessen (toegevoegd), Peter-Paul Mast (toegevoegd)",6,"Anders (M:1, V:3)",8.17,legacy_gedeeltelijk
+5,Maandag,21:00-22:00,TV Osdorp,Baan 1,Trainer A,"Tom van de Vrede, Calvin van den Hoven, Maik Oud, Ming de Jong (toegevoegd)",8-9 (gemengd),"Anders (M:3, V:1)",9.33,legacy_gedeeltelijk
+5,Maandag,21:00-22:00,TV Osdorp,Baan 2,Trainer B,"Fern Van Nassauw, Maaike Stoffels, Thom Lunshof, Thomas Been (toegevoegd)",8-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+5,Dinsdag,18:00-19:00,TV Osdorp,Baan 1,Dyan,"Wendy van Heeswijk, Rianne Oosterbeek, Maikel Munsterhuis (toegevoegd), Christof Tenkink (toegevoegd)",8-9 (gemengd),Perfect (2M/2V),8.50,legacy_gedeeltelijk
+5,Dinsdag,18:00-19:00,Joy Jaagpad,Baan 1,Raymon,"Sofia de Haan, Sanne Boels, Wissal Kobeissi, Ellis van der Gulik",9-10 (gemengd),Homogeen (4V),5.50,
+5,Dinsdag,19:00-20:00,TV Osdorp,Baan 1,Francois,"Mark Roffelsen, Simon Koning, Kevin van loon, Joey Van Straten",8-9 (gemengd),Homogeen (4M),10.00,legacy_volledig
+5,Dinsdag,19:00-20:00,TV Osdorp,Baan 2,Emil,"Joyce van Weering, Lotte Brouwer, Thom Smit, Danny de Kinderen",7-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+5,Dinsdag,19:00-20:00,TV Osdorp,Baan 1,Trainer A,"Marcel Jonker, Thomas De Vries, Maud Beltman, Isabel Pieterse",6,Perfect (2M/2V),5.00,
+5,Dinsdag,20:00-21:00,TV Osdorp,Baan 1,Francois,"Thamar Lambregtse, Dongok Moon, Hanna Sung, Reimer Janssen (toegevoegd)",8-9 (gemengd),"Anders (M:1, V:3)",9.08,legacy_gedeeltelijk
+5,Dinsdag,20:00-21:00,Joy Jaagpad,Baan 1,Raymon,"Daan Van Apeldoorn, Vincent van Donk, Rebecca Van der Weerdt, Suzanne Huyskes",6-7 (gemengd),Perfect (2M/2V),6.50,
+5,Dinsdag,20:00-21:00,TV Osdorp,Baan 1,Emil,"Maartje Herweijer, Fleur Jansen, Kristel Dodde, Nikkie Poelmann",8,Homogeen (4V),7.00,
+5,Dinsdag,21:00-22:00,TV Osdorp,Baan 1,Trainer A,"Wesley de Ruig, Erik Maas, Derek Lampe, Kiki Boreel (toegevoegd)",8,"Anders (M:3, V:1)",9.08,legacy_gedeeltelijk
+5,Dinsdag,21:00-22:00,TV Osdorp,Baan 2,Trainer B,"Lin Rezelman, Moses Sani, Puck van den Bosch, Marcio Ikeda (toegevoegd)",8-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+5,Woensdag,18:00-19:00,TV Osdorp,Baan 1,Pedro,"Nicolette Gründlehner, Rebecca Hollenberg, Paulien Gonzalez, Charlotte Degenkamp",7-8 (gemengd),Homogeen (4V),10.00,legacy_volledig
+5,Woensdag,19:00-20:00,TV Osdorp,Baan 1,Pedro,"Stef Geven, Thijs Geven, Mark van Ginkel, Hanne van der Veen (toegevoegd)",4-5 (gemengd),"Anders (M:3, V:1)",9.08,legacy_gedeeltelijk
+5,Woensdag,19:00-20:00,TV Osdorp,Baan 2,Dyan,"Marcel Ruitenberg, Lennart Van Roeden, Merel van der Weijde (toegevoegd), Larissa de Vor (toegevoegd)",7,Perfect (2M/2V),9.00,legacy_gedeeltelijk
+5,Woensdag,19:00-20:00,Joy Jaagpad,Baan 1,Raymon,"Arnold Vlaander, Jeroen Roffel, Daan van Beers, Sebastiaan van den Brink",7,Homogeen (4M),7.00,
+5,Woensdag,19:00-20:00,Joy Jaagpad,Baan 2,Youssef,"Lisanne Scheffens, Marit Bosselaar, Tessa Schop, Suzanne Straathof",6-7 (gemengd),Homogeen (4V),4.00,
+5,Woensdag,19:00-20:00,TV Osdorp,Baan 1,Francois,"Rianne de Wit, Kristin Wahle, Claudia Bouw, Milli Levendag",7-8 (gemengd),Homogeen (4V),5.50,
+5,Woensdag,20:00-21:00,Joy Jaagpad,Baan 1,Youssef,"Maud Warmerdam, Jeroen Keij, Wouter Neven, Laurien Reinalda",8-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+5,Woensdag,20:00-21:00,TV Osdorp,Baan 1,Pedro,"Willem van Ingen, Ruben van Schoonneveldt, Maud Santing (toegevoegd), Merel Vrolijk (toegevoegd)",7,Perfect (2M/2V),9.00,legacy_gedeeltelijk
+5,Woensdag,20:00-21:00,TV Osdorp,Baan 2,Dyan,"Ruud Onclin, Wim van vuure, Jan Ridder, Liduine Kampschöer (toegevoegd)",7,"Anders (M:3, V:1)",9.08,legacy_gedeeltelijk
+5,Woensdag,20:00-21:00,TV Osdorp,Baan 3,Francois,"Anne-Rose Lynch, Paloma Nijsse, Margot Bolhuis (toegevoegd), Remco van Dijk (toegevoegd)",8-9 (gemengd),"Anders (M:1, V:3)",8.17,legacy_gedeeltelijk
+5,Woensdag,21:00-22:00,TV Osdorp,Baan 1,Trainer A,"Lourens Keers, Frits Van Pijkeren, Stijn Lechner, Anton Dodkin",7,Homogeen (4M),10.00,legacy_volledig
+5,Woensdag,21:00-22:00,TV Osdorp,Baan 2,Trainer B,"Bowi van Onna, Isabel Harlaar, Frank Boerma, Laura Taal (toegevoegd)",6-8 (gemengd),Perfect (2M/2V),9.25,legacy_gedeeltelijk
+5,Woensdag,21:00-22:00,TV Osdorp,Baan 3,Trainer C,"Karel van Gelder, Laurens de Knijff, Gregor O'Gorman, Pascale Schafrat (toegevoegd)",7-8 (gemengd),"Anders (M:3, V:1)",9.33,legacy_gedeeltelijk
+5,Donderdag,19:00-20:00,Joy Jaagpad,Baan 1,Pedro,"Jeroen Glebbeek, Josephine Berger, Annefien Nieuwenhuis (toegevoegd), Emile Röell (toegevoegd)",7-8 (gemengd),Perfect (2M/2V),8.50,legacy_gedeeltelijk
+5,Donderdag,19:00-20:00,TV Osdorp,Baan 1,Guilherme,"Fie Hünneman, Marieke Rodenhuis, Nihad Hassani, Sjoerd Raijmans (toegevoegd)",8-10 (gemengd),Perfect (2M/2V),9.25,legacy_gedeeltelijk
+5,Donderdag,19:00-20:00,TV Osdorp,Baan 2,Youssef,"Josien Duijzer, Shireen Keijzer, Rosa Huetink (toegevoegd), Dave Koekkoek (toegevoegd)",8,"Anders (M:1, V:3)",9.08,legacy_gedeeltelijk
+5,Donderdag,20:00-21:00,TV Osdorp,Baan 1,Guilherme,"Roos Reinders, Helena Heno, Raquel Wijngaarde (toegevoegd), Josh Goldman (toegevoegd)",9,"Anders (M:1, V:3)",9.08,legacy_gedeeltelijk
+5,Donderdag,20:00-21:00,TV Osdorp,Baan 2,Dyan,"Qasim Khan, Marieke Jansen, Loes Stoltenborg, Gertjan de Vries",7-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+5,Donderdag,21:00-22:00,TV Osdorp,Baan 1,Trainer A,"Corinne Spijker, Romy Boiten, Laura Haakman, Eveline Spijker",7-9 (gemengd),Homogeen (4V),10.00,legacy_volledig
+5,Donderdag,21:00-22:00,TV Osdorp,Baan 2,Trainer B,"Mehmet Sabuncu, Sietho Idsinga, Justine Kist (toegevoegd), Maxine Schultz (toegevoegd)",8,Perfect (2M/2V),9.00,legacy_gedeeltelijk
+5,Donderdag,21:00-22:00,TV Osdorp,Baan 3,Trainer C,"Noelle van Rens, Marleen Ceton, Tessa VAN schie Proost (toegevoegd), Jan-Jaap ten Have (toegevoegd)",7-8 (gemengd),"Anders (M:1, V:3)",8.67,legacy_gedeeltelijk
+5,Vrijdag,20:00-21:00,TV Osdorp,Baan 1,Francois,"Duygu Manav, Aytac Manav, Elmira Baghery (toegevoegd), Fernando Gomez (toegevoegd)",8-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+6,Maandag,18:00-19:00,Joy Jaagpad,Baan 1,Raymon,"Jip Nooitgedacht, Iris Dekker, Narmin Gulmammadova, Coco Levendag",8,Homogeen (4V),7.00,
+6,Maandag,19:00-20:00,Joy Jaagpad,Baan 1,Raymon,"Jacob Vlaander, Mike Nieland, Anoek Verdonck (toegevoegd), Benthe van Rossem (toegevoegd)",7,Perfect (2M/2V),9.50,legacy_gedeeltelijk
+6,Maandag,19:00-20:00,TV Osdorp,Baan 1,Alvaro,"Emine Akdemir, Angelique Slager, Mariell Fingal, Wesley Pieper (toegevoegd)",9-12 (gemengd),"Anders (M:1, V:3)",10.00,legacy_volledig
+6,Maandag,19:00-20:00,TV Osdorp,Baan 2,Dyan,"Jennifer Daarnhouwer, Rivka Nieuwenhuizen, Britt Faber, Hao Shen (toegevoegd)",7-8 (gemengd),"Anders (M:1, V:3)",9.33,legacy_gedeeltelijk
+6,Maandag,20:00-21:00,TV Osdorp,Baan 1,Alvaro,"Peter Kniest, Jose Meulemans, Bastiaan Kraaijenbrink, Jana Hofmann",7-9 (gemengd),"Anders (M:3, V:1)",10.00,legacy_volledig
+6,Maandag,20:00-21:00,TV Osdorp,Baan 2,Dyan,"Karin Bouwmeester, Sylvia Kastein, Niels Hofman, Kirsten Hage",8,"Anders (M:1, V:3)",10.00,legacy_volledig
+6,Maandag,20:00-21:00,TV Osdorp,Baan 1,Trainer A,"Nils IJske, Manuel Vester, Sjors van Laarhoven, Ulvi Gulmammadov",6-7 (gemengd),Homogeen (4M),5.50,
+6,Maandag,21:00-22:00,Joy Jaagpad,Baan 1,Raymon,"Sanne van Amerongen, Denise de Vor, Teska Vaessen (toegevoegd), Peter-Paul Mast (toegevoegd)",6,"Anders (M:1, V:3)",8.17,legacy_gedeeltelijk
+6,Maandag,21:00-22:00,TV Osdorp,Baan 1,Trainer A,"Tom van de Vrede, Calvin van den Hoven, Maik Oud, Ming de Jong (toegevoegd)",8-9 (gemengd),"Anders (M:3, V:1)",9.33,legacy_gedeeltelijk
+6,Maandag,21:00-22:00,TV Osdorp,Baan 2,Trainer B,"Fern Van Nassauw, Maaike Stoffels, Thom Lunshof, Thomas Been (toegevoegd)",8-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+6,Dinsdag,18:00-19:00,TV Osdorp,Baan 1,Dyan,"Wendy van Heeswijk, Rianne Oosterbeek, Maikel Munsterhuis (toegevoegd), Christof Tenkink (toegevoegd)",8-9 (gemengd),Perfect (2M/2V),8.50,legacy_gedeeltelijk
+6,Dinsdag,18:00-19:00,Joy Jaagpad,Baan 1,Raymon,"Sofia de Haan, Sanne Boels, Wissal Kobeissi, Ellis van der Gulik",9-10 (gemengd),Homogeen (4V),5.50,
+6,Dinsdag,19:00-20:00,TV Osdorp,Baan 1,Francois,"Mark Roffelsen, Simon Koning, Kevin van loon, Joey Van Straten",8-9 (gemengd),Homogeen (4M),10.00,legacy_volledig
+6,Dinsdag,19:00-20:00,TV Osdorp,Baan 2,Emil,"Joyce van Weering, Lotte Brouwer, Thom Smit, Danny de Kinderen",7-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+6,Dinsdag,19:00-20:00,TV Osdorp,Baan 1,Trainer A,"Marcel Jonker, Thomas De Vries, Maud Beltman, Isabel Pieterse",6,Perfect (2M/2V),5.00,
+6,Dinsdag,20:00-21:00,TV Osdorp,Baan 1,Francois,"Thamar Lambregtse, Dongok Moon, Hanna Sung, Reimer Janssen (toegevoegd)",8-9 (gemengd),"Anders (M:1, V:3)",9.08,legacy_gedeeltelijk
+6,Dinsdag,20:00-21:00,Joy Jaagpad,Baan 1,Raymon,"Daan Van Apeldoorn, Vincent van Donk, Rebecca Van der Weerdt, Suzanne Huyskes",6-7 (gemengd),Perfect (2M/2V),6.50,
+6,Dinsdag,20:00-21:00,TV Osdorp,Baan 1,Emil,"Maartje Herweijer, Fleur Jansen, Kristel Dodde, Nikkie Poelmann",8,Homogeen (4V),7.00,
+6,Dinsdag,21:00-22:00,TV Osdorp,Baan 1,Trainer A,"Wesley de Ruig, Erik Maas, Derek Lampe, Kiki Boreel (toegevoegd)",8,"Anders (M:3, V:1)",9.08,legacy_gedeeltelijk
+6,Dinsdag,21:00-22:00,TV Osdorp,Baan 2,Trainer B,"Lin Rezelman, Moses Sani, Puck van den Bosch, Marcio Ikeda (toegevoegd)",8-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+6,Woensdag,18:00-19:00,TV Osdorp,Baan 1,Pedro,"Nicolette Gründlehner, Rebecca Hollenberg, Paulien Gonzalez, Charlotte Degenkamp",7-8 (gemengd),Homogeen (4V),10.00,legacy_volledig
+6,Woensdag,19:00-20:00,TV Osdorp,Baan 1,Pedro,"Stef Geven, Thijs Geven, Mark van Ginkel, Hanne van der Veen (toegevoegd)",4-5 (gemengd),"Anders (M:3, V:1)",9.08,legacy_gedeeltelijk
+6,Woensdag,19:00-20:00,TV Osdorp,Baan 2,Dyan,"Marcel Ruitenberg, Lennart Van Roeden, Merel van der Weijde (toegevoegd), Larissa de Vor (toegevoegd)",7,Perfect (2M/2V),9.00,legacy_gedeeltelijk
+6,Woensdag,19:00-20:00,Joy Jaagpad,Baan 1,Raymon,"Arnold Vlaander, Jeroen Roffel, Daan van Beers, Sebastiaan van den Brink",7,Homogeen (4M),7.00,
+6,Woensdag,19:00-20:00,Joy Jaagpad,Baan 2,Youssef,"Lisanne Scheffens, Marit Bosselaar, Tessa Schop, Suzanne Straathof",6-7 (gemengd),Homogeen (4V),4.00,
+6,Woensdag,19:00-20:00,TV Osdorp,Baan 1,Francois,"Rianne de Wit, Kristin Wahle, Claudia Bouw, Milli Levendag",7-8 (gemengd),Homogeen (4V),5.50,
+6,Woensdag,20:00-21:00,Joy Jaagpad,Baan 1,Youssef,"Maud Warmerdam, Jeroen Keij, Wouter Neven, Laurien Reinalda",8-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+6,Woensdag,20:00-21:00,TV Osdorp,Baan 1,Pedro,"Willem van Ingen, Ruben van Schoonneveldt, Maud Santing (toegevoegd), Merel Vrolijk (toegevoegd)",7,Perfect (2M/2V),9.00,legacy_gedeeltelijk
+6,Woensdag,20:00-21:00,TV Osdorp,Baan 2,Dyan,"Ruud Onclin, Wim van vuure, Jan Ridder, Liduine Kampschöer (toegevoegd)",7,"Anders (M:3, V:1)",9.08,legacy_gedeeltelijk
+6,Woensdag,20:00-21:00,TV Osdorp,Baan 3,Francois,"Anne-Rose Lynch, Paloma Nijsse, Margot Bolhuis (toegevoegd), Remco van Dijk (toegevoegd)",8-9 (gemengd),"Anders (M:1, V:3)",8.17,legacy_gedeeltelijk
+6,Woensdag,21:00-22:00,TV Osdorp,Baan 1,Trainer A,"Lourens Keers, Frits Van Pijkeren, Stijn Lechner, Anton Dodkin",7,Homogeen (4M),10.00,legacy_volledig
+6,Woensdag,21:00-22:00,TV Osdorp,Baan 2,Trainer B,"Bowi van Onna, Isabel Harlaar, Frank Boerma, Laura Taal (toegevoegd)",6-8 (gemengd),Perfect (2M/2V),9.25,legacy_gedeeltelijk
+6,Woensdag,21:00-22:00,TV Osdorp,Baan 3,Trainer C,"Karel van Gelder, Laurens de Knijff, Gregor O'Gorman, Pascale Schafrat (toegevoegd)",7-8 (gemengd),"Anders (M:3, V:1)",9.33,legacy_gedeeltelijk
+6,Donderdag,19:00-20:00,Joy Jaagpad,Baan 1,Pedro,"Jeroen Glebbeek, Josephine Berger, Annefien Nieuwenhuis (toegevoegd), Emile Röell (toegevoegd)",7-8 (gemengd),Perfect (2M/2V),8.50,legacy_gedeeltelijk
+6,Donderdag,19:00-20:00,TV Osdorp,Baan 1,Guilherme,"Fie Hünneman, Marieke Rodenhuis, Nihad Hassani, Sjoerd Raijmans (toegevoegd)",8-10 (gemengd),Perfect (2M/2V),9.25,legacy_gedeeltelijk
+6,Donderdag,19:00-20:00,TV Osdorp,Baan 2,Youssef,"Josien Duijzer, Shireen Keijzer, Rosa Huetink (toegevoegd), Dave Koekkoek (toegevoegd)",8,"Anders (M:1, V:3)",9.08,legacy_gedeeltelijk
+6,Donderdag,20:00-21:00,TV Osdorp,Baan 1,Guilherme,"Roos Reinders, Helena Heno, Raquel Wijngaarde (toegevoegd), Josh Goldman (toegevoegd)",9,"Anders (M:1, V:3)",9.08,legacy_gedeeltelijk
+6,Donderdag,20:00-21:00,TV Osdorp,Baan 2,Dyan,"Qasim Khan, Marieke Jansen, Loes Stoltenborg, Gertjan de Vries",7-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+6,Donderdag,21:00-22:00,TV Osdorp,Baan 1,Trainer A,"Corinne Spijker, Romy Boiten, Laura Haakman, Eveline Spijker",7-9 (gemengd),Homogeen (4V),10.00,legacy_volledig
+6,Donderdag,21:00-22:00,TV Osdorp,Baan 2,Trainer B,"Mehmet Sabuncu, Sietho Idsinga, Justine Kist (toegevoegd), Maxine Schultz (toegevoegd)",8,Perfect (2M/2V),9.00,legacy_gedeeltelijk
+6,Donderdag,21:00-22:00,TV Osdorp,Baan 3,Trainer C,"Noelle van Rens, Marleen Ceton, Tessa VAN schie Proost (toegevoegd), Jan-Jaap ten Have (toegevoegd)",7-8 (gemengd),"Anders (M:1, V:3)",8.67,legacy_gedeeltelijk
+6,Vrijdag,20:00-21:00,TV Osdorp,Baan 1,Francois,"Duygu Manav, Aytac Manav, Elmira Baghery (toegevoegd), Fernando Gomez (toegevoegd)",8-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+7,Maandag,18:00-19:00,Joy Jaagpad,Baan 1,Raymon,"Jip Nooitgedacht, Iris Dekker, Narmin Gulmammadova, Coco Levendag",8,Homogeen (4V),7.00,
+7,Maandag,19:00-20:00,Joy Jaagpad,Baan 1,Raymon,"Jacob Vlaander, Mike Nieland, Anoek Verdonck (toegevoegd), Benthe van Rossem (toegevoegd)",7,Perfect (2M/2V),9.50,legacy_gedeeltelijk
+7,Maandag,19:00-20:00,TV Osdorp,Baan 1,Alvaro,"Emine Akdemir, Angelique Slager, Mariell Fingal, Wesley Pieper (toegevoegd)",9-12 (gemengd),"Anders (M:1, V:3)",10.00,legacy_volledig
+7,Maandag,19:00-20:00,TV Osdorp,Baan 2,Dyan,"Jennifer Daarnhouwer, Rivka Nieuwenhuizen, Britt Faber, Hao Shen (toegevoegd)",7-8 (gemengd),"Anders (M:1, V:3)",9.33,legacy_gedeeltelijk
+7,Maandag,20:00-21:00,TV Osdorp,Baan 1,Alvaro,"Peter Kniest, Jose Meulemans, Bastiaan Kraaijenbrink, Jana Hofmann",7-9 (gemengd),"Anders (M:3, V:1)",10.00,legacy_volledig
+7,Maandag,20:00-21:00,TV Osdorp,Baan 2,Dyan,"Karin Bouwmeester, Sylvia Kastein, Niels Hofman, Kirsten Hage",8,"Anders (M:1, V:3)",10.00,legacy_volledig
+7,Maandag,20:00-21:00,TV Osdorp,Baan 1,Trainer A,"Nils IJske, Manuel Vester, Sjors van Laarhoven, Ulvi Gulmammadov",6-7 (gemengd),Homogeen (4M),5.50,
+7,Maandag,21:00-22:00,Joy Jaagpad,Baan 1,Raymon,"Sanne van Amerongen, Denise de Vor, Teska Vaessen (toegevoegd), Peter-Paul Mast (toegevoegd)",6,"Anders (M:1, V:3)",8.17,legacy_gedeeltelijk
+7,Maandag,21:00-22:00,TV Osdorp,Baan 1,Trainer A,"Tom van de Vrede, Calvin van den Hoven, Maik Oud, Ming de Jong (toegevoegd)",8-9 (gemengd),"Anders (M:3, V:1)",9.33,legacy_gedeeltelijk
+7,Maandag,21:00-22:00,TV Osdorp,Baan 2,Trainer B,"Fern Van Nassauw, Maaike Stoffels, Thom Lunshof, Thomas Been (toegevoegd)",8-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+7,Dinsdag,18:00-19:00,TV Osdorp,Baan 1,Dyan,"Wendy van Heeswijk, Rianne Oosterbeek, Maikel Munsterhuis (toegevoegd), Christof Tenkink (toegevoegd)",8-9 (gemengd),Perfect (2M/2V),8.50,legacy_gedeeltelijk
+7,Dinsdag,18:00-19:00,Joy Jaagpad,Baan 1,Raymon,"Sofia de Haan, Sanne Boels, Wissal Kobeissi, Ellis van der Gulik",9-10 (gemengd),Homogeen (4V),5.50,
+7,Dinsdag,19:00-20:00,TV Osdorp,Baan 1,Francois,"Mark Roffelsen, Simon Koning, Kevin van loon, Joey Van Straten",8-9 (gemengd),Homogeen (4M),10.00,legacy_volledig
+7,Dinsdag,19:00-20:00,TV Osdorp,Baan 2,Emil,"Joyce van Weering, Lotte Brouwer, Thom Smit, Danny de Kinderen",7-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+7,Dinsdag,19:00-20:00,TV Osdorp,Baan 1,Trainer A,"Marcel Jonker, Thomas De Vries, Maud Beltman, Isabel Pieterse",6,Perfect (2M/2V),5.00,
+7,Dinsdag,20:00-21:00,TV Osdorp,Baan 1,Francois,"Thamar Lambregtse, Dongok Moon, Hanna Sung, Reimer Janssen (toegevoegd)",8-9 (gemengd),"Anders (M:1, V:3)",9.08,legacy_gedeeltelijk
+7,Dinsdag,20:00-21:00,Joy Jaagpad,Baan 1,Raymon,"Daan Van Apeldoorn, Vincent van Donk, Rebecca Van der Weerdt, Suzanne Huyskes",6-7 (gemengd),Perfect (2M/2V),6.50,
+7,Dinsdag,20:00-21:00,TV Osdorp,Baan 1,Emil,"Maartje Herweijer, Fleur Jansen, Kristel Dodde, Nikkie Poelmann",8,Homogeen (4V),7.00,
+7,Dinsdag,21:00-22:00,TV Osdorp,Baan 1,Trainer A,"Wesley de Ruig, Erik Maas, Derek Lampe, Kiki Boreel (toegevoegd)",8,"Anders (M:3, V:1)",9.08,legacy_gedeeltelijk
+7,Dinsdag,21:00-22:00,TV Osdorp,Baan 2,Trainer B,"Lin Rezelman, Moses Sani, Puck van den Bosch, Marcio Ikeda (toegevoegd)",8-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+7,Woensdag,18:00-19:00,TV Osdorp,Baan 1,Pedro,"Nicolette Gründlehner, Rebecca Hollenberg, Paulien Gonzalez, Charlotte Degenkamp",7-8 (gemengd),Homogeen (4V),10.00,legacy_volledig
+7,Woensdag,19:00-20:00,TV Osdorp,Baan 1,Pedro,"Stef Geven, Thijs Geven, Mark van Ginkel, Hanne van der Veen (toegevoegd)",4-5 (gemengd),"Anders (M:3, V:1)",9.08,legacy_gedeeltelijk
+7,Woensdag,19:00-20:00,TV Osdorp,Baan 2,Dyan,"Marcel Ruitenberg, Lennart Van Roeden, Merel van der Weijde (toegevoegd), Larissa de Vor (toegevoegd)",7,Perfect (2M/2V),9.00,legacy_gedeeltelijk
+7,Woensdag,19:00-20:00,Joy Jaagpad,Baan 1,Raymon,"Arnold Vlaander, Jeroen Roffel, Daan van Beers, Sebastiaan van den Brink",7,Homogeen (4M),7.00,
+7,Woensdag,19:00-20:00,Joy Jaagpad,Baan 2,Youssef,"Lisanne Scheffens, Marit Bosselaar, Tessa Schop, Suzanne Straathof",6-7 (gemengd),Homogeen (4V),4.00,
+7,Woensdag,19:00-20:00,TV Osdorp,Baan 1,Francois,"Rianne de Wit, Kristin Wahle, Claudia Bouw, Milli Levendag",7-8 (gemengd),Homogeen (4V),5.50,
+7,Woensdag,20:00-21:00,Joy Jaagpad,Baan 1,Youssef,"Maud Warmerdam, Jeroen Keij, Wouter Neven, Laurien Reinalda",8-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+7,Woensdag,20:00-21:00,TV Osdorp,Baan 1,Pedro,"Willem van Ingen, Ruben van Schoonneveldt, Maud Santing (toegevoegd), Merel Vrolijk (toegevoegd)",7,Perfect (2M/2V),9.00,legacy_gedeeltelijk
+7,Woensdag,20:00-21:00,TV Osdorp,Baan 2,Dyan,"Ruud Onclin, Wim van vuure, Jan Ridder, Liduine Kampschöer (toegevoegd)",7,"Anders (M:3, V:1)",9.08,legacy_gedeeltelijk
+7,Woensdag,20:00-21:00,TV Osdorp,Baan 3,Francois,"Anne-Rose Lynch, Paloma Nijsse, Margot Bolhuis (toegevoegd), Remco van Dijk (toegevoegd)",8-9 (gemengd),"Anders (M:1, V:3)",8.17,legacy_gedeeltelijk
+7,Woensdag,21:00-22:00,TV Osdorp,Baan 1,Trainer A,"Lourens Keers, Frits Van Pijkeren, Stijn Lechner, Anton Dodkin",7,Homogeen (4M),10.00,legacy_volledig
+7,Woensdag,21:00-22:00,TV Osdorp,Baan 2,Trainer B,"Bowi van Onna, Isabel Harlaar, Frank Boerma, Laura Taal (toegevoegd)",6-8 (gemengd),Perfect (2M/2V),9.25,legacy_gedeeltelijk
+7,Woensdag,21:00-22:00,TV Osdorp,Baan 3,Trainer C,"Karel van Gelder, Laurens de Knijff, Gregor O'Gorman, Pascale Schafrat (toegevoegd)",7-8 (gemengd),"Anders (M:3, V:1)",9.33,legacy_gedeeltelijk
+7,Donderdag,19:00-20:00,Joy Jaagpad,Baan 1,Pedro,"Jeroen Glebbeek, Josephine Berger, Annefien Nieuwenhuis (toegevoegd), Emile Röell (toegevoegd)",7-8 (gemengd),Perfect (2M/2V),8.50,legacy_gedeeltelijk
+7,Donderdag,19:00-20:00,TV Osdorp,Baan 1,Guilherme,"Fie Hünneman, Marieke Rodenhuis, Nihad Hassani, Sjoerd Raijmans (toegevoegd)",8-10 (gemengd),Perfect (2M/2V),9.25,legacy_gedeeltelijk
+7,Donderdag,19:00-20:00,TV Osdorp,Baan 2,Youssef,"Josien Duijzer, Shireen Keijzer, Rosa Huetink (toegevoegd), Dave Koekkoek (toegevoegd)",8,"Anders (M:1, V:3)",9.08,legacy_gedeeltelijk
+7,Donderdag,20:00-21:00,TV Osdorp,Baan 1,Guilherme,"Roos Reinders, Helena Heno, Raquel Wijngaarde (toegevoegd), Josh Goldman (toegevoegd)",9,"Anders (M:1, V:3)",9.08,legacy_gedeeltelijk
+7,Donderdag,20:00-21:00,TV Osdorp,Baan 2,Dyan,"Qasim Khan, Marieke Jansen, Loes Stoltenborg, Gertjan de Vries",7-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+7,Donderdag,21:00-22:00,TV Osdorp,Baan 1,Trainer A,"Corinne Spijker, Romy Boiten, Laura Haakman, Eveline Spijker",7-9 (gemengd),Homogeen (4V),10.00,legacy_volledig
+7,Donderdag,21:00-22:00,TV Osdorp,Baan 2,Trainer B,"Mehmet Sabuncu, Sietho Idsinga, Justine Kist (toegevoegd), Maxine Schultz (toegevoegd)",8,Perfect (2M/2V),9.00,legacy_gedeeltelijk
+7,Donderdag,21:00-22:00,TV Osdorp,Baan 3,Trainer C,"Noelle van Rens, Marleen Ceton, Tessa VAN schie Proost (toegevoegd), Jan-Jaap ten Have (toegevoegd)",7-8 (gemengd),"Anders (M:1, V:3)",8.67,legacy_gedeeltelijk
+7,Vrijdag,20:00-21:00,TV Osdorp,Baan 1,Francois,"Duygu Manav, Aytac Manav, Elmira Baghery (toegevoegd), Fernando Gomez (toegevoegd)",8-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+8,Maandag,18:00-19:00,Joy Jaagpad,Baan 1,Raymon,"Jip Nooitgedacht, Iris Dekker, Narmin Gulmammadova, Coco Levendag",8,Homogeen (4V),7.00,
+8,Maandag,19:00-20:00,Joy Jaagpad,Baan 1,Raymon,"Jacob Vlaander, Mike Nieland, Anoek Verdonck (toegevoegd), Benthe van Rossem (toegevoegd)",7,Perfect (2M/2V),9.50,legacy_gedeeltelijk
+8,Maandag,19:00-20:00,TV Osdorp,Baan 1,Alvaro,"Emine Akdemir, Angelique Slager, Mariell Fingal, Wesley Pieper (toegevoegd)",9-12 (gemengd),"Anders (M:1, V:3)",10.00,legacy_volledig
+8,Maandag,19:00-20:00,TV Osdorp,Baan 2,Dyan,"Jennifer Daarnhouwer, Rivka Nieuwenhuizen, Britt Faber, Hao Shen (toegevoegd)",7-8 (gemengd),"Anders (M:1, V:3)",9.33,legacy_gedeeltelijk
+8,Maandag,20:00-21:00,TV Osdorp,Baan 1,Alvaro,"Peter Kniest, Jose Meulemans, Bastiaan Kraaijenbrink, Jana Hofmann",7-9 (gemengd),"Anders (M:3, V:1)",10.00,legacy_volledig
+8,Maandag,20:00-21:00,TV Osdorp,Baan 2,Dyan,"Karin Bouwmeester, Sylvia Kastein, Niels Hofman, Kirsten Hage",8,"Anders (M:1, V:3)",10.00,legacy_volledig
+8,Maandag,20:00-21:00,TV Osdorp,Baan 1,Trainer A,"Nils IJske, Manuel Vester, Sjors van Laarhoven, Ulvi Gulmammadov",6-7 (gemengd),Homogeen (4M),5.50,
+8,Maandag,21:00-22:00,Joy Jaagpad,Baan 1,Raymon,"Sanne van Amerongen, Denise de Vor, Teska Vaessen (toegevoegd), Peter-Paul Mast (toegevoegd)",6,"Anders (M:1, V:3)",8.17,legacy_gedeeltelijk
+8,Maandag,21:00-22:00,TV Osdorp,Baan 1,Trainer A,"Tom van de Vrede, Calvin van den Hoven, Maik Oud, Ming de Jong (toegevoegd)",8-9 (gemengd),"Anders (M:3, V:1)",9.33,legacy_gedeeltelijk
+8,Maandag,21:00-22:00,TV Osdorp,Baan 2,Trainer B,"Fern Van Nassauw, Maaike Stoffels, Thom Lunshof, Thomas Been (toegevoegd)",8-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+8,Dinsdag,18:00-19:00,TV Osdorp,Baan 1,Dyan,"Wendy van Heeswijk, Rianne Oosterbeek, Maikel Munsterhuis (toegevoegd), Christof Tenkink (toegevoegd)",8-9 (gemengd),Perfect (2M/2V),8.50,legacy_gedeeltelijk
+8,Dinsdag,18:00-19:00,Joy Jaagpad,Baan 1,Raymon,"Sofia de Haan, Sanne Boels, Wissal Kobeissi, Ellis van der Gulik",9-10 (gemengd),Homogeen (4V),5.50,
+8,Dinsdag,19:00-20:00,TV Osdorp,Baan 1,Francois,"Mark Roffelsen, Simon Koning, Kevin van loon, Joey Van Straten",8-9 (gemengd),Homogeen (4M),10.00,legacy_volledig
+8,Dinsdag,19:00-20:00,TV Osdorp,Baan 2,Emil,"Joyce van Weering, Lotte Brouwer, Thom Smit, Danny de Kinderen",7-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+8,Dinsdag,19:00-20:00,TV Osdorp,Baan 1,Trainer A,"Marcel Jonker, Thomas De Vries, Maud Beltman, Isabel Pieterse",6,Perfect (2M/2V),5.00,
+8,Dinsdag,20:00-21:00,TV Osdorp,Baan 1,Francois,"Thamar Lambregtse, Dongok Moon, Hanna Sung, Reimer Janssen (toegevoegd)",8-9 (gemengd),"Anders (M:1, V:3)",9.08,legacy_gedeeltelijk
+8,Dinsdag,20:00-21:00,Joy Jaagpad,Baan 1,Raymon,"Daan Van Apeldoorn, Vincent van Donk, Rebecca Van der Weerdt, Suzanne Huyskes",6-7 (gemengd),Perfect (2M/2V),6.50,
+8,Dinsdag,20:00-21:00,TV Osdorp,Baan 1,Emil,"Maartje Herweijer, Fleur Jansen, Kristel Dodde, Nikkie Poelmann",8,Homogeen (4V),7.00,
+8,Dinsdag,21:00-22:00,TV Osdorp,Baan 1,Trainer A,"Wesley de Ruig, Erik Maas, Derek Lampe, Kiki Boreel (toegevoegd)",8,"Anders (M:3, V:1)",9.08,legacy_gedeeltelijk
+8,Dinsdag,21:00-22:00,TV Osdorp,Baan 2,Trainer B,"Lin Rezelman, Moses Sani, Puck van den Bosch, Marcio Ikeda (toegevoegd)",8-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+8,Woensdag,18:00-19:00,TV Osdorp,Baan 1,Pedro,"Nicolette Gründlehner, Rebecca Hollenberg, Paulien Gonzalez, Charlotte Degenkamp",7-8 (gemengd),Homogeen (4V),10.00,legacy_volledig
+8,Woensdag,19:00-20:00,TV Osdorp,Baan 1,Pedro,"Stef Geven, Thijs Geven, Mark van Ginkel, Hanne van der Veen (toegevoegd)",4-5 (gemengd),"Anders (M:3, V:1)",9.08,legacy_gedeeltelijk
+8,Woensdag,19:00-20:00,TV Osdorp,Baan 2,Dyan,"Marcel Ruitenberg, Lennart Van Roeden, Merel van der Weijde (toegevoegd), Larissa de Vor (toegevoegd)",7,Perfect (2M/2V),9.00,legacy_gedeeltelijk
+8,Woensdag,19:00-20:00,Joy Jaagpad,Baan 1,Raymon,"Arnold Vlaander, Jeroen Roffel, Daan van Beers, Sebastiaan van den Brink",7,Homogeen (4M),7.00,
+8,Woensdag,19:00-20:00,Joy Jaagpad,Baan 2,Youssef,"Lisanne Scheffens, Marit Bosselaar, Tessa Schop, Suzanne Straathof",6-7 (gemengd),Homogeen (4V),4.00,
+8,Woensdag,19:00-20:00,TV Osdorp,Baan 1,Francois,"Rianne de Wit, Kristin Wahle, Claudia Bouw, Milli Levendag",7-8 (gemengd),Homogeen (4V),5.50,
+8,Woensdag,20:00-21:00,Joy Jaagpad,Baan 1,Youssef,"Maud Warmerdam, Jeroen Keij, Wouter Neven, Laurien Reinalda",8-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+8,Woensdag,20:00-21:00,TV Osdorp,Baan 1,Pedro,"Willem van Ingen, Ruben van Schoonneveldt, Maud Santing (toegevoegd), Merel Vrolijk (toegevoegd)",7,Perfect (2M/2V),9.00,legacy_gedeeltelijk
+8,Woensdag,20:00-21:00,TV Osdorp,Baan 2,Dyan,"Ruud Onclin, Wim van vuure, Jan Ridder, Liduine Kampschöer (toegevoegd)",7,"Anders (M:3, V:1)",9.08,legacy_gedeeltelijk
+8,Woensdag,20:00-21:00,TV Osdorp,Baan 3,Francois,"Anne-Rose Lynch, Paloma Nijsse, Margot Bolhuis (toegevoegd), Remco van Dijk (toegevoegd)",8-9 (gemengd),"Anders (M:1, V:3)",8.17,legacy_gedeeltelijk
+8,Woensdag,21:00-22:00,TV Osdorp,Baan 1,Trainer A,"Lourens Keers, Frits Van Pijkeren, Stijn Lechner, Anton Dodkin",7,Homogeen (4M),10.00,legacy_volledig
+8,Woensdag,21:00-22:00,TV Osdorp,Baan 2,Trainer B,"Bowi van Onna, Isabel Harlaar, Frank Boerma, Laura Taal (toegevoegd)",6-8 (gemengd),Perfect (2M/2V),9.25,legacy_gedeeltelijk
+8,Woensdag,21:00-22:00,TV Osdorp,Baan 3,Trainer C,"Karel van Gelder, Laurens de Knijff, Gregor O'Gorman, Pascale Schafrat (toegevoegd)",7-8 (gemengd),"Anders (M:3, V:1)",9.33,legacy_gedeeltelijk
+8,Donderdag,19:00-20:00,Joy Jaagpad,Baan 1,Pedro,"Jeroen Glebbeek, Josephine Berger, Annefien Nieuwenhuis (toegevoegd), Emile Röell (toegevoegd)",7-8 (gemengd),Perfect (2M/2V),8.50,legacy_gedeeltelijk
+8,Donderdag,19:00-20:00,TV Osdorp,Baan 1,Guilherme,"Fie Hünneman, Marieke Rodenhuis, Nihad Hassani, Sjoerd Raijmans (toegevoegd)",8-10 (gemengd),Perfect (2M/2V),9.25,legacy_gedeeltelijk
+8,Donderdag,19:00-20:00,TV Osdorp,Baan 2,Youssef,"Josien Duijzer, Shireen Keijzer, Rosa Huetink (toegevoegd), Dave Koekkoek (toegevoegd)",8,"Anders (M:1, V:3)",9.08,legacy_gedeeltelijk
+8,Donderdag,20:00-21:00,TV Osdorp,Baan 1,Guilherme,"Roos Reinders, Helena Heno, Raquel Wijngaarde (toegevoegd), Josh Goldman (toegevoegd)",9,"Anders (M:1, V:3)",9.08,legacy_gedeeltelijk
+8,Donderdag,20:00-21:00,TV Osdorp,Baan 2,Dyan,"Qasim Khan, Marieke Jansen, Loes Stoltenborg, Gertjan de Vries",7-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+8,Donderdag,21:00-22:00,TV Osdorp,Baan 1,Trainer A,"Corinne Spijker, Romy Boiten, Laura Haakman, Eveline Spijker",7-9 (gemengd),Homogeen (4V),10.00,legacy_volledig
+8,Donderdag,21:00-22:00,TV Osdorp,Baan 2,Trainer B,"Mehmet Sabuncu, Sietho Idsinga, Justine Kist (toegevoegd), Maxine Schultz (toegevoegd)",8,Perfect (2M/2V),9.00,legacy_gedeeltelijk
+8,Donderdag,21:00-22:00,TV Osdorp,Baan 3,Trainer C,"Noelle van Rens, Marleen Ceton, Tessa VAN schie Proost (toegevoegd), Jan-Jaap ten Have (toegevoegd)",7-8 (gemengd),"Anders (M:1, V:3)",8.67,legacy_gedeeltelijk
+8,Vrijdag,20:00-21:00,TV Osdorp,Baan 1,Francois,"Duygu Manav, Aytac Manav, Elmira Baghery (toegevoegd), Fernando Gomez (toegevoegd)",8-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+9,Maandag,18:00-19:00,Joy Jaagpad,Baan 1,Raymon,"Jip Nooitgedacht, Iris Dekker, Narmin Gulmammadova, Coco Levendag",8,Homogeen (4V),7.00,
+9,Maandag,19:00-20:00,Joy Jaagpad,Baan 1,Raymon,"Jacob Vlaander, Mike Nieland, Anoek Verdonck (toegevoegd), Benthe van Rossem (toegevoegd)",7,Perfect (2M/2V),9.50,legacy_gedeeltelijk
+9,Maandag,19:00-20:00,TV Osdorp,Baan 1,Alvaro,"Emine Akdemir, Angelique Slager, Mariell Fingal, Wesley Pieper (toegevoegd)",9-12 (gemengd),"Anders (M:1, V:3)",10.00,legacy_volledig
+9,Maandag,19:00-20:00,TV Osdorp,Baan 2,Dyan,"Jennifer Daarnhouwer, Rivka Nieuwenhuizen, Britt Faber, Hao Shen (toegevoegd)",7-8 (gemengd),"Anders (M:1, V:3)",9.33,legacy_gedeeltelijk
+9,Maandag,20:00-21:00,TV Osdorp,Baan 1,Alvaro,"Peter Kniest, Jose Meulemans, Bastiaan Kraaijenbrink, Jana Hofmann",7-9 (gemengd),"Anders (M:3, V:1)",10.00,legacy_volledig
+9,Maandag,20:00-21:00,TV Osdorp,Baan 2,Dyan,"Karin Bouwmeester, Sylvia Kastein, Niels Hofman, Kirsten Hage",8,"Anders (M:1, V:3)",10.00,legacy_volledig
+9,Maandag,20:00-21:00,TV Osdorp,Baan 1,Trainer A,"Nils IJske, Manuel Vester, Sjors van Laarhoven, Ulvi Gulmammadov",6-7 (gemengd),Homogeen (4M),5.50,
+9,Maandag,21:00-22:00,Joy Jaagpad,Baan 1,Raymon,"Sanne van Amerongen, Denise de Vor, Teska Vaessen (toegevoegd), Peter-Paul Mast (toegevoegd)",6,"Anders (M:1, V:3)",8.17,legacy_gedeeltelijk
+9,Maandag,21:00-22:00,TV Osdorp,Baan 1,Trainer A,"Tom van de Vrede, Calvin van den Hoven, Maik Oud, Ming de Jong (toegevoegd)",8-9 (gemengd),"Anders (M:3, V:1)",9.33,legacy_gedeeltelijk
+9,Maandag,21:00-22:00,TV Osdorp,Baan 2,Trainer B,"Fern Van Nassauw, Maaike Stoffels, Thom Lunshof, Thomas Been (toegevoegd)",8-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+9,Dinsdag,18:00-19:00,TV Osdorp,Baan 1,Dyan,"Wendy van Heeswijk, Rianne Oosterbeek, Maikel Munsterhuis (toegevoegd), Christof Tenkink (toegevoegd)",8-9 (gemengd),Perfect (2M/2V),8.50,legacy_gedeeltelijk
+9,Dinsdag,18:00-19:00,Joy Jaagpad,Baan 1,Raymon,"Sofia de Haan, Sanne Boels, Wissal Kobeissi, Ellis van der Gulik",9-10 (gemengd),Homogeen (4V),5.50,
+9,Dinsdag,19:00-20:00,TV Osdorp,Baan 1,Francois,"Mark Roffelsen, Simon Koning, Kevin van loon, Joey Van Straten",8-9 (gemengd),Homogeen (4M),10.00,legacy_volledig
+9,Dinsdag,19:00-20:00,TV Osdorp,Baan 2,Emil,"Joyce van Weering, Lotte Brouwer, Thom Smit, Danny de Kinderen",7-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+9,Dinsdag,19:00-20:00,TV Osdorp,Baan 1,Trainer A,"Marcel Jonker, Thomas De Vries, Maud Beltman, Isabel Pieterse",6,Perfect (2M/2V),5.00,
+9,Dinsdag,20:00-21:00,TV Osdorp,Baan 1,Francois,"Thamar Lambregtse, Dongok Moon, Hanna Sung, Reimer Janssen (toegevoegd)",8-9 (gemengd),"Anders (M:1, V:3)",9.08,legacy_gedeeltelijk
+9,Dinsdag,20:00-21:00,Joy Jaagpad,Baan 1,Raymon,"Daan Van Apeldoorn, Vincent van Donk, Rebecca Van der Weerdt, Suzanne Huyskes",6-7 (gemengd),Perfect (2M/2V),6.50,
+9,Dinsdag,20:00-21:00,TV Osdorp,Baan 1,Emil,"Maartje Herweijer, Fleur Jansen, Kristel Dodde, Nikkie Poelmann",8,Homogeen (4V),7.00,
+9,Dinsdag,21:00-22:00,TV Osdorp,Baan 1,Trainer A,"Wesley de Ruig, Erik Maas, Derek Lampe, Kiki Boreel (toegevoegd)",8,"Anders (M:3, V:1)",9.08,legacy_gedeeltelijk
+9,Dinsdag,21:00-22:00,TV Osdorp,Baan 2,Trainer B,"Lin Rezelman, Moses Sani, Puck van den Bosch, Marcio Ikeda (toegevoegd)",8-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+9,Woensdag,18:00-19:00,TV Osdorp,Baan 1,Pedro,"Nicolette Gründlehner, Rebecca Hollenberg, Paulien Gonzalez, Charlotte Degenkamp",7-8 (gemengd),Homogeen (4V),10.00,legacy_volledig
+9,Woensdag,19:00-20:00,TV Osdorp,Baan 1,Pedro,"Stef Geven, Thijs Geven, Mark van Ginkel, Hanne van der Veen (toegevoegd)",4-5 (gemengd),"Anders (M:3, V:1)",9.08,legacy_gedeeltelijk
+9,Woensdag,19:00-20:00,TV Osdorp,Baan 2,Dyan,"Marcel Ruitenberg, Lennart Van Roeden, Merel van der Weijde (toegevoegd), Larissa de Vor (toegevoegd)",7,Perfect (2M/2V),9.00,legacy_gedeeltelijk
+9,Woensdag,19:00-20:00,Joy Jaagpad,Baan 1,Raymon,"Arnold Vlaander, Jeroen Roffel, Daan van Beers, Sebastiaan van den Brink",7,Homogeen (4M),7.00,
+9,Woensdag,19:00-20:00,Joy Jaagpad,Baan 2,Youssef,"Lisanne Scheffens, Marit Bosselaar, Tessa Schop, Suzanne Straathof",6-7 (gemengd),Homogeen (4V),4.00,
+9,Woensdag,19:00-20:00,TV Osdorp,Baan 1,Francois,"Rianne de Wit, Kristin Wahle, Claudia Bouw, Milli Levendag",7-8 (gemengd),Homogeen (4V),5.50,
+9,Woensdag,20:00-21:00,Joy Jaagpad,Baan 1,Youssef,"Maud Warmerdam, Jeroen Keij, Wouter Neven, Laurien Reinalda",8-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+9,Woensdag,20:00-21:00,TV Osdorp,Baan 1,Pedro,"Willem van Ingen, Ruben van Schoonneveldt, Maud Santing (toegevoegd), Merel Vrolijk (toegevoegd)",7,Perfect (2M/2V),9.00,legacy_gedeeltelijk
+9,Woensdag,20:00-21:00,TV Osdorp,Baan 2,Dyan,"Ruud Onclin, Wim van vuure, Jan Ridder, Liduine Kampschöer (toegevoegd)",7,"Anders (M:3, V:1)",9.08,legacy_gedeeltelijk
+9,Woensdag,20:00-21:00,TV Osdorp,Baan 3,Francois,"Anne-Rose Lynch, Paloma Nijsse, Margot Bolhuis (toegevoegd), Remco van Dijk (toegevoegd)",8-9 (gemengd),"Anders (M:1, V:3)",8.17,legacy_gedeeltelijk
+9,Woensdag,21:00-22:00,TV Osdorp,Baan 1,Trainer A,"Lourens Keers, Frits Van Pijkeren, Stijn Lechner, Anton Dodkin",7,Homogeen (4M),10.00,legacy_volledig
+9,Woensdag,21:00-22:00,TV Osdorp,Baan 2,Trainer B,"Bowi van Onna, Isabel Harlaar, Frank Boerma, Laura Taal (toegevoegd)",6-8 (gemengd),Perfect (2M/2V),9.25,legacy_gedeeltelijk
+9,Woensdag,21:00-22:00,TV Osdorp,Baan 3,Trainer C,"Karel van Gelder, Laurens de Knijff, Gregor O'Gorman, Pascale Schafrat (toegevoegd)",7-8 (gemengd),"Anders (M:3, V:1)",9.33,legacy_gedeeltelijk
+9,Donderdag,19:00-20:00,Joy Jaagpad,Baan 1,Pedro,"Jeroen Glebbeek, Josephine Berger, Annefien Nieuwenhuis (toegevoegd), Emile Röell (toegevoegd)",7-8 (gemengd),Perfect (2M/2V),8.50,legacy_gedeeltelijk
+9,Donderdag,19:00-20:00,TV Osdorp,Baan 1,Guilherme,"Fie Hünneman, Marieke Rodenhuis, Nihad Hassani, Sjoerd Raijmans (toegevoegd)",8-10 (gemengd),Perfect (2M/2V),9.25,legacy_gedeeltelijk
+9,Donderdag,19:00-20:00,TV Osdorp,Baan 2,Youssef,"Josien Duijzer, Shireen Keijzer, Rosa Huetink (toegevoegd), Dave Koekkoek (toegevoegd)",8,"Anders (M:1, V:3)",9.08,legacy_gedeeltelijk
+9,Donderdag,20:00-21:00,TV Osdorp,Baan 1,Guilherme,"Roos Reinders, Helena Heno, Raquel Wijngaarde (toegevoegd), Josh Goldman (toegevoegd)",9,"Anders (M:1, V:3)",9.08,legacy_gedeeltelijk
+9,Donderdag,20:00-21:00,TV Osdorp,Baan 2,Dyan,"Qasim Khan, Marieke Jansen, Loes Stoltenborg, Gertjan de Vries",7-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+9,Donderdag,21:00-22:00,TV Osdorp,Baan 1,Trainer A,"Corinne Spijker, Romy Boiten, Laura Haakman, Eveline Spijker",7-9 (gemengd),Homogeen (4V),10.00,legacy_volledig
+9,Donderdag,21:00-22:00,TV Osdorp,Baan 2,Trainer B,"Mehmet Sabuncu, Sietho Idsinga, Justine Kist (toegevoegd), Maxine Schultz (toegevoegd)",8,Perfect (2M/2V),9.00,legacy_gedeeltelijk
+9,Donderdag,21:00-22:00,TV Osdorp,Baan 3,Trainer C,"Noelle van Rens, Marleen Ceton, Tessa VAN schie Proost (toegevoegd), Jan-Jaap ten Have (toegevoegd)",7-8 (gemengd),"Anders (M:1, V:3)",8.67,legacy_gedeeltelijk
+9,Vrijdag,20:00-21:00,TV Osdorp,Baan 1,Francois,"Duygu Manav, Aytac Manav, Elmira Baghery (toegevoegd), Fernando Gomez (toegevoegd)",8-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+10,Maandag,18:00-19:00,Joy Jaagpad,Baan 1,Raymon,"Jip Nooitgedacht, Iris Dekker, Narmin Gulmammadova, Coco Levendag",8,Homogeen (4V),7.00,
+10,Maandag,19:00-20:00,Joy Jaagpad,Baan 1,Raymon,"Jacob Vlaander, Mike Nieland, Anoek Verdonck (toegevoegd), Benthe van Rossem (toegevoegd)",7,Perfect (2M/2V),9.50,legacy_gedeeltelijk
+10,Maandag,19:00-20:00,TV Osdorp,Baan 1,Alvaro,"Emine Akdemir, Angelique Slager, Mariell Fingal, Wesley Pieper (toegevoegd)",9-12 (gemengd),"Anders (M:1, V:3)",10.00,legacy_volledig
+10,Maandag,19:00-20:00,TV Osdorp,Baan 2,Dyan,"Jennifer Daarnhouwer, Rivka Nieuwenhuizen, Britt Faber, Hao Shen (toegevoegd)",7-8 (gemengd),"Anders (M:1, V:3)",9.33,legacy_gedeeltelijk
+10,Maandag,20:00-21:00,TV Osdorp,Baan 1,Alvaro,"Peter Kniest, Jose Meulemans, Bastiaan Kraaijenbrink, Jana Hofmann",7-9 (gemengd),"Anders (M:3, V:1)",10.00,legacy_volledig
+10,Maandag,20:00-21:00,TV Osdorp,Baan 2,Dyan,"Karin Bouwmeester, Sylvia Kastein, Niels Hofman, Kirsten Hage",8,"Anders (M:1, V:3)",10.00,legacy_volledig
+10,Maandag,20:00-21:00,TV Osdorp,Baan 1,Trainer A,"Nils IJske, Manuel Vester, Sjors van Laarhoven, Ulvi Gulmammadov",6-7 (gemengd),Homogeen (4M),5.50,
+10,Maandag,21:00-22:00,Joy Jaagpad,Baan 1,Raymon,"Sanne van Amerongen, Denise de Vor, Teska Vaessen (toegevoegd), Peter-Paul Mast (toegevoegd)",6,"Anders (M:1, V:3)",8.17,legacy_gedeeltelijk
+10,Maandag,21:00-22:00,TV Osdorp,Baan 1,Trainer A,"Tom van de Vrede, Calvin van den Hoven, Maik Oud, Ming de Jong (toegevoegd)",8-9 (gemengd),"Anders (M:3, V:1)",9.33,legacy_gedeeltelijk
+10,Maandag,21:00-22:00,TV Osdorp,Baan 2,Trainer B,"Fern Van Nassauw, Maaike Stoffels, Thom Lunshof, Thomas Been (toegevoegd)",8-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+10,Dinsdag,18:00-19:00,TV Osdorp,Baan 1,Dyan,"Wendy van Heeswijk, Rianne Oosterbeek, Maikel Munsterhuis (toegevoegd), Christof Tenkink (toegevoegd)",8-9 (gemengd),Perfect (2M/2V),8.50,legacy_gedeeltelijk
+10,Dinsdag,18:00-19:00,Joy Jaagpad,Baan 1,Raymon,"Sofia de Haan, Sanne Boels, Wissal Kobeissi, Ellis van der Gulik",9-10 (gemengd),Homogeen (4V),5.50,
+10,Dinsdag,19:00-20:00,TV Osdorp,Baan 1,Francois,"Mark Roffelsen, Simon Koning, Kevin van loon, Joey Van Straten",8-9 (gemengd),Homogeen (4M),10.00,legacy_volledig
+10,Dinsdag,19:00-20:00,TV Osdorp,Baan 2,Emil,"Joyce van Weering, Lotte Brouwer, Thom Smit, Danny de Kinderen",7-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+10,Dinsdag,19:00-20:00,TV Osdorp,Baan 1,Trainer A,"Marcel Jonker, Thomas De Vries, Maud Beltman, Isabel Pieterse",6,Perfect (2M/2V),5.00,
+10,Dinsdag,20:00-21:00,TV Osdorp,Baan 1,Francois,"Thamar Lambregtse, Dongok Moon, Hanna Sung, Reimer Janssen (toegevoegd)",8-9 (gemengd),"Anders (M:1, V:3)",9.08,legacy_gedeeltelijk
+10,Dinsdag,20:00-21:00,Joy Jaagpad,Baan 1,Raymon,"Daan Van Apeldoorn, Vincent van Donk, Rebecca Van der Weerdt, Suzanne Huyskes",6-7 (gemengd),Perfect (2M/2V),6.50,
+10,Dinsdag,20:00-21:00,TV Osdorp,Baan 1,Emil,"Maartje Herweijer, Fleur Jansen, Kristel Dodde, Nikkie Poelmann",8,Homogeen (4V),7.00,
+10,Dinsdag,21:00-22:00,TV Osdorp,Baan 1,Trainer A,"Wesley de Ruig, Erik Maas, Derek Lampe, Kiki Boreel (toegevoegd)",8,"Anders (M:3, V:1)",9.08,legacy_gedeeltelijk
+10,Dinsdag,21:00-22:00,TV Osdorp,Baan 2,Trainer B,"Lin Rezelman, Moses Sani, Puck van den Bosch, Marcio Ikeda (toegevoegd)",8-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+10,Woensdag,18:00-19:00,TV Osdorp,Baan 1,Pedro,"Nicolette Gründlehner, Rebecca Hollenberg, Paulien Gonzalez, Charlotte Degenkamp",7-8 (gemengd),Homogeen (4V),10.00,legacy_volledig
+10,Woensdag,19:00-20:00,TV Osdorp,Baan 1,Pedro,"Stef Geven, Thijs Geven, Mark van Ginkel, Hanne van der Veen (toegevoegd)",4-5 (gemengd),"Anders (M:3, V:1)",9.08,legacy_gedeeltelijk
+10,Woensdag,19:00-20:00,TV Osdorp,Baan 2,Dyan,"Marcel Ruitenberg, Lennart Van Roeden, Merel van der Weijde (toegevoegd), Larissa de Vor (toegevoegd)",7,Perfect (2M/2V),9.00,legacy_gedeeltelijk
+10,Woensdag,19:00-20:00,Joy Jaagpad,Baan 1,Raymon,"Arnold Vlaander, Jeroen Roffel, Daan van Beers, Sebastiaan van den Brink",7,Homogeen (4M),7.00,
+10,Woensdag,19:00-20:00,Joy Jaagpad,Baan 2,Youssef,"Lisanne Scheffens, Marit Bosselaar, Tessa Schop, Suzanne Straathof",6-7 (gemengd),Homogeen (4V),4.00,
+10,Woensdag,19:00-20:00,TV Osdorp,Baan 1,Francois,"Rianne de Wit, Kristin Wahle, Claudia Bouw, Milli Levendag",7-8 (gemengd),Homogeen (4V),5.50,
+10,Woensdag,20:00-21:00,Joy Jaagpad,Baan 1,Youssef,"Maud Warmerdam, Jeroen Keij, Wouter Neven, Laurien Reinalda",8-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+10,Woensdag,20:00-21:00,TV Osdorp,Baan 1,Pedro,"Willem van Ingen, Ruben van Schoonneveldt, Maud Santing (toegevoegd), Merel Vrolijk (toegevoegd)",7,Perfect (2M/2V),9.00,legacy_gedeeltelijk
+10,Woensdag,20:00-21:00,TV Osdorp,Baan 2,Dyan,"Ruud Onclin, Wim van vuure, Jan Ridder, Liduine Kampschöer (toegevoegd)",7,"Anders (M:3, V:1)",9.08,legacy_gedeeltelijk
+10,Woensdag,20:00-21:00,TV Osdorp,Baan 3,Francois,"Anne-Rose Lynch, Paloma Nijsse, Margot Bolhuis (toegevoegd), Remco van Dijk (toegevoegd)",8-9 (gemengd),"Anders (M:1, V:3)",8.17,legacy_gedeeltelijk
+10,Woensdag,21:00-22:00,TV Osdorp,Baan 1,Trainer A,"Lourens Keers, Frits Van Pijkeren, Stijn Lechner, Anton Dodkin",7,Homogeen (4M),10.00,legacy_volledig
+10,Woensdag,21:00-22:00,TV Osdorp,Baan 2,Trainer B,"Bowi van Onna, Isabel Harlaar, Frank Boerma, Laura Taal (toegevoegd)",6-8 (gemengd),Perfect (2M/2V),9.25,legacy_gedeeltelijk
+10,Woensdag,21:00-22:00,TV Osdorp,Baan 3,Trainer C,"Karel van Gelder, Laurens de Knijff, Gregor O'Gorman, Pascale Schafrat (toegevoegd)",7-8 (gemengd),"Anders (M:3, V:1)",9.33,legacy_gedeeltelijk
+10,Donderdag,19:00-20:00,Joy Jaagpad,Baan 1,Pedro,"Jeroen Glebbeek, Josephine Berger, Annefien Nieuwenhuis (toegevoegd), Emile Röell (toegevoegd)",7-8 (gemengd),Perfect (2M/2V),8.50,legacy_gedeeltelijk
+10,Donderdag,19:00-20:00,TV Osdorp,Baan 1,Guilherme,"Fie Hünneman, Marieke Rodenhuis, Nihad Hassani, Sjoerd Raijmans (toegevoegd)",8-10 (gemengd),Perfect (2M/2V),9.25,legacy_gedeeltelijk
+10,Donderdag,19:00-20:00,TV Osdorp,Baan 2,Youssef,"Josien Duijzer, Shireen Keijzer, Rosa Huetink (toegevoegd), Dave Koekkoek (toegevoegd)",8,"Anders (M:1, V:3)",9.08,legacy_gedeeltelijk
+10,Donderdag,20:00-21:00,TV Osdorp,Baan 1,Guilherme,"Roos Reinders, Helena Heno, Raquel Wijngaarde (toegevoegd), Josh Goldman (toegevoegd)",9,"Anders (M:1, V:3)",9.08,legacy_gedeeltelijk
+10,Donderdag,20:00-21:00,TV Osdorp,Baan 2,Dyan,"Qasim Khan, Marieke Jansen, Loes Stoltenborg, Gertjan de Vries",7-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+10,Donderdag,21:00-22:00,TV Osdorp,Baan 1,Trainer A,"Corinne Spijker, Romy Boiten, Laura Haakman, Eveline Spijker",7-9 (gemengd),Homogeen (4V),10.00,legacy_volledig
+10,Donderdag,21:00-22:00,TV Osdorp,Baan 2,Trainer B,"Mehmet Sabuncu, Sietho Idsinga, Justine Kist (toegevoegd), Maxine Schultz (toegevoegd)",8,Perfect (2M/2V),9.00,legacy_gedeeltelijk
+10,Donderdag,21:00-22:00,TV Osdorp,Baan 3,Trainer C,"Noelle van Rens, Marleen Ceton, Tessa VAN schie Proost (toegevoegd), Jan-Jaap ten Have (toegevoegd)",7-8 (gemengd),"Anders (M:1, V:3)",8.67,legacy_gedeeltelijk
+10,Vrijdag,20:00-21:00,TV Osdorp,Baan 1,Francois,"Duygu Manav, Aytac Manav, Elmira Baghery (toegevoegd), Fernando Gomez (toegevoegd)",8-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+11,Maandag,18:00-19:00,Joy Jaagpad,Baan 1,Raymon,"Jip Nooitgedacht, Iris Dekker, Narmin Gulmammadova, Coco Levendag",8,Homogeen (4V),7.00,
+11,Maandag,19:00-20:00,Joy Jaagpad,Baan 1,Raymon,"Jacob Vlaander, Mike Nieland, Anoek Verdonck (toegevoegd), Benthe van Rossem (toegevoegd)",7,Perfect (2M/2V),9.50,legacy_gedeeltelijk
+11,Maandag,19:00-20:00,TV Osdorp,Baan 1,Alvaro,"Emine Akdemir, Angelique Slager, Mariell Fingal, Wesley Pieper (toegevoegd)",9-12 (gemengd),"Anders (M:1, V:3)",10.00,legacy_volledig
+11,Maandag,19:00-20:00,TV Osdorp,Baan 2,Dyan,"Jennifer Daarnhouwer, Rivka Nieuwenhuizen, Britt Faber, Hao Shen (toegevoegd)",7-8 (gemengd),"Anders (M:1, V:3)",9.33,legacy_gedeeltelijk
+11,Maandag,20:00-21:00,TV Osdorp,Baan 1,Alvaro,"Peter Kniest, Jose Meulemans, Bastiaan Kraaijenbrink, Jana Hofmann",7-9 (gemengd),"Anders (M:3, V:1)",10.00,legacy_volledig
+11,Maandag,20:00-21:00,TV Osdorp,Baan 2,Dyan,"Karin Bouwmeester, Sylvia Kastein, Niels Hofman, Kirsten Hage",8,"Anders (M:1, V:3)",10.00,legacy_volledig
+11,Maandag,20:00-21:00,TV Osdorp,Baan 1,Trainer A,"Nils IJske, Manuel Vester, Sjors van Laarhoven, Ulvi Gulmammadov",6-7 (gemengd),Homogeen (4M),5.50,
+11,Maandag,21:00-22:00,Joy Jaagpad,Baan 1,Raymon,"Sanne van Amerongen, Denise de Vor, Teska Vaessen (toegevoegd), Peter-Paul Mast (toegevoegd)",6,"Anders (M:1, V:3)",8.17,legacy_gedeeltelijk
+11,Maandag,21:00-22:00,TV Osdorp,Baan 1,Trainer A,"Tom van de Vrede, Calvin van den Hoven, Maik Oud, Ming de Jong (toegevoegd)",8-9 (gemengd),"Anders (M:3, V:1)",9.33,legacy_gedeeltelijk
+11,Maandag,21:00-22:00,TV Osdorp,Baan 2,Trainer B,"Fern Van Nassauw, Maaike Stoffels, Thom Lunshof, Thomas Been (toegevoegd)",8-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+11,Dinsdag,18:00-19:00,TV Osdorp,Baan 1,Dyan,"Wendy van Heeswijk, Rianne Oosterbeek, Maikel Munsterhuis (toegevoegd), Christof Tenkink (toegevoegd)",8-9 (gemengd),Perfect (2M/2V),8.50,legacy_gedeeltelijk
+11,Dinsdag,18:00-19:00,Joy Jaagpad,Baan 1,Raymon,"Sofia de Haan, Sanne Boels, Wissal Kobeissi, Ellis van der Gulik",9-10 (gemengd),Homogeen (4V),5.50,
+11,Dinsdag,19:00-20:00,TV Osdorp,Baan 1,Francois,"Mark Roffelsen, Simon Koning, Kevin van loon, Joey Van Straten",8-9 (gemengd),Homogeen (4M),10.00,legacy_volledig
+11,Dinsdag,19:00-20:00,TV Osdorp,Baan 2,Emil,"Joyce van Weering, Lotte Brouwer, Thom Smit, Danny de Kinderen",7-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+11,Dinsdag,19:00-20:00,TV Osdorp,Baan 1,Trainer A,"Marcel Jonker, Thomas De Vries, Maud Beltman, Isabel Pieterse",6,Perfect (2M/2V),5.00,
+11,Dinsdag,20:00-21:00,TV Osdorp,Baan 1,Francois,"Thamar Lambregtse, Dongok Moon, Hanna Sung, Reimer Janssen (toegevoegd)",8-9 (gemengd),"Anders (M:1, V:3)",9.08,legacy_gedeeltelijk
+11,Dinsdag,20:00-21:00,Joy Jaagpad,Baan 1,Raymon,"Daan Van Apeldoorn, Vincent van Donk, Rebecca Van der Weerdt, Suzanne Huyskes",6-7 (gemengd),Perfect (2M/2V),6.50,
+11,Dinsdag,20:00-21:00,TV Osdorp,Baan 1,Emil,"Maartje Herweijer, Fleur Jansen, Kristel Dodde, Nikkie Poelmann",8,Homogeen (4V),7.00,
+11,Dinsdag,21:00-22:00,TV Osdorp,Baan 1,Trainer A,"Wesley de Ruig, Erik Maas, Derek Lampe, Kiki Boreel (toegevoegd)",8,"Anders (M:3, V:1)",9.08,legacy_gedeeltelijk
+11,Dinsdag,21:00-22:00,TV Osdorp,Baan 2,Trainer B,"Lin Rezelman, Moses Sani, Puck van den Bosch, Marcio Ikeda (toegevoegd)",8-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+11,Woensdag,18:00-19:00,TV Osdorp,Baan 1,Pedro,"Nicolette Gründlehner, Rebecca Hollenberg, Paulien Gonzalez, Charlotte Degenkamp",7-8 (gemengd),Homogeen (4V),10.00,legacy_volledig
+11,Woensdag,19:00-20:00,TV Osdorp,Baan 1,Pedro,"Stef Geven, Thijs Geven, Mark van Ginkel, Hanne van der Veen (toegevoegd)",4-5 (gemengd),"Anders (M:3, V:1)",9.08,legacy_gedeeltelijk
+11,Woensdag,19:00-20:00,TV Osdorp,Baan 2,Dyan,"Marcel Ruitenberg, Lennart Van Roeden, Merel van der Weijde (toegevoegd), Larissa de Vor (toegevoegd)",7,Perfect (2M/2V),9.00,legacy_gedeeltelijk
+11,Woensdag,19:00-20:00,Joy Jaagpad,Baan 1,Raymon,"Arnold Vlaander, Jeroen Roffel, Daan van Beers, Sebastiaan van den Brink",7,Homogeen (4M),7.00,
+11,Woensdag,19:00-20:00,Joy Jaagpad,Baan 2,Youssef,"Lisanne Scheffens, Marit Bosselaar, Tessa Schop, Suzanne Straathof",6-7 (gemengd),Homogeen (4V),4.00,
+11,Woensdag,19:00-20:00,TV Osdorp,Baan 1,Francois,"Rianne de Wit, Kristin Wahle, Claudia Bouw, Milli Levendag",7-8 (gemengd),Homogeen (4V),5.50,
+11,Woensdag,20:00-21:00,Joy Jaagpad,Baan 1,Youssef,"Maud Warmerdam, Jeroen Keij, Wouter Neven, Laurien Reinalda",8-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+11,Woensdag,20:00-21:00,TV Osdorp,Baan 1,Pedro,"Willem van Ingen, Ruben van Schoonneveldt, Maud Santing (toegevoegd), Merel Vrolijk (toegevoegd)",7,Perfect (2M/2V),9.00,legacy_gedeeltelijk
+11,Woensdag,20:00-21:00,TV Osdorp,Baan 2,Dyan,"Ruud Onclin, Wim van vuure, Jan Ridder, Liduine Kampschöer (toegevoegd)",7,"Anders (M:3, V:1)",9.08,legacy_gedeeltelijk
+11,Woensdag,20:00-21:00,TV Osdorp,Baan 3,Francois,"Anne-Rose Lynch, Paloma Nijsse, Margot Bolhuis (toegevoegd), Remco van Dijk (toegevoegd)",8-9 (gemengd),"Anders (M:1, V:3)",8.17,legacy_gedeeltelijk
+11,Woensdag,21:00-22:00,TV Osdorp,Baan 1,Trainer A,"Lourens Keers, Frits Van Pijkeren, Stijn Lechner, Anton Dodkin",7,Homogeen (4M),10.00,legacy_volledig
+11,Woensdag,21:00-22:00,TV Osdorp,Baan 2,Trainer B,"Bowi van Onna, Isabel Harlaar, Frank Boerma, Laura Taal (toegevoegd)",6-8 (gemengd),Perfect (2M/2V),9.25,legacy_gedeeltelijk
+11,Woensdag,21:00-22:00,TV Osdorp,Baan 3,Trainer C,"Karel van Gelder, Laurens de Knijff, Gregor O'Gorman, Pascale Schafrat (toegevoegd)",7-8 (gemengd),"Anders (M:3, V:1)",9.33,legacy_gedeeltelijk
+11,Donderdag,19:00-20:00,Joy Jaagpad,Baan 1,Pedro,"Jeroen Glebbeek, Josephine Berger, Annefien Nieuwenhuis (toegevoegd), Emile Röell (toegevoegd)",7-8 (gemengd),Perfect (2M/2V),8.50,legacy_gedeeltelijk
+11,Donderdag,19:00-20:00,TV Osdorp,Baan 1,Guilherme,"Fie Hünneman, Marieke Rodenhuis, Nihad Hassani, Sjoerd Raijmans (toegevoegd)",8-10 (gemengd),Perfect (2M/2V),9.25,legacy_gedeeltelijk
+11,Donderdag,19:00-20:00,TV Osdorp,Baan 2,Youssef,"Josien Duijzer, Shireen Keijzer, Rosa Huetink (toegevoegd), Dave Koekkoek (toegevoegd)",8,"Anders (M:1, V:3)",9.08,legacy_gedeeltelijk
+11,Donderdag,20:00-21:00,TV Osdorp,Baan 1,Guilherme,"Roos Reinders, Helena Heno, Raquel Wijngaarde (toegevoegd), Josh Goldman (toegevoegd)",9,"Anders (M:1, V:3)",9.08,legacy_gedeeltelijk
+11,Donderdag,20:00-21:00,TV Osdorp,Baan 2,Dyan,"Qasim Khan, Marieke Jansen, Loes Stoltenborg, Gertjan de Vries",7-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+11,Donderdag,21:00-22:00,TV Osdorp,Baan 1,Trainer A,"Corinne Spijker, Romy Boiten, Laura Haakman, Eveline Spijker",7-9 (gemengd),Homogeen (4V),10.00,legacy_volledig
+11,Donderdag,21:00-22:00,TV Osdorp,Baan 2,Trainer B,"Mehmet Sabuncu, Sietho Idsinga, Justine Kist (toegevoegd), Maxine Schultz (toegevoegd)",8,Perfect (2M/2V),9.00,legacy_gedeeltelijk
+11,Donderdag,21:00-22:00,TV Osdorp,Baan 3,Trainer C,"Noelle van Rens, Marleen Ceton, Tessa VAN schie Proost (toegevoegd), Jan-Jaap ten Have (toegevoegd)",7-8 (gemengd),"Anders (M:1, V:3)",8.67,legacy_gedeeltelijk
+11,Vrijdag,20:00-21:00,TV Osdorp,Baan 1,Francois,"Duygu Manav, Aytac Manav, Elmira Baghery (toegevoegd), Fernando Gomez (toegevoegd)",8-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+12,Maandag,18:00-19:00,Joy Jaagpad,Baan 1,Raymon,"Jip Nooitgedacht, Iris Dekker, Narmin Gulmammadova, Coco Levendag",8,Homogeen (4V),7.00,
+12,Maandag,19:00-20:00,Joy Jaagpad,Baan 1,Raymon,"Jacob Vlaander, Mike Nieland, Anoek Verdonck (toegevoegd), Benthe van Rossem (toegevoegd)",7,Perfect (2M/2V),9.50,legacy_gedeeltelijk
+12,Maandag,19:00-20:00,TV Osdorp,Baan 1,Alvaro,"Emine Akdemir, Angelique Slager, Mariell Fingal, Wesley Pieper (toegevoegd)",9-12 (gemengd),"Anders (M:1, V:3)",10.00,legacy_volledig
+12,Maandag,19:00-20:00,TV Osdorp,Baan 2,Dyan,"Jennifer Daarnhouwer, Rivka Nieuwenhuizen, Britt Faber, Hao Shen (toegevoegd)",7-8 (gemengd),"Anders (M:1, V:3)",9.33,legacy_gedeeltelijk
+12,Maandag,20:00-21:00,TV Osdorp,Baan 1,Alvaro,"Peter Kniest, Jose Meulemans, Bastiaan Kraaijenbrink, Jana Hofmann",7-9 (gemengd),"Anders (M:3, V:1)",10.00,legacy_volledig
+12,Maandag,20:00-21:00,TV Osdorp,Baan 2,Dyan,"Karin Bouwmeester, Sylvia Kastein, Niels Hofman, Kirsten Hage",8,"Anders (M:1, V:3)",10.00,legacy_volledig
+12,Maandag,20:00-21:00,TV Osdorp,Baan 1,Trainer A,"Nils IJske, Manuel Vester, Sjors van Laarhoven, Ulvi Gulmammadov",6-7 (gemengd),Homogeen (4M),5.50,
+12,Maandag,21:00-22:00,Joy Jaagpad,Baan 1,Raymon,"Sanne van Amerongen, Denise de Vor, Teska Vaessen (toegevoegd), Peter-Paul Mast (toegevoegd)",6,"Anders (M:1, V:3)",8.17,legacy_gedeeltelijk
+12,Maandag,21:00-22:00,TV Osdorp,Baan 1,Trainer A,"Tom van de Vrede, Calvin van den Hoven, Maik Oud, Ming de Jong (toegevoegd)",8-9 (gemengd),"Anders (M:3, V:1)",9.33,legacy_gedeeltelijk
+12,Maandag,21:00-22:00,TV Osdorp,Baan 2,Trainer B,"Fern Van Nassauw, Maaike Stoffels, Thom Lunshof, Thomas Been (toegevoegd)",8-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+12,Dinsdag,18:00-19:00,TV Osdorp,Baan 1,Dyan,"Wendy van Heeswijk, Rianne Oosterbeek, Maikel Munsterhuis (toegevoegd), Christof Tenkink (toegevoegd)",8-9 (gemengd),Perfect (2M/2V),8.50,legacy_gedeeltelijk
+12,Dinsdag,18:00-19:00,Joy Jaagpad,Baan 1,Raymon,"Sofia de Haan, Sanne Boels, Wissal Kobeissi, Ellis van der Gulik",9-10 (gemengd),Homogeen (4V),5.50,
+12,Dinsdag,19:00-20:00,TV Osdorp,Baan 1,Francois,"Mark Roffelsen, Simon Koning, Kevin van loon, Joey Van Straten",8-9 (gemengd),Homogeen (4M),10.00,legacy_volledig
+12,Dinsdag,19:00-20:00,TV Osdorp,Baan 2,Emil,"Joyce van Weering, Lotte Brouwer, Thom Smit, Danny de Kinderen",7-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+12,Dinsdag,19:00-20:00,TV Osdorp,Baan 1,Trainer A,"Marcel Jonker, Thomas De Vries, Maud Beltman, Isabel Pieterse",6,Perfect (2M/2V),5.00,
+12,Dinsdag,20:00-21:00,TV Osdorp,Baan 1,Francois,"Thamar Lambregtse, Dongok Moon, Hanna Sung, Reimer Janssen (toegevoegd)",8-9 (gemengd),"Anders (M:1, V:3)",9.08,legacy_gedeeltelijk
+12,Dinsdag,20:00-21:00,Joy Jaagpad,Baan 1,Raymon,"Daan Van Apeldoorn, Vincent van Donk, Rebecca Van der Weerdt, Suzanne Huyskes",6-7 (gemengd),Perfect (2M/2V),6.50,
+12,Dinsdag,20:00-21:00,TV Osdorp,Baan 1,Emil,"Maartje Herweijer, Fleur Jansen, Kristel Dodde, Nikkie Poelmann",8,Homogeen (4V),7.00,
+12,Dinsdag,21:00-22:00,TV Osdorp,Baan 1,Trainer A,"Wesley de Ruig, Erik Maas, Derek Lampe, Kiki Boreel (toegevoegd)",8,"Anders (M:3, V:1)",9.08,legacy_gedeeltelijk
+12,Dinsdag,21:00-22:00,TV Osdorp,Baan 2,Trainer B,"Lin Rezelman, Moses Sani, Puck van den Bosch, Marcio Ikeda (toegevoegd)",8-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+12,Woensdag,18:00-19:00,TV Osdorp,Baan 1,Pedro,"Nicolette Gründlehner, Rebecca Hollenberg, Paulien Gonzalez, Charlotte Degenkamp",7-8 (gemengd),Homogeen (4V),10.00,legacy_volledig
+12,Woensdag,19:00-20:00,TV Osdorp,Baan 1,Pedro,"Stef Geven, Thijs Geven, Mark van Ginkel, Hanne van der Veen (toegevoegd)",4-5 (gemengd),"Anders (M:3, V:1)",9.08,legacy_gedeeltelijk
+12,Woensdag,19:00-20:00,TV Osdorp,Baan 2,Dyan,"Marcel Ruitenberg, Lennart Van Roeden, Merel van der Weijde (toegevoegd), Larissa de Vor (toegevoegd)",7,Perfect (2M/2V),9.00,legacy_gedeeltelijk
+12,Woensdag,19:00-20:00,Joy Jaagpad,Baan 1,Raymon,"Arnold Vlaander, Jeroen Roffel, Daan van Beers, Sebastiaan van den Brink",7,Homogeen (4M),7.00,
+12,Woensdag,19:00-20:00,Joy Jaagpad,Baan 2,Youssef,"Lisanne Scheffens, Marit Bosselaar, Tessa Schop, Suzanne Straathof",6-7 (gemengd),Homogeen (4V),4.00,
+12,Woensdag,19:00-20:00,TV Osdorp,Baan 1,Francois,"Rianne de Wit, Kristin Wahle, Claudia Bouw, Milli Levendag",7-8 (gemengd),Homogeen (4V),5.50,
+12,Woensdag,20:00-21:00,Joy Jaagpad,Baan 1,Youssef,"Maud Warmerdam, Jeroen Keij, Wouter Neven, Laurien Reinalda",8-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+12,Woensdag,20:00-21:00,TV Osdorp,Baan 1,Pedro,"Willem van Ingen, Ruben van Schoonneveldt, Maud Santing (toegevoegd), Merel Vrolijk (toegevoegd)",7,Perfect (2M/2V),9.00,legacy_gedeeltelijk
+12,Woensdag,20:00-21:00,TV Osdorp,Baan 2,Dyan,"Ruud Onclin, Wim van vuure, Jan Ridder, Liduine Kampschöer (toegevoegd)",7,"Anders (M:3, V:1)",9.08,legacy_gedeeltelijk
+12,Woensdag,20:00-21:00,TV Osdorp,Baan 3,Francois,"Anne-Rose Lynch, Paloma Nijsse, Margot Bolhuis (toegevoegd), Remco van Dijk (toegevoegd)",8-9 (gemengd),"Anders (M:1, V:3)",8.17,legacy_gedeeltelijk
+12,Woensdag,21:00-22:00,TV Osdorp,Baan 1,Trainer A,"Lourens Keers, Frits Van Pijkeren, Stijn Lechner, Anton Dodkin",7,Homogeen (4M),10.00,legacy_volledig
+12,Woensdag,21:00-22:00,TV Osdorp,Baan 2,Trainer B,"Bowi van Onna, Isabel Harlaar, Frank Boerma, Laura Taal (toegevoegd)",6-8 (gemengd),Perfect (2M/2V),9.25,legacy_gedeeltelijk
+12,Woensdag,21:00-22:00,TV Osdorp,Baan 3,Trainer C,"Karel van Gelder, Laurens de Knijff, Gregor O'Gorman, Pascale Schafrat (toegevoegd)",7-8 (gemengd),"Anders (M:3, V:1)",9.33,legacy_gedeeltelijk
+12,Donderdag,19:00-20:00,Joy Jaagpad,Baan 1,Pedro,"Jeroen Glebbeek, Josephine Berger, Annefien Nieuwenhuis (toegevoegd), Emile Röell (toegevoegd)",7-8 (gemengd),Perfect (2M/2V),8.50,legacy_gedeeltelijk
+12,Donderdag,19:00-20:00,TV Osdorp,Baan 1,Guilherme,"Fie Hünneman, Marieke Rodenhuis, Nihad Hassani, Sjoerd Raijmans (toegevoegd)",8-10 (gemengd),Perfect (2M/2V),9.25,legacy_gedeeltelijk
+12,Donderdag,19:00-20:00,TV Osdorp,Baan 2,Youssef,"Josien Duijzer, Shireen Keijzer, Rosa Huetink (toegevoegd), Dave Koekkoek (toegevoegd)",8,"Anders (M:1, V:3)",9.08,legacy_gedeeltelijk
+12,Donderdag,20:00-21:00,TV Osdorp,Baan 1,Guilherme,"Roos Reinders, Helena Heno, Raquel Wijngaarde (toegevoegd), Josh Goldman (toegevoegd)",9,"Anders (M:1, V:3)",9.08,legacy_gedeeltelijk
+12,Donderdag,20:00-21:00,TV Osdorp,Baan 2,Dyan,"Qasim Khan, Marieke Jansen, Loes Stoltenborg, Gertjan de Vries",7-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
+12,Donderdag,21:00-22:00,TV Osdorp,Baan 1,Trainer A,"Corinne Spijker, Romy Boiten, Laura Haakman, Eveline Spijker",7-9 (gemengd),Homogeen (4V),10.00,legacy_volledig
+12,Donderdag,21:00-22:00,TV Osdorp,Baan 2,Trainer B,"Mehmet Sabuncu, Sietho Idsinga, Justine Kist (toegevoegd), Maxine Schultz (toegevoegd)",8,Perfect (2M/2V),9.00,legacy_gedeeltelijk
+12,Donderdag,21:00-22:00,TV Osdorp,Baan 3,Trainer C,"Noelle van Rens, Marleen Ceton, Tessa VAN schie Proost (toegevoegd), Jan-Jaap ten Have (toegevoegd)",7-8 (gemengd),"Anders (M:1, V:3)",8.67,legacy_gedeeltelijk
+12,Vrijdag,20:00-21:00,TV Osdorp,Baan 1,Francois,"Duygu Manav, Aytac Manav, Elmira Baghery (toegevoegd), Fernando Gomez (toegevoegd)",8-9 (gemengd),Perfect (2M/2V),10.00,legacy_volledig
