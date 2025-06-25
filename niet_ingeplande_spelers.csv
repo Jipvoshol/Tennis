@@ -1,0 +1,181 @@
+week,speler_id,naam,locatie_voorkeur,niveau
+1,10,Viathou Bijleveld,Joy Jaagpad,8
+1,15,Brian De leeuw,Joy Jaagpad,7
+1,20,Tim van den Meijdenberg,Joy Jaagpad,6
+1,26,Lisanne Scheffens,Joy Jaagpad,6
+1,28,Doris van Helvert,Joy Jaagpad,10
+1,31,Marjet van Beek,Joy Jaagpad,8
+1,44,Noortje Kallen,Joy Jaagpad,9
+1,48,Sybrich Herrera Farfan,Joy Jaagpad,7
+1,51,Robin Modderaar,Joy Jaagpad,7
+1,53,Floor Pelle,Joy Jaagpad,10
+1,57,Paul Schmidt,Joy Jaagpad,5
+1,61,Guus Sabel,Joy Jaagpad,10
+1,63,Emile Terral,Joy Jaagpad,11
+1,66,Thijs de Vries,Joy Jaagpad,3
+1,70,Nout Knabben,Joy Jaagpad,5
+2,10,Viathou Bijleveld,Joy Jaagpad,8
+2,15,Brian De leeuw,Joy Jaagpad,7
+2,20,Tim van den Meijdenberg,Joy Jaagpad,6
+2,26,Lisanne Scheffens,Joy Jaagpad,6
+2,28,Doris van Helvert,Joy Jaagpad,10
+2,31,Marjet van Beek,Joy Jaagpad,8
+2,44,Noortje Kallen,Joy Jaagpad,9
+2,48,Sybrich Herrera Farfan,Joy Jaagpad,7
+2,51,Robin Modderaar,Joy Jaagpad,7
+2,53,Floor Pelle,Joy Jaagpad,10
+2,57,Paul Schmidt,Joy Jaagpad,5
+2,61,Guus Sabel,Joy Jaagpad,10
+2,63,Emile Terral,Joy Jaagpad,11
+2,66,Thijs de Vries,Joy Jaagpad,3
+2,70,Nout Knabben,Joy Jaagpad,5
+3,10,Viathou Bijleveld,Joy Jaagpad,8
+3,15,Brian De leeuw,Joy Jaagpad,7
+3,20,Tim van den Meijdenberg,Joy Jaagpad,6
+3,26,Lisanne Scheffens,Joy Jaagpad,6
+3,28,Doris van Helvert,Joy Jaagpad,10
+3,31,Marjet van Beek,Joy Jaagpad,8
+3,44,Noortje Kallen,Joy Jaagpad,9
+3,48,Sybrich Herrera Farfan,Joy Jaagpad,7
+3,51,Robin Modderaar,Joy Jaagpad,7
+3,53,Floor Pelle,Joy Jaagpad,10
+3,57,Paul Schmidt,Joy Jaagpad,5
+3,61,Guus Sabel,Joy Jaagpad,10
+3,63,Emile Terral,Joy Jaagpad,11
+3,66,Thijs de Vries,Joy Jaagpad,3
+3,70,Nout Knabben,Joy Jaagpad,5
+4,10,Viathou Bijleveld,Joy Jaagpad,8
+4,15,Brian De leeuw,Joy Jaagpad,7
+4,20,Tim van den Meijdenberg,Joy Jaagpad,6
+4,26,Lisanne Scheffens,Joy Jaagpad,6
+4,28,Doris van Helvert,Joy Jaagpad,10
+4,31,Marjet van Beek,Joy Jaagpad,8
+4,44,Noortje Kallen,Joy Jaagpad,9
+4,48,Sybrich Herrera Farfan,Joy Jaagpad,7
+4,51,Robin Modderaar,Joy Jaagpad,7
+4,53,Floor Pelle,Joy Jaagpad,10
+4,57,Paul Schmidt,Joy Jaagpad,5
+4,61,Guus Sabel,Joy Jaagpad,10
+4,63,Emile Terral,Joy Jaagpad,11
+4,66,Thijs de Vries,Joy Jaagpad,3
+4,70,Nout Knabben,Joy Jaagpad,5
+5,10,Viathou Bijleveld,Joy Jaagpad,8
+5,15,Brian De leeuw,Joy Jaagpad,7
+5,20,Tim van den Meijdenberg,Joy Jaagpad,6
+5,26,Lisanne Scheffens,Joy Jaagpad,6
+5,28,Doris van Helvert,Joy Jaagpad,10
+5,31,Marjet van Beek,Joy Jaagpad,8
+5,44,Noortje Kallen,Joy Jaagpad,9
+5,48,Sybrich Herrera Farfan,Joy Jaagpad,7
+5,51,Robin Modderaar,Joy Jaagpad,7
+5,53,Floor Pelle,Joy Jaagpad,10
+5,57,Paul Schmidt,Joy Jaagpad,5
+5,61,Guus Sabel,Joy Jaagpad,10
+5,63,Emile Terral,Joy Jaagpad,11
+5,66,Thijs de Vries,Joy Jaagpad,3
+5,70,Nout Knabben,Joy Jaagpad,5
+6,10,Viathou Bijleveld,Joy Jaagpad,8
+6,15,Brian De leeuw,Joy Jaagpad,7
+6,20,Tim van den Meijdenberg,Joy Jaagpad,6
+6,26,Lisanne Scheffens,Joy Jaagpad,6
+6,28,Doris van Helvert,Joy Jaagpad,10
+6,31,Marjet van Beek,Joy Jaagpad,8
+6,44,Noortje Kallen,Joy Jaagpad,9
+6,48,Sybrich Herrera Farfan,Joy Jaagpad,7
+6,51,Robin Modderaar,Joy Jaagpad,7
+6,53,Floor Pelle,Joy Jaagpad,10
+6,57,Paul Schmidt,Joy Jaagpad,5
+6,61,Guus Sabel,Joy Jaagpad,10
+6,63,Emile Terral,Joy Jaagpad,11
+6,66,Thijs de Vries,Joy Jaagpad,3
+6,70,Nout Knabben,Joy Jaagpad,5
+7,10,Viathou Bijleveld,Joy Jaagpad,8
+7,15,Brian De leeuw,Joy Jaagpad,7
+7,20,Tim van den Meijdenberg,Joy Jaagpad,6
+7,26,Lisanne Scheffens,Joy Jaagpad,6
+7,28,Doris van Helvert,Joy Jaagpad,10
+7,31,Marjet van Beek,Joy Jaagpad,8
+7,44,Noortje Kallen,Joy Jaagpad,9
+7,48,Sybrich Herrera Farfan,Joy Jaagpad,7
+7,51,Robin Modderaar,Joy Jaagpad,7
+7,53,Floor Pelle,Joy Jaagpad,10
+7,57,Paul Schmidt,Joy Jaagpad,5
+7,61,Guus Sabel,Joy Jaagpad,10
+7,63,Emile Terral,Joy Jaagpad,11
+7,66,Thijs de Vries,Joy Jaagpad,3
+7,70,Nout Knabben,Joy Jaagpad,5
+8,10,Viathou Bijleveld,Joy Jaagpad,8
+8,15,Brian De leeuw,Joy Jaagpad,7
+8,20,Tim van den Meijdenberg,Joy Jaagpad,6
+8,26,Lisanne Scheffens,Joy Jaagpad,6
+8,28,Doris van Helvert,Joy Jaagpad,10
+8,31,Marjet van Beek,Joy Jaagpad,8
+8,44,Noortje Kallen,Joy Jaagpad,9
+8,48,Sybrich Herrera Farfan,Joy Jaagpad,7
+8,51,Robin Modderaar,Joy Jaagpad,7
+8,53,Floor Pelle,Joy Jaagpad,10
+8,57,Paul Schmidt,Joy Jaagpad,5
+8,61,Guus Sabel,Joy Jaagpad,10
+8,63,Emile Terral,Joy Jaagpad,11
+8,66,Thijs de Vries,Joy Jaagpad,3
+8,70,Nout Knabben,Joy Jaagpad,5
+9,10,Viathou Bijleveld,Joy Jaagpad,8
+9,15,Brian De leeuw,Joy Jaagpad,7
+9,20,Tim van den Meijdenberg,Joy Jaagpad,6
+9,26,Lisanne Scheffens,Joy Jaagpad,6
+9,28,Doris van Helvert,Joy Jaagpad,10
+9,31,Marjet van Beek,Joy Jaagpad,8
+9,44,Noortje Kallen,Joy Jaagpad,9
+9,48,Sybrich Herrera Farfan,Joy Jaagpad,7
+9,51,Robin Modderaar,Joy Jaagpad,7
+9,53,Floor Pelle,Joy Jaagpad,10
+9,57,Paul Schmidt,Joy Jaagpad,5
+9,61,Guus Sabel,Joy Jaagpad,10
+9,63,Emile Terral,Joy Jaagpad,11
+9,66,Thijs de Vries,Joy Jaagpad,3
+9,70,Nout Knabben,Joy Jaagpad,5
+10,10,Viathou Bijleveld,Joy Jaagpad,8
+10,15,Brian De leeuw,Joy Jaagpad,7
+10,20,Tim van den Meijdenberg,Joy Jaagpad,6
+10,26,Lisanne Scheffens,Joy Jaagpad,6
+10,28,Doris van Helvert,Joy Jaagpad,10
+10,31,Marjet van Beek,Joy Jaagpad,8
+10,44,Noortje Kallen,Joy Jaagpad,9
+10,48,Sybrich Herrera Farfan,Joy Jaagpad,7
+10,51,Robin Modderaar,Joy Jaagpad,7
+10,53,Floor Pelle,Joy Jaagpad,10
+10,57,Paul Schmidt,Joy Jaagpad,5
+10,61,Guus Sabel,Joy Jaagpad,10
+10,63,Emile Terral,Joy Jaagpad,11
+10,66,Thijs de Vries,Joy Jaagpad,3
+10,70,Nout Knabben,Joy Jaagpad,5
+11,10,Viathou Bijleveld,Joy Jaagpad,8
+11,15,Brian De leeuw,Joy Jaagpad,7
+11,20,Tim van den Meijdenberg,Joy Jaagpad,6
+11,26,Lisanne Scheffens,Joy Jaagpad,6
+11,28,Doris van Helvert,Joy Jaagpad,10
+11,31,Marjet van Beek,Joy Jaagpad,8
+11,44,Noortje Kallen,Joy Jaagpad,9
+11,48,Sybrich Herrera Farfan,Joy Jaagpad,7
+11,51,Robin Modderaar,Joy Jaagpad,7
+11,53,Floor Pelle,Joy Jaagpad,10
+11,57,Paul Schmidt,Joy Jaagpad,5
+11,61,Guus Sabel,Joy Jaagpad,10
+11,63,Emile Terral,Joy Jaagpad,11
+11,66,Thijs de Vries,Joy Jaagpad,3
+11,70,Nout Knabben,Joy Jaagpad,5
+12,10,Viathou Bijleveld,Joy Jaagpad,8
+12,15,Brian De leeuw,Joy Jaagpad,7
+12,20,Tim van den Meijdenberg,Joy Jaagpad,6
+12,26,Lisanne Scheffens,Joy Jaagpad,6
+12,28,Doris van Helvert,Joy Jaagpad,10
+12,31,Marjet van Beek,Joy Jaagpad,8
+12,44,Noortje Kallen,Joy Jaagpad,9
+12,48,Sybrich Herrera Farfan,Joy Jaagpad,7
+12,51,Robin Modderaar,Joy Jaagpad,7
+12,53,Floor Pelle,Joy Jaagpad,10
+12,57,Paul Schmidt,Joy Jaagpad,5
+12,61,Guus Sabel,Joy Jaagpad,10
+12,63,Emile Terral,Joy Jaagpad,11
+12,66,Thijs de Vries,Joy Jaagpad,3
+12,70,Nout Knabben,Joy Jaagpad,5
