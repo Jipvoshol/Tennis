@@ -1,7 +1,7 @@
 Configuratie geladen uit: /home/jip/Meerkat/Meerkat/Planning/code/planning_config.json
 === PLANNING MET LEGACY GROEPEN ONDERSTEUNING ===
 Geladen: 71 spelers
-SamenMet voorkeuren gevonden voor 34 spelers
+SamenMet voorkeuren gevonden voor 28 spelers
 Geladen: 457 beschikbare baantijden
 Geladen: 102 legacy groepen
 Geladen: 84 trainer beschikbaarheidsrecords
@@ -34,6 +34,12 @@ Start globale optimalisatie...
     Fase 1: Groep verplaatsing...
       0 groep verplaatsingen
     Fase 2: Speler swapping...
+      24 speler swaps
+    Totaal: 24 verbeteringen gevonden
+  Iteratie 2/10
+    Fase 1: Groep verplaatsing...
+      0 groep verplaatsingen
+    Fase 2: Speler swapping...
       0 speler swaps
     Fase 3: Groep hersamenstelling...
       0 groep hersamensstellingen
@@ -45,7 +51,7 @@ Totale planning na optimalisatie: 168 trainingen over 12 weken
 
 === FASE 3: TRAINER TOEWIJZING (MET BLOK-OPTIMALISATIE) ===
   Echte trainer records: 84
-  Totaal beschikbaar (incl. dummies): 105 records
+  Totaal beschikbaar (incl. dummies): 102 records
   Totaal toegewezen: 168 van de 168 trainingen.
     - Echte trainers: 156
     - Dummy trainers: 12
@@ -66,12 +72,12 @@ WEEK 1 (representatief voor alle weken)
   Niet ingeplande spelers: 15
 
 KWALITEITSANALYSE
-  Gemiddelde score: 7.00
-  Hoogste score: 8.00
-  Excellent (>9.0): 0 (0.0%)
-  Good (7.0-9.0): 108 (64.3%)
-  Average (5.0-7.0): 60 (35.7%)
-  Poor (<5.0): 0 (0.0%)
+  Gemiddelde score: 7.38
+  Hoogste score: 9.80
+  Excellent (>9.0): 24 (14.3%)
+  Good (7.0-9.0): 84 (50.0%)
+  Average (5.0-7.0): 48 (28.6%)
+  Poor (<5.0): 12 (7.1%)
 
 GROEPSTYPEN (totaal aantal trainingen over alle weken)
   Volledige legacy trainingen: 0
@@ -82,16 +88,16 @@ UNIEKE VOLLEDIGE LEGACY GROEPEN: 0
 
 OVERZICHT UNIEKE VOLLEDIGE LEGACY GROEPEN:
 GENDER VERDELING (totaal)
-  Homogeen (4V): 84 (50.0%)
-  Perfect (2M/2V): 48 (28.6%)
-  Homogeen (4M): 36 (21.4%)
+  Homogeen (4V): 108 (64.3%)
+  Homogeen (4M): 48 (28.6%)
+  Perfect (2M/2V): 12 (7.1%)
 
 NIVEAU VERDELING (top 5)
+  7-8 (gemengd): 36 (21.4%)
+  9-10 (gemengd): 24 (14.3%)
   7: 24 (14.3%)
-  9: 24 (14.3%)
-  10: 24 (14.3%)
-  8: 24 (14.3%)
-  7-8 (gemengd): 24 (14.3%)
+  9: 12 (7.1%)
+  10: 12 (7.1%)
 
 TRAINER TOEWIJZING (totaal over alle weken)
   Aantal unieke echte trainers: 4
@@ -106,17 +112,19 @@ TRAINER TOEWIJZING (week 1)
   Unieke echte trainers in week 1: 4
   Unieke dummy trainers in week 1: 1
   Overzicht trainingen per trainer (week 1):
-    Raymon: 7 trainingen
+    Raymon: 6 trainingen
     Pedro: 4 trainingen
+    Guilherme: 2 trainingen
     Louk: 1 trainingen
-    Guilherme: 1 trainingen
     Trainer A: 1 trainingen
 
 NIET INGEPLANDE SPELERS (Week 1)
   Aantal: 15
-  Voorbeelden: Viathou Bijleveld, Brian De leeuw, Tim van den Meijdenberg, Eliza Arzhakova, Marjet van Beek ... en 10 anderen
+  Voorbeelden: Viathou Bijleveld, Brian De leeuw, Tim van den Meijdenberg, Lisanne Scheffens, Doris van Helvert ... en 10 anderen
 
 PERCENTAGE INGEPLAND (week 1): 78.9% van alle spelers uit de dataset
+
+Aantal wensen naar niet-bestaande spelers (dangling wishes): 16
 
 ============================================================
 PLANNING VOLTOOID
